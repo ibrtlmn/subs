@@ -1,5409 +1,5597 @@
 1
-00:02:47,820 --> 00:02:51,662
-- Baba...
-- Henry... sen Ne yaptın?
+00:01:00,602 --> 00:01:03,646
+Babam�n Laneti
 
 2
-00:02:52,460 --> 00:02:55,662
-- Seni bulacağımı söylemiştim.
-- Bana bak, oğlum...
+00:01:06,900 --> 00:01:07,917
+ARANIYOR
+JACK SPARROW
 
 3
-00:02:58,780 --> 00:03:02,262
-- Umurumda değil!
-- Hollandalılar senin için yer yok.
+00:01:07,984 --> 00:01:09,486
+�100 �D�L
+�L� YA DA D�R�
 
 4
-00:03:06,180 --> 00:03:09,382
-Burada olduğunu biliyorlar.
-Şimdi annenle git.
+00:01:12,822 --> 00:01:14,407
+Dara�ac�    Fener
+Kraliyet
 
 5
-00:03:09,416 --> 00:03:10,416
-Hayır!
+00:02:58,345 --> 00:03:02,766
+U�AN HOLLANDALI
 
 6
-00:03:10,940 --> 00:03:14,182
-Çok geç olmadan hemen git.
-- Bunu yapmayacağım!
-
-7
-00:03:14,540 --> 00:03:17,422
-Durmayacağım...
-Ve beni reddetmek her zaman...
-
-8
-00:03:17,740 --> 00:03:19,542
-Hemen geri geleceğim.
-
-9
-00:03:20,780 --> 00:03:22,822
-Bir lanet için beni bağlar
-bu gemi, görmüyor musun?
-
-10
-00:03:22,860 --> 00:03:23,982
-Buraya bu yüzden geldim.
-
-11
-00:03:24,140 --> 00:03:26,062
-Nasıl zaten biliyorum
-laneti kırmak...
-
-12
-00:03:26,100 --> 00:03:27,502
-Hollandalılar ücretsiz.
-
-13
-00:03:27,580 --> 00:03:30,102
-- Henry, hayır...
-- Bir hazine okudum...
-
-14
-00:03:30,140 --> 00:03:32,582
-Bir hazine içeren
-denizin tüm güç,
-
-15
-00:03:32,620 --> 00:03:33,702
-Poseidon Trident...
-
-16
-00:03:33,780 --> 00:03:35,422
-laneti kırmak.
-
-17
-00:03:38,540 --> 00:03:39,742
-Henry...
-
-18
-00:03:40,860 --> 00:03:42,862
-Trident asla bulunamayacak.
-
-19
-00:03:43,380 --> 00:03:44,942
-Seni bulabilirim.
-
-20
-00:03:45,820 --> 00:03:48,662
-- Sadece bir hikaye.
-- Hikayeler aynı...
-
-21
-00:03:48,700 --> 00:03:50,182
-ve Kaptan Jack Sparrow?
-
-22
-00:03:50,220 --> 00:03:51,902
-Trident bulmam için bana yardım edecek.
-
-23
-00:03:51,936 --> 00:03:53,502
-Jack uzaklaşmak...
-
-24
-57,102 03 00:03:54,060 --> 00::
-Sonsuza kadar denize bırak.
-Bir çocuk gibi davranma.
-
-25
-00:03:57,140 --> 00:03:59,662
-Bir korsan...
-Durmayacağım...
-
-26
-00:04:00,620 --> 00:04:02,102
-Eve kadar değil.
-
-27
-00:04:09,420 --> 00:04:10,542
-Henry...
-
-28
-00:04:11,500 --> 00:04:12,742
-Özür dilerim.
-
-29
-00:04:14,620 --> 00:04:16,462
-Ama benim lanetim
-asla kırılamayacak.
-
-30
-00:04:19,100 --> 00:04:20,542
-Bu benim kaderim.
-
-31
-00:04:21,300 --> 00:04:23,182
-Gitmeme izin vermelisin.
-
-32
-00:04:30,020 --> 00:04:31,422
-Seni seviyorum oğlum.
-
-33
-00:04:59,700 --> 00:05:01,342
-Kaptan Jack Sparrow.
-
-34
-09,662 05 00:05:05,140 --> 00::
-9 YIL </><i>
-
-35
-00:05:26,060 --> 00:05:30,222
-Daha hızlı işe yaramaz fareler ve
-zavallı, ketine pompa...
-
-36
-00:05:30,300 --> 00:05:31,862
-ve hükümler kaynağı.
-
-37
-00:05:31,940 --> 00:05:34,182
-Korsanlar takip ediyoruz.
-
-38
-37,822 05 00:05:34,220 --> 00::
-Henry buraya döner... istemiyorum
-başka bir tekneden atılmak.
-
-39
-00:05:37,980 --> 00:05:41,302
-Bir corvette... Belki
-korsan Mermi tarafından çalındı.
-
-40
-00:05:50,540 --> 00:05:51,862
-Tanrım...
-
-41
-00:05:52,380 --> 00:05:54,222
-Yazınızı, çocuk bırakmamak için seni uyarmıştım.
-
-42
-00:05:54,260 --> 00:05:55,432
-Kaptan konuşmam lazım.
-
-43
-00:05:55,456 --> 00:05:56,862
-- Ne dedin?
-- Hareket.
-
-44
-00:06:05,220 --> 00:06:06,702
-Girerek, Lord.
-
-45
-00:06:08,460 --> 00:06:09,582
-Persíganla.
-
-46
-00:06:13,420 --> 00:06:15,022
-Hayır, bunu yapmayın!
-
-47
-00:06:16,380 --> 00:06:17,222
-Yapmayın.
-
-48
-00:06:17,260 --> 00:06:19,782
-Adresi olmaz
-Kaptan, çocuk.
-
-49
-00:06:19,820 --> 00:06:22,022
-Lord, mektuplarını okumak...
-Bizi alıyorlar sanırım...
-
-50
-00:06:22,060 --> 00:06:23,262
-Şeytan Üçgeni.
-
-51
-00:06:23,340 --> 00:06:24,422
-Bu adam duydunuz mu?
-
-52
-00:06:24,460 --> 00:06:27,462
-Bu çaylak inandığı
-eski bir denizci efsanesi.
-
-53
-00:06:27,500 --> 00:06:28,500
-Lord.
-
-54
-00:06:28,780 --> 00:06:30,742
-Tüm saygımla geçirdim
-hayatımı okuyan...
-
-55
-00:06:30,780 --> 00:06:33,262
-deniz efsaneleri...
-Tüm efsane ve lanet biliyorum.
-
-56
-00:06:33,740 --> 00:06:35,422
-Gemiler olduğunu biliyorum
-Üçgen girin
-
-57
-00:06:35,460 --> 00:06:36,476
-mutlaka dışarı çıkmayın...
-
-58
-00:06:36,500 --> 00:06:37,500
-Merak etme, Lord.
-
-59
-00:06:38,540 --> 00:06:41,502
-Rahatsız olduğunu açıktır. Ben ne dersem "RAB, iman.
-
-60
-00:06:41,536 --> 00:06:42,462
-Değiştirebilir.
-
-61
-00:06:42,500 --> 00:06:44,982
-Bana vermeye cesaretin var mı
-emir, oğlum?
-
-62
-00:06:45,020 --> 00:06:46,020
-Kes şunu!
-
-63
-00:06:46,500 --> 00:06:47,622
-Turner!
-
-64
-00:06:48,100 --> 00:06:49,782
-Hepimizi öldürecekler.
-
-65
-00:06:51,660 --> 00:06:52,702
-Hadi.
-
-66
-00:07:08,060 --> 00:07:09,222
-Bu bir ihanettir!
-
-67
-00:07:12,420 --> 00:07:13,182
-Onu aşağı çekmek.
-
-68
-00:07:13,300 --> 00:07:14,582
-Hayır, bunu yapmayın!
-
-69
-00:07:21,100 --> 00:07:23,222
-Son şansın,
-Turner...
-
-70
-00:07:25,900 --> 00:07:28,622
-Benim için olsaydı,
-Direk sana asılırdım.
-
-71
-00:07:29,340 --> 00:07:30,462
-Güverteye!
-
-72
-00:07:39,260 --> 00:07:40,862
-Jack Sparrow...
-
-73
-00:07:41,660 --> 00:07:42,902
-Öldü...
-
-74
-00:07:43,260 --> 00:07:46,262
-Bir mezarda bir olmadan yatıyor
-San Martin durmak.
-
-75
-00:08:18,140 --> 00:08:20,382
-Tanrım, suda bir şey var.
-
-76
-00:08:22,140 --> 00:08:23,302
-Gemi sancak tarafına!
-
-77
-00:08:25,820 --> 00:08:28,622
-Bir gemi değil, Lord...
-Bir gemi enkazı.
-
-78
-00:08:39,300 --> 00:08:40,302
-Hayır.
-
-79
-00:08:41,180 --> 00:08:42,822
-Doğrudan bize gidin...
-
-80
-00:08:43,220 --> 00:08:45,382
-Ateş açın!
-
-81
-00:10:04,540 --> 00:10:06,302
-Nesin sen?
-
-82
-00:10:12,100 --> 00:10:13,422
-Ölüm.
-
-83
-05,382 11 00:11:02,740 --> 00::
-<ARIYORUM>!
->Ben JACK SPARROW</
-
-84
-09,342 11 00:11:07,660 --> 00::
-Jack Sparrow...
-
-85
-16,782 11 00:11:15,100 --> 00::
-Bu korsan biliyor musun?
-
-86
-00:11:18,380 --> 00:11:21,422
-- Sadece isim olarak.
-- Bakar mısın?
-
-87
-31,742 11 00:11:28,940 --> 00::
-- Evet...
-- Evet. Yıllardır Üçgeni bizi lanetlemiş.
-
-88
-35,942 11 00:11:32,780 --> 00::
-Bu bizi kınayan
-Yeryüzünde cehennem...
-
-89
-38,942 11 00:11:36,100 --> 00::
-Anahtar kaçış için...
-
-90
-41,262 11 00:11:39,540 --> 00::
-Jack Sparrow...
-Ve bu pusula tutuyor.
-
-91
-45,502 11 00:11:41,340 --> 00::
-Hayır, hayır. Bana yok
-korkmuş çocuk...
-
-92
-48,142 11 00:11:45,980 --> 00::
-Her zaman bırakıyorum
-adam hayatta...
-
-93
-50,302 11 00:11:48,180 --> 00::
-Hikayesini anlatıyor.
-
-94
-51,502 11 00:11:50,340 --> 00::
-Benim için Serçe bulabilirsiniz.
-Ve bir mesaj alabilir.
-
-95
-56,662 11 00:11:52,300 --> 00::
-Kaptan Salazar...
-
-96
-58,542 11 00:11:56,700 --> 00::
-Salazar.
-
-97
-00,302 12 00:11:58,860 --> 00::
-Bakın edeceğimi söyler
-gün tekrar ışık...
-
-98
-05,622 12 00:12:01,660 --> 00::
-Ve o gün...
-
-99
-07,702 12 00:12:06,140 --> 00::
-Ölüm.
-
-100
-14,382 12 00:12:13,020 --> 00::
-
-
-101
-00:12:15,740 --> 00:12:18,582
-Ölüm ona doğru gidecek.
-
-102
-22,422 12 00:12:19,740 --> 00::
-Ona söyler misin?
-Lütfen?
-
-103
-25,262 12 00:12:22,540 --> 00::
-- Evet.
-- Bizzat söylemek isterdim ama...
-
-104
-28,862 12 00:12:26,780 --> 00::
-Ölüler hikayeler anlatmak.
-
-105
-00:12:43,940 --> 00:12:51,940
-Karayip Korsanları i><:
-Ölüler (2017)Masal Anlatmaz
-TaMaBin</yarattığı i>
-
-106
-58,422 12 00:12:56,340 --> 00::
-<SAN MARTİN, KARAYİP>.
-- >Carina Smyth...</i
-
-107
-01,182 13 00:12:58,780 --> 00::
-<yetim olduğun i>,
-Şeytan'ın çocuğu...</i>
-
-108
-03,542 13 00:13:01,420 --> 00::
-Cadılık yapmakla suçladı.
-
-109
-00:13:04,220 --> 00:13:05,702
-Ölmeden önce...
-
-110
-00:13:06,140 --> 00:13:08,542
-İtiraf etmem gereken bir şey var mı?
-
-111
-15,542 13 00:13:10,700 --> 00::
-Bir Cadı olduğumu İTİRAF EDİYORUM.
-Bilim kadınıyım.
-
-112
-19,942 13 00:13:15,860 --> 00::
-Yalnız kurtuldum İTİRAF EDİYORUM,
-bir günlük Daha fazla bir şey ile...
-
-113
-21,342 13 00:13:19,980 --> 00::
-hiç tanımadığım bir baba...
-
-114
-24,782 13 00:13:22,100 --> 00::
-Ve benim kim olduğum gerçeği aramak.
-
-115
-28,702 13 00:13:24,820 --> 00::
-Arama ayrıldım önce öleceğim İTİRAF EDİYORUM.
-
-116
-30,302 13 00:13:28,940 --> 00::
-Ve itiraf ediyorum...
-
-117
-34,302 13 00:13:31,300 --> 00::
-Ne konuşurken...
-Kilidi açtım.
-
-118
-46,702 13 00:13:41,420 --> 00::
-Bu gün açıldı...
-San Martin Kraliyet Bankası.
-
-119
-56,302 13 00:13:51,580 --> 00::
-Tüm Karayipler'deki en güvenli bankacılık Kurumu.
-
-120
-00:14:04,340 --> 00:14:05,782
-Yeni kasa...
-
-121
-00:14:05,820 --> 00:14:08,022
-12 cm. Kalınlığı...
-
-122
-00:14:08,100 --> 00:14:10,622
-imparatorluk ve bir ton ağırlığında.
-
-123
-00:14:11,140 --> 00:14:12,862
-Buldum!
-
-124
-00:14:13,180 --> 00:14:14,062
-Yakala onu!
-
-125
-00:14:14,140 --> 00:14:15,401
-Kaçmasına izin vermeyin.
-
-126
-00:14:15,435 --> 00:14:16,662
-O Cadıyı Durdur!
-
-127
-00:14:25,660 --> 00:14:29,382
-Bu banka, kasaba ile
-San Martin...
-
-128
-00:14:29,500 --> 00:14:31,942
-modern dünyanın katılır...
-
-129
-00:14:38,020 --> 00:14:40,182
-Çok özür dilerim, Tanrım...
-Cadı zincirleri onu serbest bıraktı.
-
-130
-00:14:41,580 --> 00:14:43,302
-Bul
-hızlı büyücü...
-
-131
-00:14:43,336 --> 00:14:45,102
-Bunun yerine onları asarım.
-
-132
-00:14:45,580 --> 00:14:47,142
-- Lord.
-- Bay
-
-133
-00:14:48,940 --> 00:14:52,182
-Hiçbir erkek ya da ordu...
-
-134
-00:14:52,220 --> 00:14:56,022
-Mayıs çaldı
-San Martin altın.
-
-135
-00:14:56,860 --> 00:14:58,542
-Kasayı aç!
-
-136
-00:15:13,500 --> 00:15:14,702
-Korsan!
-
-137
-00:15:15,980 --> 00:15:17,102
-Korsan?
-
-138
-00:15:18,060 --> 00:15:19,060
-Korsanlar!
-
-139
-38,942 15 00:15:34,620 --> 00::
-Bu garip bir soru gibi gelecek...
-Ama biri açıklayabilir...
-
-140
-00:15:39,660 --> 00:15:41,542
-Burada ne yapıyorum?
-
-141
-00:15:50,540 --> 00:15:51,540
-Merhaba?
-
-142
-00:15:52,620 --> 00:15:54,102
-Bekle, bekle, geri gel bana.
-
-143
-00:15:54,460 --> 00:15:56,662
-Zihnimi temizlemek için sadece bir dakikaya ihtiyacım var.
-
-144
-00:16 00 15:58,140 --> ::01,262
-Amaç Hazırlayın.
-
-145
-08,022 00:16:00 04,300 --> :16:
-Kimse ateş etmeyecek... bir
-kasada onunla kadın.
-
-146
-14,022 00:16:00 11,980 --> :16:
-Al
-pis sürtük.
-
-147
-18,062 00 14,140 --> 00:16::16:
-Efendim, karısı bence
-
-148
-24,822 00 23,500 --> 00:16::16:
-Francis?
-
-149
-28,302 00:16:00 26,860 --> :16:
-Hatırladım...
-
-150
-32,382 00:16:00 29,980 --> :16:
-Hatırladım...
-Banka çalacak!
-151
-34,022 00:16:00 32,420 --> :16:
-Vur onu!
-
-152
-00:17:20,060 --> 00:17:21,822
-Bu planın bir parçası değildi.
-
-153
-00:17:23,740 --> 00:17:26,302
-Kes şunu!
-Kaçıyor!
-
-154
-00:17:51,100 --> 00:17:52,742
-Kaçmasına izin vermeyin!
-
-155
-00:18:06,380 --> 00:18:10,262
-KÖPEK><i, ben HİÇ KADIN</a>
-
-156
-00:18:25,100 --> 00:18:27,942
-Hiç bir kadın vardı
-aracım dokundu.
-
-157
-37,742 00:18:36,220 --> 00:18:
-Aç kapıyı!
-
-158
-00:18:38,900 --> 00:18:40,542
-Hayır, hayır, hayır, hayır!
-
-159
-00:18:43,300 --> 00:18:44,702
-Efendim?
-
-160
-00:18:57,660 --> 00:18:59,302
-Her şeyi sancak!
-
-161
-00:19:16,940 --> 00:19:19,262
-Lord... 
-Göksel mektup sapmış...
-
-162
-00:19:19,340 --> 00:19:22,782
-İki derece Kuzey ayarı...
-Harita artık yanlış olacaktır.
-
-163
-00:19:23,020 --> 00:19:25,102
-Olacak olsa
-sıfırdan başlayarak.
-
-164
-00:19:25,140 --> 00:19:26,142
-Bir Cadı...
-
-165
-00:19:26,220 --> 00:19:29,062
-Hayır, değilim. ben bir
-Kataloğa sahip olmak için cadı...
-
-166
-00:19:29,100 --> 00:19:31,582
-200'den fazla yıldız? "Cadı!"
-
-167
-00:19:33,620 --> 00:19:35,302
-Yakında kan ay olacak.
-
-168
-00:19:35,460 --> 00:19:37,302
-Sadece satın almak için geldim...
-
-169
-00:19:37,980 --> 00:19:39,302
-Bir kronometre.
-
-170
-00:19:40,140 --> 00:19:42,182
-Çift ödüyorum
-bir kadın için satmak.
-
-171
-00:19:42,300 --> 00:19:43,342
-Bana yardım et!
-
-172
-00:19:46,060 --> 00:19:49,502
-Yardım. Bir
-Dükkanımda cadı.
-
-173
-00:19:51,660 --> 00:19:52,822
-Ve bir korsan!
-
-174
-00:19:52,980 --> 00:19:55,102
-Dükkanımda bir korsan ve bir Cadı.
-
-175
-00:19:55,180 --> 00:19:56,622
-Senin şanslı günün!
-
-176
-00:19:57,460 --> 00:19:59,862
-Dördünden biri vardır
-banka gördün mü?
-
-177
-00:20:03,260 --> 00:20:04,422
-Buldum...
-
-178
-00:20:08,140 --> 00:20:10,982
-- Planın bir parçası değildi.
-- Sorun yok...
-
-179
-00:20:11,220 --> 00:20:12,822
-Yaşamanın ne korkunç bir yol.
-
-180
-00:20:20,980 --> 00:20:23,782
-- Cadı yakala! Kes şunu!
-- Bizi yakaladılar...
-
-181
-00:20:24,140 --> 00:20:25,140
-Ne yapacağız?
-
-182
-00:20:28,220 --> 00:20:29,942
-Bağırmalısın.
-
-183
-00:20:32,700 --> 00:20:34,622
-Orada! "Bırak o kadını!"
-
-184
-00:20:36,620 --> 00:20:40,062
-- İğrenç korsan!
-- Hakaret etmek zorunda değilsiniz!
-
-185
-18,942 21 00:21:16,820 --> 00::
-Tanrım!
-
-186
-00:21:23,460 --> 00:21:24,662
-Bridge?
-
-187
-00:21:59,340 --> 00:22:00,340
-Boş!
-
-188
-00:22:01,660 --> 00:22:02,702
-Altın nerede?
-
-189
-00:22:02,740 --> 00:22:04,782
-Bir banka kolay çalmak sizce?
-
-190
-00:22:05,260 --> 00:22:07,942
-İğrenç
-işe yaramaz olanları suçlamak...
-
-191
-00:22:08,020 --> 00:22:10,382
-içinde sona ereceğini
-bu ilk etapta karmaşa.
-
-192
-00:22:11,020 --> 00:22:13,462
-Şimdi kendinizi form ve
-bana haraç sunuyoruz.
-
-193
-00:22:14,460 --> 00:22:16,062
-Ödeme yapmamızı istersin?
-
-194
-00:22:16,300 --> 00:22:18,182
-Hala ben
-Bu geminin kaptanı?
-
-195
-00:22:19,220 --> 00:22:21,382
-Bu gemi ne diyorsun?
-
-196
-00:22:21,660 --> 00:22:25,102
-- Hazine nerede?
-- Açlıktan ölürüz.
-
-197
-00:22:25,140 --> 00:22:27,462
-Gemisiz bir Kaptan aşağıdaki bir anlamı yok.
-
-198
-00:22:27,496 --> 00:22:28,742
-Bir gemi var...
-
-199
-00:22:30,620 --> 00:22:33,302
-Siyah İnci asla yanımdan ayrıldı.
-
-200
-00:22:33,660 --> 00:22:36,382
-Korsan Barbossa kuralları
-bu denizlerde artık.
-
-201
-00:22:36,780 --> 00:22:39,382
-10 gemi var...
-Hepsi silahlı.
-
-202
-00:22:39,900 --> 00:22:43,262
-Ve büyük topları ile...
-Her biri 8 kg ağırlığında. Söylüyorlar.
-
-203
-00:22:43,296 --> 00:22:45,382
-Büyük mermi ile tek bacaklı adam?
-
-204
-00:22:45,980 --> 00:22:47,502
-Çok garip yürüyor.
-
-205
-00:22:47,940 --> 00:22:49,542
-Arkadaşlar ne olacak?
-
-206
-00:22:49,580 --> 00:22:51,782
-Ne Hazine buluruz
-Makedonya birlikte?
-
-207
-00:22:51,860 --> 00:22:53,582
-Bu Hazine bir aldatmaca olduğunu...
-
-208
-00:22:53,620 --> 00:22:56,142
-- Kral Midas altın...
-Gübre - bir yığın.
-
-209
-00:22:56,620 --> 00:22:59,022
-Jack itiraf...
-Kötü şans sizi takip ediyor.
-
-210
-00:22:59,056 --> 00:22:59,942
-gün ve gece.
-
-211
-02,622 23 00:22:59,980 --> 00::
-Bu bir yalan!
-Çok yanlış.
-
-212
-10,382 23 00:23:07,500 --> 00::
-- Şansını kaybettin...
-- Gemi kaybettin.
-
-213
-13,182 23 00:23:10,620 --> 00::
-Ve şimdi, sen kaybettin
-ekibinle.
-
-214
-16,502 23 00:23:13,660 --> 00::
-Jack Sparrow artık kaptanımız olacak.
-
-215
-25,022 23 00:23:20,700 --> 00::
-Jack özür dilerim... Ama biz
-ufkun sonuna ulaştı.
-
-216
-37,622 23 00:23:36,460 --> 00::
-Anlıyorum...
-
-217
-39,942 23 00:23:38,860 --> 00::
-Ateş ediyorlar!
-
-218
-40,942 23 00:23:40,140 --> 00::
-Duydun mu?
-
-219
-43,182 23 00:23:41,100 --> 00::
-Herkes kovuldu!
-
-220
-46,382 23 00:23:44,140 --> 00::
-Kaptan ile seyahat değil
-Jack Sparrow yine.
-
-221
-47,622 23 00:23:46,460 --> 00::
-Kesinlikle.
-
-222
-00:24:35,100 --> 00:24:36,862
-Tüm insanlar hakkında konuşmak...
-
-223
-00:24:37,260 --> 00:24:40,302
-Hükümdar tek kurtulan...
-Kaldırır genç adam...
-
-224
-00:24:40,380 --> 00:24:42,316
-tüm yol
-Akıntıya Karşı San Martin... 
-
-225
-00:24:42,340 --> 00:24:43,862
-basit bir tahta üzerinde.
-
-226
-00:24:44,140 --> 00:24:47,022
-Ve korsanlar hakkında konuştular.
-
-227
-00:24:47,420 --> 00:24:49,142
-Ve Tridents...
-
-228
-00:24:49,180 --> 00:24:51,262
-Lütfen Tanrım.
-bana bu zincirler.
-
-229
-00:24:51,300 --> 00:24:54,502
-İşimi korumak için
-bu Ada... Ve bu sular...
-
-230
-00:24:55,340 --> 00:25:00,422
-Ve kollarını kopardı...
-İhanetin işareti.
-
-231
-00:25:00,540 --> 00:25:01,386
-Ölü saldırıya uğradı.
-
-232
-00:25:01,420 --> 00:25:03,462
-Korkak kim
-savaştan kaçtı.
-
-233
-00:25:04,220 --> 00:25:06,102
-Ve aynı öleceksin!
-
-234
-00:25:18,060 --> 00:25:21,782
-- Bir korkak olduğunu düşünmüyorum.
-- Lütfen, kardeşim bana bırakın.
-
-235
-00:25:21,816 --> 00:25:23,422
-Hayatımı riske
-buraya gelmek için...
-
-236
-00:25:23,860 --> 00:25:25,542
-Söylentilerin doğru olup olmadığını görmek için.
-
-237
-00:25:25,900 --> 00:25:29,342
-- Trident arıyorsunuz?
-- Kimsin sen?
-
-238
-00:25:29,380 --> 00:25:34,462
-Trident istiyorsun söyle neden?
-- Trident sonları...
-
-239
-00:25:34,500 --> 00:25:35,982
-deniz bir lanet.
-
-240
-00:25:37,500 --> 00:25:39,382
-Babam böyle bir lanet mahsur kaldı.
-
-241
-00:25:39,420 --> 00:25:41,542
-Lanetlerin bilimin desteği yoktur.
-
-242
-00:25:41,780 --> 00:25:44,782
-- Ne lanet... - deli misin?
-
-243
-00:25:44,980 --> 00:25:47,262
-- Buraya hiç gelmemeliydim. "Ve neden buraya geldin?"
-
-244
-00:25:47,900 --> 00:25:49,662
-İhtiyacım olduğu için
-kaçış bu Ada...
-
-245
-00:25:49,780 --> 00:25:50,902
-Ve bu haritayı çözmek...
-
-246
-00:25:50,980 --> 00:25:52,142
-Hiçbir erkek okuyabilirsiniz.
-
-247
-00:25:52,620 --> 00:25:54,302
-Poseidón bıraktığı
-şahsen...
-
-248
-00:25:56,540 --> 00:26:00,102
-- Atalarının metni okudunuz mu?
-- Yazılmış her dilde...
-
-249
-00:26:02,620 --> 00:26:04,382
-Ama bu harita hiç görmemiştim ya da okundu...
-
-250
-00:26:04,416 --> 00:26:05,582
-herhangi bir adam tarafından.
-
-251
-00:26:06,380 --> 00:26:07,942
-Neyse ki ben bir kadınım.
-
-252
-00:26:11,740 --> 00:26:14,382
-Bu günlük
-Galileo Galilei.
-
-253
-00:26:14,700 --> 00:26:17,062
-Aradığın hayat geçirmek istiyorum
-Trident,
-
-254
-00:26:17,100 --> 00:26:19,422
-ben icat ettim ve bu yüzden
-teleskop...
-
-255
-00:26:19,460 --> 00:26:22,462
-astronomlar neden gökyüzüne bakarak hayatlarını geçirirler.
-
-256
-00:26:23,500 --> 00:26:25,662
-Harita diyorsun ki
-hiçbir erkek okuyabilirsiniz
-
-257
-27,426 26 00:26:26,100 --> 00::
-yıldızlar gizler?
-
-258
-00:26:27,460 --> 00:26:30,742
-Babam bıraktı...
-Bulacağını sanıyordu.
-
-259
-00:26:30,820 --> 00:26:33,022
-adam ne
-hiç bulmuştur.
-
-260
-00:26:33,060 --> 00:26:34,502
-Ve seni hayal kırıklığına uğratmayacağım.
-
-261
-37,742 26 00:26:35,340 --> 00::
-Yakında olacak
-kan ay...
-
-262
-00:26:37,780 --> 00:26:39,782
-Ancak o zaman
-harita okuyabilir.
-
-263
-00:26:40,620 --> 00:26:43,702
-- Ve Trident bulunacak.
-- Kimsin sen?
-
-264
-00:26:43,900 --> 00:26:47,062
-- Carina Smyth!
-- Babanı kurtarmak için...
-
-265
-00:26:47,100 --> 00:26:49,822
-Beni kurtarmak zorunda kalacak.
-Bize bir gemi var.
-
-266
-00:26:49,860 --> 00:26:51,262
-Ve Trident bizim olacak.
-
-267
-00:26:52,900 --> 00:26:54,342
-Cadı kaçış yok!
-
-268
-00:26:58,580 --> 00:26:59,942
-Dur!
-
-269
-07,982 00:27:06,780 --> 00:27:
-Gitti...!
-
-270
-10,262 00:27:09,020 --> 00:27:
-Lord...
-
-271
-14,582 00:27:12,940 --> 00:27:
-Korkak bulun!
-
-272
-17,062 00:27:15,100 --> 00:27:
-Cadı ile asılacak.
-
-273
-18,182 00:27:17,100 --> 00:27:
-Yürü!
-
-274
-21,622 00:27:19,220 --> 00:27:
-Jack'in Kaptan mı
-küvette boğuldu?
-
-275
-25,142 00:27:22,540 --> 00:27:
-Yıl içinde kalmış.
-
-276
-30,742 00:27:29,340 --> 00:27:
-Orada olun.
-
-277
-33,902 00:27:31,100 --> 00:27:
-Sen, kilise kontrol edin.
-Diğerleri beni takip edin.
-
-278
-42,142 00:27:40,980 --> 00:27:
-Lanet olsun!
-
-279
-00:28:01,500 --> 00:28:05,982
-- Bir içki alabilir miyim?
-- Bana parayı göster.
-
-280
-00:28:06,060 --> 00:28:07,060
-Ne diyorsun?
-
-281
-15,662 00:28:14,060 --> 00:28:
-Bir takas yapmak istiyorum.
-
-282
-00:28:18,540 --> 00:28:19,822
-Şişeyi bana ver.
-
-283
-16,262 00:29:15,140 --> 00:29:
-Kaptan...
-
-284
-18,582 00:29:17,220 --> 00:29:
-Ne oluyor?
-
-285
-26,862 00:29:22,860 --> 00:29:
-Jack Sparrow Jack Sparrow var
-pusula bıraktı.
-
-286
-41,542 00:29:39,260 --> 00:29:
-Gün ışığı!
-
-287
-59,862 00:29:58,220 --> 00:29:
-Özgürüz!
-
-288
-00:30:07,580 --> 00:30:11,542
-Şimdi, artık, zamanı geldi
-hunt bir korsan.
-
-289
-00:30:19,180 --> 00:30:20,742
-Bir korsan hayatı.
-
-290
-00:30:30,380 --> 00:30:31,742
-Baba...
-
-291
-00:30:32,860 --> 00:30:34,902
-Sadece adam aradığımız.
-
-292
-00:30:34,980 --> 00:30:36,942
-Ne için? Ne arıyorsunuz?
-
-293
-00:30:37,100 --> 00:30:39,502
-Herkesin bunu bilmesine
-korsan Jack Sparrow...
-
-294
-00:30:39,540 --> 00:30:41,702
-şafakta idam edilecek.
-
-295
-00:30:41,740 --> 00:30:42,982
-İdam mı?
-
-296
-00:30:43,260 --> 00:30:47,862
-Bir daha asla bu ayak basmayacağım
-sizi temin ederim, şehir, Lord.
-
-297
-00:30:49,260 --> 00:30:51,381
-Konuşuyorum
-cidden, biliyorsun...
-
-298
-00:30:51,415 --> 00:30:53,502
-Buraya bir daha asla gitmem.
-
-299
-00:32:34,220 --> 00:32:36,582
-Deniz gücünün...
-
-300
-00:32:37,100 --> 00:32:38,742
-Bölmek gerekir.
-
-301.
-00:32:42,860 --> 00:32:46,262
-Bir Ada... yıldızlar
-bir Adaya rehberi. - Korsan Jack Sparrow arıyorum...
-- Rahatsız etmeyin!
-
-302
-00:33:03,340 --> 00:33:06,742
-Seninle konuşmak zorundayım.
-
-303
-00:33:10,860 --> 00:33:12,222
-
-
-304
-00:33:18,700 --> 00:33:21,222
-Bana kılıcını ver.
-- Benim kılıcım yok.
-
-305
-00:33:21,260 --> 00:33:24,902
-- Asker bir silah getirmez ki?
-- İhanet arıyorlar.
-
-306
-00:33:26,140 --> 00:33:27,662
-Yani hepsi de iyi değil.
-
-307
-00:33:27,700 --> 00:33:30,382
-Bir korsan arıyorum
-Kaptan Jack Sparrow?
-
-308
-00:33:31,580 --> 00:33:35,862
-Şanslı gününüz için...
-Ben o olur çünkü...
-
-309
-00:33:36,140 --> 00:33:39,302
-Kaptan Jack Sparrow...
-
-310
-00:33:44,220 --> 00:33:45,742
-Hayır. Olamaz...
-
-311
-00:33:46,060 --> 00:33:49,062
-Ben yıllarca
-bu mu arıyorsunuz?
-
-312
-51,982 33 00:33:49,420 --> 00::
-Harika Jack Sparrow değil
-bir hücrede bir sarhoş.
-
-313
-00:33:52,460 --> 00:33:54,862
-En azından bir gemi var mı?
-Bir ekip mi?
-
-314
-00:33:56,620 --> 00:33:57,742
-Pantolon.
-
-315
-00:33:58,540 --> 00:34:01,302
-Büyük bir korsan bu kadar ayrıntı gerektirmez.
-
-316
-00:34:01,380 --> 00:34:03,481
-Uzun zamandır bu anı bekliyor biliyor musun?
-
-317
-00:34:03,515 --> 00:34:05,582
-Aldığım riskleri
-buraya gelmek için?
-
-318
-00:34:05,660 --> 00:34:09,022
-- Jack Sparrow olduğuna emin misin?
-- Asıl soru...
-
-319
-00:34:09,260 --> 00:34:11,622
-- Kimsin sen?
-- Benim adım Henry Turner.
-
-320
-00:34:11,980 --> 00:34:13,982
-Will Turner oğlu
-ve Elizabeth Swann.
-
-321
-00:34:15,020 --> 00:34:16,862
-Bu korkunç misin
-her iki meyve?
-
-322
-00:34:18,060 --> 00:34:20,382
-Annen beni sordu mu?
-
-323
-00:34:20,420 --> 00:34:21,102
-Hayır.
-
-324
-00:34:21,140 --> 00:34:24,622
-Benim adım hadi... uyurken söylemek değil mi?
-
-325
-00:34:24,656 --> 00:34:26,102
-Senden hiç söz...
-
-326
-00:34:27,340 --> 00:34:29,182
-Aynı kişi hakkında konuşuyoruz emin miyiz?
-
-327
-00:34:29,540 --> 00:34:31,222
-Büyülenmiş bir haremağası...
-
-328
-00:34:31,420 --> 00:34:33,986
-İnatçı,
-altın bukleler,
-
-329
-00:34:34,020 --> 00:34:37,102
-kalın dudaklar...
-Zürafa boynu...
-
-330
-00:34:37,180 --> 00:34:40,102
-- Ve bu iki maravi...
-- Evet. Evet, bu o!
-
-331
-00:34:42,380 --> 00:34:43,396
-Jack dinle...
-
-332
-00:34:43,420 --> 00:34:45,302
-Şu anda her şey, çünkü var.
-
-333
-00:34:45,660 --> 00:34:49,142
-Babamı kurtarmak için bir yol bulmak.
-Aradan bir şeydir...
-
-334
-00:34:49,260 --> 00:34:50,940
-laneti onun ve
-Hollanda özgür olacak.
-
-335
-00:34:53,260 --> 00:34:54,902
-Poseidon Trident...
-
-336
-00:34:56,940 --> 00:34:59,222
-Hazine
-bulmak ile...
-
-337
-00:34:59,260 --> 00:35:01,502
-harita yok
-adam okuyabilir.
-
-338
-00:35:04,420 --> 00:35:05,822
-Hiç duymadım.
-
-339
-00:35:06,860 --> 00:35:08,742
-Adil bir kız
-bu hapishane Jack,
-
-340
-00:35:08,780 --> 00:35:09,902
-ve bu harita var...
-
-341
-00:35:10,260 --> 00:35:12,982
-Ay kanla kaplı olacak
-ve Trident bulunacak.
-
-342
-00:35:13,100 --> 00:35:15,022
-Ve denize hakim olabilir...
-
-343
-17,102 00:35:15,060 --> 00:35:
-ve geri dönmek
-önce ne olduğunu.
-
-344
-00:35:17,136 --> 00:35:18,136
-Büyük...
-
-345
-00:35:20,020 --> 00:35:21,020
-Jack!
-
-346
-00:35:22,020 --> 00:35:24,262
-Oh, çok üzgünüm...
-Hala konuşuyor?
-
-347
-00:35:24,300 --> 00:35:25,862
-Biraz şekerleme düşünüyorum.
-
-348
-00:35:26,940 --> 00:35:28,182
-Bir şey daha...
-
-349
-00:35:28,540 --> 00:35:31,582
-Tanıdığınız birinden bir mesaj,
-Kaptan Salazar adlı...
-
-350
-00:35:34,620 --> 00:35:36,902
-Adında bir İspanyol tanıştım...
-
-351
-00:35:37,900 --> 00:35:39,342
-İspanyolca Bir Şey.
-
-352
-00:35:39,900 --> 00:35:42,862
-Deniz Matador...
-
-353
-00:35:43,180 --> 00:35:46,902
-Mi? Hayır, hayır, hayır...
-Mutlu bir şekilde öldü.
-
-354
-00:35:46,940 --> 00:35:49,382
-Çok ölü...
-Tekne battı.
-
-355
-00:35:49,420 --> 00:35:50,702
-Üçgeni içinde...
-
-356
-00:35:51,660 --> 00:35:53,622
-Şimdi Jack için geliyor,
-intikam için susuzluk...
-
-357
-00:35:53,660 --> 00:35:55,222
-Şimdi o ölü
-hikayesini anlatıyor...
-
-358
-00:35:55,420 --> 00:35:56,902
-Sana inanmıyorum.
-
-359
-00,666 36 00:35:59,580 --> 00::
-Ve ne dedi?
-
-360
-02,302 36 00:36:00,700 --> 00::
-Pusulan anahtarı olduğunu söyledi.
-
-361
-04,302 36 00:36:02,340 --> 00::
-onların kaçış...
-Ölü bir ordu...
-
-362
-05,982 36 00:36:04,336 --> 00::
-düz Jack için geliyor.
-
-363
-08,622 36 00:36:06,180 --> 00::
-Poseidon Trident
-tek umut olduğunu.
-
-364
-12,142 36 00:36:10,700 --> 00::
-Bir anlaşma var mı?
-
-365
-00:36:20,780 --> 00:36:24,142
-- Sana söylemeye devam edeceğim.
-- Ama senin fikrindi!
-
-366
-27,222 36 00:36:24,176 --> 00::
-Ne hayır,
-ona söylediğini...
-
-367
-28,982 36 00:36:27,260 --> 00::
-Benden çok daha fazla hoşuma gidiyor.
-
-368
-00:36:29,020 --> 00:36:30,742
-Kimse seni sevmiyor.
-
-369
-56,622 36 00:36:53,660 --> 00::
-Özür dilerim Tanrım... biliyorum dedi
-onu rahatsız etmemek için.
-
-370
-00:36:56,660 --> 00:36:58,622
-Değil girdiğimiz
-iyi bir neden olmadan...
-
-371
-00:36:58,660 --> 00:37:00,462
-Konuştu olmadan biz...
-
-372
-00:37:01,820 --> 00:37:03,782
-Eğer onlar önce bize sor...
-
-373
-00:37:03,820 --> 00:37:06,302
-düşünceler
-gerçekten gerekli.
-
-374
-00:37:06,460 --> 00:37:08,542
-O zaman gibi
-gemi yandı.
-
-375
-00:37:08,580 --> 00:37:10,662
-Bu bir örnektir
-gerekli düşünme.
-
-376
-00:37:10,700 --> 00:37:13,862
-Tekrar AF istiyoruz
-yangın başlangıç için...
-
-377
-00:37:20,780 --> 00:37:21,822
-Konuş!
-
-378
-00:37:22,260 --> 00:37:25,941
-Gemi Lord olduklarını.
-bir düşman tarafından saldırıya uğradı.
-
-379
-00:37:25,975 --> 00:37:29,622
-- zenginlik istemeyen...
-Provokasyon olmadan cinayet.
-
-380
-00:37:29,660 --> 00:37:32,462
-Gemilerimi? Mümkün değil!
-
-381
-00:37:32,500 --> 00:37:34,662
-Zaten üç batırdılar
-onları, Lord...
-
-382
-00:37:34,860 --> 00:37:37,542
-Batan bir
-Semender adlı kaptan!
-
-383
-00:37:37,740 --> 00:37:39,102
-Sandoval.
-
-384
-00:37:40,700 --> 00:37:41,862
-Salazar!
-
-385
-00:37:42,060 --> 00:37:45,622
-Evet, Onur! Bir adam her teknede hayatta bırakın.
-
-386
-00:37:45,660 --> 00:37:49,902
-hikayeyi anlatmak için...
-Tüm filosu batırıldı.
-
-387
-00:37:50,260 --> 00:37:52,942
-Ve yakında ölmüş olacak.
-
-388
-00:37:53,780 --> 00:37:56,302
-Ve iş bitecek.
-
-389
-00:38:02,540 --> 00:38:04,982
-Cadı konuşmaya ihtiyacım var.
-
-390
-00:38:19,980 --> 00:38:24,982
-Kaptan seni bekliyordum-
-Çay içer belki.
-
-391
-00:38:28,620 --> 00:38:30,982
-Oldu sanırım, teşekkür ederim.
-
-392
-00:38:32,300 --> 00:38:35,622
-Çapraz fiyat
-kapı, kan, Kaptan.
-
-393
-00:38:36,540 --> 00:38:39,222
-Bu kadar meşgul olmadığın açıklıyor.
-
-394
-00:38:39,940 --> 00:38:42,222
-Herkes öder, sonunda.
-
-395
-00:38:43,660 --> 00:38:46,302
-Shansa, kurduk bir
-linki yıl önce...
-
-396
-00:38:46,580 --> 00:38:48,102
-İpten tasarruf=.
-
-397
-00:38:48,260 --> 00:38:49,022
-Hatırladın mı?
-
-398
-00:38:49,100 --> 00:38:51,422
-Ve düşmanlarını vurdu...
-
-399
-00:38:51,540 --> 00:38:54,062
-Ama bana korku için geldin.
-
-400
-00:38:54,100 --> 00:38:57,342
-Şimdi beri ölü
-Denizi ele geçirmek.
-
-401
-00:38:57,380 --> 00:39:00,662
-Benim ölü ne istiyor?
-
-402
-02,822 00:39:00,700 --> 00:39:
-Sen değil, Kaptan.
-
-403
-06,862 00:39:03,100 --> 00:39:
-- Serçe arıyorlar.
-- Jack?
-
-404
-15,902 00:39:09,780 --> 00:39:
-Jack Trident için gitmeyi planlıyor.
-Bir kız ve İnci ile.
-
-405
-19,542 00:39:16,580 --> 00:39:
-Trident var
-bulmak imkansız.
-
-406
-25,702 00:39:22,900 --> 00:39:
-Trident Jack'in tek umudu.
-
-407
-00:39:25,820 --> 00:39:27,622
-Ölüler
-deniz Fetih...
-
-408
-30,102 00:39:27,700 --> 00:39:
-Sağlam yere temas kurulamıyor.
-
-409
-36,022 00:39:33,020 --> 00:39:
-Belki de emekli olmak istiyorum
-sessiz bir yere...
-
-410
-39,982 00:39:38,300 --> 00:39:
-Kırsal nasıl?
-
-411
-00:39:40,860 --> 00:39:42,182
-Bir çiftlikte?
-
-412
-45,502 00:39:42,940 --> 00:39:
-Bir ineği sağmak, peynir yapmak.
-
-413
-51,302 00:39:46,140 --> 00:39:
-- Batan hazinem?
-- Bu soruyu kendine sor, Kaptan...
-
-414
-56,062 00:39:51,900 --> 00:39:
-- Hangi ölürüm senin için bir hazine mi?
-- Bir korsan değilim.
-
-415
-00:39:56,780 --> 00:40:00,022
-Her zaman olacak!
-Ne nasıl kurtaracağını söyle...
-
-416
-00:40:00,060 --> 00:40:02,821
-- bana ait.
-- Jack bir pusula vardı.
-
-417
-00:40:02,855 --> 00:40:05,582
-Bu işaret
-bu bir dilek...
-
-418
-00:40:05,700 --> 00:40:07,782
-Ama eğer ihanet ediyorsun
-pusula için...
-
-419
-00:40:08,020 --> 00:40:10,422
-büyük bir korku yayınlayacak...
-
-420
-00:40:10,460 --> 00:40:11,822
-Ve bir korsanın en büyük korku...
-
-421
-00:40:11,856 --> 00:40:13,942
-Salazar değil mi?
-
-422
-00:40:17,580 --> 00:40:20,742
-- Bunu nereden buldun?
-- Benim de yöntemlerim var.
-
-423
-00:40:20,940 --> 00:40:23,902
-Jack için onlara yol. Önce Trident bulabilirsiniz.
-
-424
-00:40:24,140 --> 00:40:27,782
-Ve tüm Hazine
-sana geri gelecek.
-
-425
-00:40:29,260 --> 00:40:31,822
-- Ölü ile bir anlaşma yapacağım.
-
-426
-00:40:35,060 --> 00:40:36,822
-Korsan hadi, git.
-
-427
-00:40:43,820 --> 00:40:45,182
-Haydi, durma.
-
-428
-00:40:45,380 --> 00:40:46,422
+00:03:33,797 --> 00:03:34,798
 Baba?
 
-429
-00:40:50,380 --> 00:40:54,262
-- Jack Amca! "Jackie, nasılsın?"
-
-430
-00:40:54,296 --> 00:40:56,102
-Gerçekten şikayet etmeyin...
-Ve sen?
-
-431
-00:40:56,140 --> 00:40:58,502
-Sabah geçirdim
-bir dayağı bekliyor.
-
-432
-01,502 00:40:58,620 --> 00:41:
-- Ama servisi çok kötü.
-- Çok yazık.
-
-433
-03,062 00:41:02,020 --> 00:41:
-Jack...
-
-434
-07,222 00:41:04,940 --> 00:41:
-Okyanuslar döndü
-kan...
-
-435
-10,182 00:41:07,260 --> 00:41:
-Daha güvenli olacak yerde kal.
-
-436
-00:41:10,780 --> 00:41:13,902
-Ama beni alırlar
-burada arazi üzerinde çalıştırmak...
-
-437
-14,862 00:41:13,940 --> 00:41:
-İyi bir nokta.
-
-438
-17,102 00:41:14,940 --> 00:41:
-Hiç iskelet bahsetmiş miydim?
-
-439
-18,502 00:41:17,220 --> 00:41:
-Eğer öyle olsaydı, birçok kez.
-
-440
-00:41:18,540 --> 00:41:21,262
-A skeleton enters a bar,
-orders beer...
-
-440
-21,262 00:41:18,540 --> 00:41:
-Bir iskelet bara girer,
-emir bira...
-
-441
-22,702 00:41:21,420 --> 00:41:
-Ve bir paspas...
-
-442
-26,062 00:41:24,860 --> 00:41:
-Her zamanki gibi komik.
-
-443
-27,702 00:41:26,540 --> 00:41:
-Hadi, hadi!
-
-444
-34,102 00:41:28,860 --> 00:41:
-Eğer oluk olacak sormak için
-ayırma zaman Viktor, yumuşak.
-
-445
-35,142 00:41:34,460 --> 00:41:
-Teşekkürler...
-
-446
-37,982 00:41:35,180 --> 00:41:
-Adımı yazarsan eğer,
-ayaklarını kesmeyecek.
-
-447
-00:41:58,380 --> 00:42:00,862
-Hadi İlk Sen başla!
-
-448
-06,142 00:42:04,020 --> 00:42:
-Bugün korsan nasıl ölmek istersin?
-
-449
-00:42:06,180 --> 00:42:10,102
-Darağacı,
-idam mangası ya da yeni bir buluş...
-
-450
-00:42:10,180 --> 00:42:12,422
-- Giyotin...
-- Giyotin mi?
-
-451
-00:42:13,020 --> 00:42:15,041
-Fransızca Sesler...
-Fransızları seviyorum.
-
-452
-00:42:15,075 --> 00:42:17,062
-Buna inanabiliyor musun
-mayonez icat ettiler?
-
-453
-00:42:17,180 --> 00:42:19,422
-Ne kadar kötü olabilir? "Fransız, değil mi?"
-
-454
-00:42:23,180 --> 00:42:25,622
-Öyle mi? Fikrini değiştir.
-
-455
-34,982 00:42:31,780 --> 00:42:
-Merhamet et lütfen...
-Yatak mojo.
-
-456
-00:42:52,140 --> 00:42:53,342
-Oh, hadi!
-
-457
-00:42:53,380 --> 00:42:55,982
-Bunun için Merdivenleri tırmanmak zorunda mıyım?
-
-458
-00:42:56,020 --> 00:42:59,542
-- Sepet getir.
-Ne sepeti?
-
-459
-00:43:01,260 --> 00:43:02,342
-Kravat!
-
-460
-00:43:10,260 --> 00:43:12,662
-Bir fikrim var...
-
-461
-00:43:12,780 --> 00:43:16,942
-Nasıl eski bir taşlama hakkında? "Bir an için öldürürdüm."
-
-462
-18,982 00:43:17,180 --> 00:43:
-Ve insanlar eğlenceli olurdu...
-
-463
-21,142 00:43:19,260 --> 00:43:
-Viktor konuşmak istiyorum
-hakkında gutting...
-
-464
-22,342 00:43:21,260 --> 00:43:
-Vik konuşmak istiyorum...
-
-465
-00:43:24,140 --> 00:43:26,142
-Şikayet etmek gibi değil,
-
-466
-00:43:26,300 --> 00:43:28,342
-Ama bu sepet
-kafalar dolu.
-
-467
-41,302 00:43:37,740 --> 00:43:
-Kapa çeneni Carina Smyth son sözleri...!
-
-468
-47,942 00:43:45,980 --> 00:43:
-Son sözler
-Carina Smyth...
-
-469
-50,746 00:43:48,380 --> 00:43:
-İyi insanlar...
-Bir Cadı değilim.
-
-470
-00:43:50,780 --> 00:43:54,142
-Ama saçma hayaller ve zavallı akıl affediyorum.
-
-471
-56,421 00:43:54,300 --> 00:43:
-Aslında çok var
-kaz beyin.
-
-472
-58,542 00:43:56,455 --> 00:43:
-Lord affedersiniz...
-Olağan bir uygulama değildir.
-
-473
-00:43:58,580 --> 00:44:00,382
-eğer birisi idam edecek olursa...
-
-474
-03,062 00:44:00,420 --> 00:44:
-bir sınıf buluşuyor
-Son dilek bilmiyorum?
-
-475
-00:44:03,100 --> 00:44:05,862
-Konuştuğumu düşünüyorum...
-Eğer hasta olabilirsiniz.
-
-476
-00:44:06,140 --> 00:44:07,262
-Hayır...
-
-477
-00:44:07,420 --> 00:44:10,342
-Kafamı kesecekler...
-Bu nedenle acil.
-
-478
-00:44:10,380 --> 00:44:11,862
-Ve boynumu kıracağım.
-
-479
-00:44:11,900 --> 00:44:14,582
-Biliyor musun bazen
-boyun kırmak değil mi?
-
-480
-00:44:14,620 --> 00:44:16,542
-- Sadece acıyor...
-- Ne?
-
-481
-00:44:16,580 --> 00:44:17,580
-Evet...
-
-482
-00:44:17,900 --> 00:44:19,462
-Erkekler gördüm
-saatlerce asılı...
-
-483
-21,022 00:44:19,500 --> 00:44:
-Patlak gözleri,
-şişmiş dilleri...
-
-484
-23,142 00:44:21,100 --> 00:44:
-- İğrenç bir ses çıkarıyordu.
-- Bitirebilir miyim?
-
-485
-00:44:23,180 --> 00:44:24,742
-Hayır... Sen çok şanslısın...
-
-486
-00:44:24,940 --> 00:44:26,262
-Yerine takarlardı.
-
-487
-29,742 00:44:27,180 --> 00:44:
-- Pis korsan öldürmek, umarım.
-- Cadılar önce.
-
-488
-00:44:29,820 --> 00:44:31,782
-Bir Cadı değilim. "Dinlemedin mi?"
-
-489
-33,942 00:44:31,820 --> 00:44:
-Dinle ile zordur
-bir kaz beyin.
-
-490
-00:44:33,976 --> 00:44:35,742
-Bu kadar yeter! İkisini de öldürün.
-
-491
-00:44:35,780 --> 00:44:37,182
-Evet!
-
-492
-00:44:57,500 --> 00:45:01,342
-Başka bir bağ getirdin mi sence
-çocuk bizi yenebileceğini mi?
-
-493
-00:45:01,500 --> 00:45:03,942
-Hayır Efendimiz, sadece
-Bir oyalama ben...
-
-494
-00:45:04,780 --> 00:45:06,342
-Ateş!
-
-495
-00:45:32,180 --> 00:45:33,902
-Hala recm tercih ederim.
-
-496
-00:45:39,060 --> 00:45:40,502
-Şarj!
-
-497
-00:46:00,380 --> 00:46:01,422
-Teşekkür ederim.
-
-498
-00:46:05,980 --> 00:46:07,742
-Ona!
-
-499
-00:46:11,340 --> 00:46:13,782
-Buraya gel...
-Korsan cüruf!
-
-500
-00:46:13,820 --> 00:46:14,820
-Hey!
-
-501
-00:46:23,820 --> 00:46:25,902
-Ne yaparsın?
-Hayır, hayır, hayır!
-
-502
-00:46:36,460 --> 00:46:37,622
-Atlar mı?
-
-503
-00:46:56,060 --> 00:46:58,302
-- Teşekkür ederim. "Hoş geldiniz, Hanımefendi."
-
-504
-00:47:00,140 --> 00:47:01,182
-Sen var!
-
-505
-00:47:07,100 --> 00:47:08,862
-O yüzden geri döndüler
-hain için yalvarmamı mı?
-
-506
-00:47:08,900 --> 00:47:10,182
-Genç Turner bize verdi.
-
-507
-00:47:10,260 --> 00:47:12,622
-Gümüş 10 adet
-boynunu kurtarmak için.
-
-508
-00:47:19,660 --> 00:47:21,382
-Şu andan itibaren
-müttefik olmalıyız.
-
-509
-00:47:21,420 --> 00:47:22,916
-Sol elinin nerede olduğunu düşünürsek...
-
-510
-00:47:22,940 --> 00:47:25,156
-- Bundan daha fazlasını söylüyorum.
-- Birlikte Trident bulacağız...
-
-511
-00:47:25,180 --> 00:47:26,022
-Bana söz veriyor musun?
-
-512
-00:47:26,060 --> 00:47:27,902
-Beni tut, sözümün dışında.
-
-513
-00:47:28,140 --> 00:47:30,462
-Bugün sana Emanet ediyorum
-beni kurtardığın onurunu...
-
-514
-00:47:30,500 --> 00:47:31,622
-Küçük bir bağış için.
-
-515
-00:47:31,820 --> 00:47:34,182
-Kendini kurtarmak için ödeme yapmamızı bekliyorsunuz?
-
-516
-00:47:35,660 --> 00:47:36,660
-Evet!
-
-517
-00:47:38,380 --> 00:47:39,982
-Sadece 10 adet için.
-
-518
-00:47:46,220 --> 00:47:47,382
-Delisin!
-
-519
-00:47:47,740 --> 00:47:50,102
-- 5 fazla ödeme yapmayacağız.
-- Peki o zaman.
-
-520
-00:47:50,220 --> 00:47:51,502
-8 ve şimdi.
-
-521
-00:47:51,820 --> 00:47:53,102
-Tartışmak için bu daha sonra öneriyorum.
-
-522
-00:47:53,140 --> 00:47:54,982
-artık zaman
-yay ayakta tutmak.
-
-523
-00:47:55,020 --> 00:47:58,142
-- Tutmak stern.
-- Güvenli mi?
-
-524
-00:47:58,220 --> 00:48:01,102
-- Tamamen.
-- Vay canına. Şuna bak...
-
-525
-00:48:01,900 --> 00:48:04,666
-Şimdi korkak öldürürsem...
-Cadı kendini kapatır.
-
-526
-00:48:04,700 --> 00:48:07,622
-- Biri fiyatına iki...
-- Lütfen gitmeme izin vermeyin.
-
-527
-00:48:07,660 --> 00:48:09,422
-Zor olacak
-ne zaman kendimi öldürürüm.
-
-528
-18,382 00:48:15,020 --> 00:48:
-Beyler... Bu
-mahkumlar bize rehberlik edecek...
-
-529
-00:48:18,416 --> 00:48:19,822
-Trident için.
-
-530
-00:48:21,820 --> 00:48:25,902
-Sizce kaptan... 
-Trident bulacağız?
-
-531
-00:48:25,940 --> 00:48:27,262
-Gibbs,
-çok fazla endişeleniyorsun.
-
-532
-00:48:27,340 --> 00:48:29,862
-Bu olabilir bir şey yok
-burada bizi endişelendiriyor...
-
-533
-00:48:32,620 --> 00:48:36,662
-- Ne yanlış, değil mi? "Planın bu muydu?"
-
-534
-00:48:36,700 --> 00:48:38,142
-İşkence ve
-korsanlar tarafından ölü?
-
-535
-00:48:38,260 --> 00:48:39,542
-Bu söylediklerin
-bir gemi gerekiyordu.
-
-536
-00:48:39,580 --> 00:48:41,982
-- Bu bir gemi mi diyorsunuz?
-- İpi kes!
-
-537
-00:48:50,620 --> 00:48:52,542
-Darbe için hazır olun.
-
-538
-00:49:08,940 --> 00:49:11,182
-Sevgili ekibim...
-Sonunda...
-
-539
-00:49:11,220 --> 00:49:12,142
-Denize doğru olacaktır.
-
-540
-00:49:12,180 --> 00:49:13,180
-ÖLÜ GAVİOTA </i><i>
-
-541
-00:49:23,420 --> 00:49:24,502
-Bir şeyler yanlış gitti.
-
-542
-00:49:43,980 --> 00:49:45,542
-Eğer yüzüyor!
-
-543
-00:49:49,420 --> 00:49:51,422
-Önünde tekne.
-
-544
-00:49:58,860 --> 00:49:59,862
-Lord...
-
-545
-00:50:01,500 --> 00:50:05,222
-Asla sorgulayamaz biz onların
-Kaptan olmanın nedenleri...
-
-546
-00:50:05,256 --> 00:50:06,462
-ama...
-
-547
-00:50:07,260 --> 00:50:09,982
-Herhangi bir sebebi
-Kaptan gibi, seçim yapmak...
-
-548
-00:50:10,020 --> 00:50:11,862
-bu mantıksız yönü
-takip etmek?
-
-549
-00:50:12,780 --> 00:50:14,902
-Erkekler bir yaklaşım için hazırlanalım,
-
-550
-00:50:14,940 --> 00:50:16,022
-yerlerinizi terk etmeyin...
-
-551
-00:50:16,060 --> 00:50:17,742
-ve korku gösterme.
-
-552
-00:50:23,420 --> 00:50:26,982
-Kaptan! Bir gemi bize doğru yöneldi.
-
-553
-00:50:53,100 --> 00:50:56,702
-Kaptan Salazar... Jack Sparrow aradığını duydum.
-
-554
-00:51:20,300 --> 00:51:22,062
-Hareket ettirmeyin!
-
-555
-00:51:24,940 --> 00:51:26,542
-Ve emirleri bekle.
-
-556
-00:51:47,340 --> 00:51:51,102
-Benim adım Kaptan Barbossa...
-Senden önce göster...
-
-557
-00:51:51,136 --> 00:51:54,502
-samimiyet ile.
-- Nezaket...
-
-558
-00:51:54,700 --> 00:51:58,662
-Duydun mu? Bu korsan samimi olmak istiyor.
-
-559
-00:51:58,780 --> 00:52:02,542
-İzin ver sana göstereyim benim
-şimdi sıcaklık, adam...
-
-560
-04,782 52 00:52:02,580 --> 00::
-Kılıcımı vurdum her zaman...
-
-561
-08,582 52 00:52:05,260 --> 00::
-Adamların biri ölecek.
-çok hızlı konuşuyorsun öneririm.
-
-562
-00:52:12,700 --> 00:52:15,022
-Daha hızlı olmaya çalışıyor
-Kaptan.
-
-563
-00:52:18,700 --> 00:52:22,826
-- Jack Sparrow nerede?
-- Jack Trident arar.
-
-564
-00:52:22,860 --> 00:52:26,262
-- Hayır. Ölü Deniz Komutanlığı.
-- Trident denizleri kontrol eder.
-
-565
-29,982 52 00:52:26,380 --> 00::
-Hayır, hayır...
-Hazine yok.
-
-566
-00:52:30,020 --> 00:52:31,462
-Hiçbir Hazine...
-
-567
-00:52:31,500 --> 00:52:34,302
-bu onu kurtarmak zaman... ben de senin gibi ölecek.
-
-568
-00:52:34,340 --> 00:52:36,622
-Ona rehberlik edecek tek kişi benim.
-
-569
-00:52:38,220 --> 00:52:41,502
-Seni yarın şafakta Jack'in hayat vermeye söz veriyorum.
-
-570
-00:52:41,540 --> 00:52:44,862
-Ya o zaman benimkini alabilirsin...
-Bir anlaşma var mı?
-
-571
-55,302 00:52:51,980 --> 00:52:
-Onun için bana yol Ve yaşamaya devam edin
-hikaye anlatmak.
-
-572
-57,582 52 00:52:55,740 --> 00::
-Seni hayal kırıklığına uğratmayacağım...
-
-573
-00:52:57,740 --> 00:53:01,062
-Teşekkürler
-ekibim adına.
-
-574
-00:53:05,900 --> 00:53:10,062
-Kalan olanlar gelebilir...
-Yaşayanlarla gemiye gidin.
-
-575
-00:53:18,380 --> 00:53:20,622
-Carina, fazla vaktimiz yok,
-
-576
-00:53:20,660 --> 00:53:22,182
-ölü yelken
-bizi doğrudan.
-
-577
-00:53:22,220 --> 00:53:24,462
-Gerçekten mi?
-- Evet, onlarla konuştum.
-
-578
-00:53:24,540 --> 00:53:25,542
-Onlarla konuştum...
-
-579
-00:53:25,580 --> 00:53:27,622
-Krakens konuştun mu
-ve de sirenler?
-
-580
-00:53:28,060 --> 00:53:29,356
-Bu Krakens konuşma,
-hepsi biliyor...
-
-581
-00:53:29,380 --> 00:53:32,102
-Ama tabii ki, seni kurtarmış olmam.
-
-582
-00:53:32,700 --> 00:53:35,462
-Kan ay dün gece
-bu tarif ettiğin gibi...
-
-583
-00:53:35,500 --> 00:53:36,702
-Sana açıkladım ne olduğunu söyle.
-
-584
-00:53:36,740 --> 00:53:38,142
-Ve neden sana güveneyim?
-
-585
-00:53:38,300 --> 00:53:40,262
-Zaten yay tuttum
-hatırladın mı?
-
-586
-00:53:40,380 --> 00:53:41,262
-Stern...
-
-587
-00:53:41,300 --> 00:53:43,220
-Açıkça gerek
-denizde daha fazla zaman harcamak.
-
-588
-00:53:43,260 --> 00:53:45,502
-Ne bulduğunuzu anlatın ve
-Sana yardım edeceğime söz veriyorum.
-
-589
-00:53:45,536 --> 00:53:46,342
-Yardıma ihtiyacım yok.
-
-590
-00:53:46,380 --> 00:53:48,142
-Ve neden Carina benim için mi gittin?
-
-591
-00:53:48,580 --> 00:53:50,262
-Neden berabere kaldık
-denizin ortasında...
-
-592
-00:53:50,300 --> 00:53:51,702
-aynı hazinenin peşinde?
-
-593
-00:53:54,700 --> 00:53:56,422
-Aya bir ipucu ortaya çıkardı.
-
-594
-00:53:56,700 --> 00:53:58,782
-Deniz gücü serbest bırakmak için...
-
-595
-02,462 00:53:59,340 --> 00:54:
-- bölmek gerekir.
-- Split?
-
-596
-00:54:02,620 --> 00:54:06,302
-- Bu ne anlama geliyor?
-- Henüz emin değilim.
-
-597
-09,702 00:54:08,220 --> 00:54:
-Bulmak zorundasın.
-
-598
-00:54:11,620 --> 00:54:14,662
-- Bu haritada bir harita yoktur.
-- Benim günlüğümü.
-
-599
-18,222 00:54:16,380 --> 00:54:
-Bana hiçbir insan okuyabilir Haritayı ver.
-
-600
-00:54:18,260 --> 00:54:19,022
-Eğer okumuş olsaydınız...
-
-601
-20,676 00:54:19,100 --> 00:54:
-artık harita olurdu
-hiçbir erkek okuyabilirsiniz.
-
-602
-22,662 00:54:20,700 --> 00:54:
-Sana yalvarıyorum, onunla tartışmayın.
-
-603
-00:54:23,100 --> 00:54:25,220
-Bu gemideki insanların çoğu okumayı bilmiyor.
-
-604
-27,742 00:54:25,980 --> 00:54:
-Dönüştürme
-tüm haritalar...
-
-605
-29,742 00:54:27,780 --> 00:54:
-hiçbir insanın okuyabileceği haritalar.
-
-606
-00:54:29,820 --> 00:54:32,542
-Okumak mümkün değil,
-ya ben gerekmez.
-
-607
-00:54:33,740 --> 00:54:36,782
-Tekrar başlayalım...
-Bana Haritayı göster.
-
-608
-00:54:37,580 --> 00:54:39,742
-Yapamam...
-Mevcut bile değil.
-
-609
-00:54:40,300 --> 00:54:42,982
-- O bir Cadı!
-- Ben bir astronomum.
-
-610
-00:54:44,180 --> 00:54:47,506
-Eşek ırkları.
-- Ne? Hayır...
-
-611
-00:54:47,540 --> 00:54:51,221
-- Astronom gök bakar.
-- Evet, bir eşeğin üzerinde.
-
-612
-54,902 00:54:51,255 --> 00:54:
-- Hayır, hayır eşek!
-- Ve ne ürüyorsunuz?
-
-613
-00:54:55,260 --> 00:54:59,382
-Şu şekilde anlatayım
-denklem... Haritayı bana Ver...
-
-614
-00:55:01,100 --> 00:55:06,622
-Ya da onun İçin tasfiye... 
-Onun için tasfiye edeceğim.
-
-615
-00:55:08,940 --> 00:55:11,742
-Hadi yalan söylüyorsun.
-
-616
-00:55:13,020 --> 00:55:14,622
-Ve allık.
-
-617
-00:55:16,380 --> 00:55:17,662
-Denize at.
-
-618
-24,182 55 00:55:22,140 --> 00::
-Salma yelken olduğunu söyleriz.
-
-619
-27,422 55 00:55:25,020 --> 00::
-Denize atarız
-genç Henry...
-
-620
-00:55:28,860 --> 00:55:31,342
-Ve sürükleyin edeceğiz
-geminin altında.
-
-621
-00:55:31,580 --> 00:55:32,622
-Çok iyi.
-
-622
-00:55:33,100 --> 00:55:35,542
-- Ne bekliyorsun?
-- Carina, sanmıyorum...
-
-623
-00:55:36,780 --> 00:55:39,382
-Asla yalan söyledik.
-Sen de bir şeyler söyle.
-
-624
-42,262 55 00:55:39,660 --> 00::
-Hayır, hayır, gemide yiyecek yok. Özür dilerim.
-
-625
-45,222 00:55:43,420 --> 00:55:
-Belki boğmak için yeterince şanslı,
-
-626
-47,742 55 00:55:45,260 --> 00::
-önce ayrııması
-bu kıskaç.
-
-627
-00:55:47,900 --> 00:55:50,142
-- Anlıyor musun?
-Jilet yüzlerce...
-
-628
-00:55:50,180 --> 00:55:53,182
-sırtlarında. Ve tabii ki, kan köpekbalıkları çekiyor.
-
-629
-00:55:53,220 --> 00:55:53,866
-Köpekbalıkları?
-
-630
-00:55:53,900 --> 00:55:56,422
-- Bir köpekbalığı!
-- Nerede?
-
-631
-59,742 55 00:55:56,540 --> 00::
-Yüzme derdim değil
-ana endişe.
-
-632
-00:56:00,220 --> 00:56:01,422
-Harita...
-
-633
-00:56:01,940 --> 00:56:04,022
-- Nerede?
-- Parmak ucunda mı?
-
-634
-00:56:04,060 --> 00:56:06,422
-Göklerde.
-
-635
-00:56:06,700 --> 00:56:08,382
-O günlüğü bir harita için bana yol gösterecektir,
-
-636
-00:56:08,420 --> 00:56:09,462
-yıldızlarda gizli.
-
-637
-00:56:09,580 --> 00:56:12,062
-Al, bu gece bulacağım.
-
-638
-00:56:12,180 --> 00:56:13,862
-Özür dilerim, bunu yükleyemiyorum.
-
-639
-00:56:13,900 --> 00:56:15,222
-Neden görünmüyor?
-
-640
-00:56:18,460 --> 00:56:21,102
-Zaten daha önce söyledim.
-Utangaç!
-
-641
-00:56:27,420 --> 00:56:28,862
-Pis korsan.
-
-642
-00:56:31,825 --> 00:56:35,267
-Kan denizler boyalı,
-bir denizci kıyılarına geldi.
-
-643
-38,867 56 00:56:35,301 --> 00::
-Trident hakkında konuşuyor ve
-Jack Sparrow arıyordu.
-
-644
-00:56:39,025 --> 00:56:41,827
-Aynı korsan kurtaran
-ipten bir Cadı.
-
-645
-00:56:42,145 --> 00:56:45,227
-- Bir Cadı değil.
-- Ama sen...
-
-646
-50,507 56 00:56:46,465 --> 00::
-- Ve bize yardım edeceksin. "Korkuyor musun, Teğmen?"
-
-647
-00:56:51,185 --> 00:56:55,107
-Görüldüğü tekneleri yakmak ve sizin kurtarabilir misiniz?
-
-648
-00:56:56,145 --> 00:57:01,787
-- Eğer Trident gerçek mi? "Benim için o duvarı okumanı istiyorum."
-
-649
-00:57:01,985 --> 00:57:04,631
-Ya öleceksin... İngilizler
-imparatorluk olacak...
-
-650
-08,907 00:57:04,665 --> 00:57:
-Trident ve deniz kural...
-Korsan nereye gideceğini söyle...
-
-651
-00:57:08,945 --> 00:57:10,267
-o Cadı ile birlikte.
-
-652
-15,947 00:57:11,425 --> 00:57:
-Hedef bu yatıyor
-yıldızlar... ders hazırlayacağım.
-
-653
-00:57:41,505 --> 00:57:43,107
-Değil spagetti kuyruğu...
-
-654
-00:57:44,265 --> 00:57:45,827
-Neden sana gelmek için zahmet ettim?
-
-655
-48,227 00:57:45,945 --> 00:57:
-Ölü peşinde
-ve sen hiçbir şey yapmıyorsun.
-
-656
-00:57:48,625 --> 00:57:51,907
-- Bu bir şey diyorsun?
-- Sarhoşsun ve yatıyorsun.
-
-657
-00:57:51,985 --> 00:57:55,867
-İşte demek istediğim bu
-Aynı anda iki şey yapmak istiyorum.
-
-658
-00:57:56,145 --> 00:57:58,587
-Bu kaydedemezsiniz
-insalvable arkadaş.
-
-659
-02,027 00:58:00,065 --> 00:58:
-Gibi ya da değil Jack,
-bana yardım edeceksin...
-
-660
-04,027 58 00:58:02,065 --> 00::
-Onun laneti onun babam serbest bırakacağım.
-
-661
-00:58:06,545 --> 00:58:08,747
-Asansör dahaki sefere
-bir kılıç, çocuk...
-
-662
-11,787 58 00:58:09,665 --> 00::
-Son kez olacak.
-
-663
-31,867 00:58:27,985 --> 00:58:
-Bunu tavsiye edebilirim
-güzel övgü ile baştan çıkarmak mı?
-
-664
-34,907 00:58:33,065 --> 00:58:
-Babam için geldim, hepsi bu.
-
-665
-00:58:35,745 --> 00:58:38,587
-Biliyordum,
-tamamen büyülenmiş.
-
-666
-00:58:39,265 --> 00:58:42,787
-Şimdi, küçük bir öneri
-eğer bir esmer mahkeme olursa...
-
-667
-44,667 00:58:42,825 --> 00:58:
-Hiç kız kardeşin gibi.
-
-668
-48,147 58 00:58:44,705 --> 00::
-Ama, eğer yapamıyorsanız önlemek
-sevgili kardeşim...
-
-669
-50,747 00:58:48,625 --> 00:58:
-Kardeşi öldürür, biliyorsun.
-
-670
-54,267 58 00:58:52,545 --> 00::
-Hayır, hiçbir şey bilmiyorum.
-
-671
-00:58:56,305 --> 00:59:00,787
-Seni kim yaraladı? Bilgelik bu arada, bu küçük parça...
-
-672
-00:59:00,825 --> 00:59:04,307
-- beş parça maliyetleri.
-- Bunun için sana para vermeyeceğim.
-
-673
-00:59:04,341 --> 00:59:06,107
-Hiç bir kadın bunu söyleyebilir.
-
-674
-00:59:21,185 --> 00:59:24,267
-Sadece bir şey göremiyorum çünkü,
-orada olmadığı anlamına gelmez.
-
-675
-00:59:25,665 --> 00:59:26,867
-Harita aynı mı?
-
-676
-00:59:29,025 --> 00:59:30,387
-Onu bulmalıyım...
-
-677
-00:59:31,585 --> 00:59:33,387
-Tek bağlantım.
-ne olduğumu...
-
-678
-35,827 59 00:59:34,145 --> 00::
-Ve babam vardı.
-
-679
-00:59:37,185 --> 00:59:38,521
-Yani ikimiz de geçti
-hayatımızın...
-
-680
-00:59:38,545 --> 00:59:39,947
-bizimkiler arıyor.
-
-681
-00:59:41,425 --> 00:59:43,425
-Belki de sandığından daha çok bizim gibi.
-
-682
-01:00:00,201 --> 01:00:02,683
-Güneş peeps...
-Zaman tükeniyor.
-
-683
-01:00:05,561 --> 01:00:08,003
-Muhalefet etmek istemiyorum, ama
-anlaşmamızın hassas...
-
-684
-01:00:08,121 --> 01:00:09,363
-Güneş doğduğunda.
-
-685
-01:00:09,441 --> 01:00:10,207
-İlk ışıkları, doğan güneş çok farklı.
-
-686
-01:00:10,211 --> 01:00:13,773
- Onurlu bir adam olduğunu biliyorum. "Onur, benim hakkımda hiçbir şey bilmiyorsun."
-
-687
-01:00:13,807 --> 01:00:16,293
-Olmak nasıl bir his olduğunu biliyorum
-Jack Sparrow mağlup oldu.
-
-688
-01:00:16,331 --> 01:00:19,653
-- İki düşmanıdır.
-- Kim olduğumu bilmiyorsun.
-
-689
-01:00:21,291 --> 01:00:25,893
-Güçlü hikayeler duydum
-İspanyol Kaptan... Matador del Mar.
-
-690
-01:00:26,091 --> 01:00:30,133
-Denize vuran bir adam...
-Avladı ve binlerce adamı ortadan kaldırdı.
-
-691
-01:00:30,171 --> 01:00:31,493
-= Hayır, hayır, hayır. Erkekler hayır...
-
-692
-32,527 00 01:00:31,527 --> 01::
-Hayır...
-
-693
-01:00:33,211 --> 01:00:34,933
-Korsanlar! Evet?
-
-694
-01:00:37,291 --> 01:00:38,573
-Korsanlar.
-
-695
-01:00:44,011 --> 01:00:47,333
-<i>Korsan enfekte
-nesiller için deniz.</i>
-
-696
-01:00:47,371 --> 01:00:50,613
-<babam hayatını aldılar i>
-</babası gibi.i>
-
-697
-01:00:50,891 --> 01:00:54,333
-bu amaçla><i > - Merhaba.
-veba bir kez ve için tüm.</i>
-
-698
-01:00:54,371 --> 01:00:57,773
-Yaptığım şey bu,
-Onlarca gemi yok ettim.
-
-699
-01:01:03,691 --> 01:01:07,813
-Son katıldı
-ve beni yenmeye çalıştı.
-
-700
-01:01:08,331 --> 01:01:10,893
-Ama çok geçmeden anladılar ki
-işe yaramaz olduğunu.
-
-701
-01:01:22,571 --> 01:01:25,213
-<Yok>ben durdurabilirim
-Sigilosa María.</i>
-
-702
-01:01:26,251 --> 01:01:28,093
-Ateş altında
-koruma hattı.
-
-703
-01:01:28,131 --> 01:01:29,293
-Hadi, hadi!
-
-704
-01:01:32,331 --> 01:01:34,653
-Sıkı tutun!
-
-705
-01:01:43,291 --> 01:01:46,853
-En sonunda Denizi saftı.
-
-706
-01:01:47,771 --> 01:01:51,333
-zaten kötü rozetlerini><i
-Denizi kirletmek olmaz.</i>
-
-707
-01:01:59,851 --> 01:02:01,453
-Merhamet için yalvarmak.
-
-708
-01:02:02,651 --> 01:02:05,333
-Piedad?
-
-709
-01:02:06,731 --> 01:02:08,173
-Merhamet yok.
-
-710
-01:02:14,411 --> 01:02:15,613
-Kendinizi hazırlayın.
-
-711
-01:02:23,291 --> 01:02:24,333
-Ateş!
-
-712
-01:02:33,451 --> 01:02:35,653
-Şimdi size kalmış, Jack.
-
-713
-01:02:37,771 --> 01:02:41,933
-Bu işaret pusula
-daha çok istemek ne...
-
-714
-01:02:44,091 --> 01:02:46,933
-Asla ihanet etmem.
-
-715
-01:03:18,091 --> 01:03:20,413
-Şeytan Üçgeni...
-
-716
-01:03:21,771 --> 01:03:26,453
-<son gemileri i>
-yandı gözlerimin önünde.</i>
-
-717
-01:03:28,011 --> 01:03:32,133
-Ve o anda...
-Victoria...
-
-718
-01:03:32,571 --> 01:03:34,373
-Duyduğumda...
-
-719
-01:03:34,731 --> 01:03:35,733
-Hey!
-
-720
-01:03:35,771 --> 01:03:38,213
-Kaptan Sal Bekle. <A gemi i></duman içinde kaçmaya çalışıyordu.i>
-
-721
-01:03:38,531 --> 01:03:41,693
-güzel bir gün yelken Ne <i>,
-</öyle değil mi?i>
-
-722
-01:03:41,851 --> 01:03:44,293
-orada><i > ...</i>
-
-723
-01:03:44,491 --> 01:03:45,613
-Karga yuvası,
-genç bir korsan oldu...
-
-724
-01:03:46,091 --> 01:03:51,053
-
-
-725
-01:03:51,087 --> 01:03:53,373
-Gördüğüm kadarıyla,
-sadece ikimiz varız.
-
-726
-01:03:54,171 --> 01:03:56,613
-Şimdi PES edersen,
-Yaşamana izin vereyim, çok basit.
-
-727
-01:03:56,651 --> 01:03:59,973
-Ayakta orada öyle bir kuş gibi görünüyordu.
-
-728
-01:04:00,811 --> 01:04:03,093
-O günden itibaren
-ismini kazandı.
-
-729
-01:04:03,131 --> 01:04:06,093
-Kalan günlerimi takip ediyorum.
-
-730
-01:04:07,931 --> 01:04:09,333
-Jack "serçe".
-
-731
-01:04:09,771 --> 01:04:13,573
-Tamam, ben şimdi verirsen yaşamana izin veririm.
-
-732
-01:04:14,891 --> 01:04:17,133
-Yaşamana izin vereceğim.
-
-733
-01:04:23,291 --> 01:04:24,573
-Bu çocuk...
-
-734
-01:04:24,811 --> 01:04:27,173
-Bu çocuk
-gücüm dalga...
-
-735
-01:04:27,211 --> 01:04:30,337
-Ben de onu takip ettim.
-Ben bilerek hissediyorum.
-
-736
-01:04:30,371 --> 01:04:35,093
-Boynuna bıçak ve
-öldü, dün ben de o zaman...
-
-737
-01:04:35,131 --> 01:04:36,653
-olur sona erdi
-korsan soy.
-
-738
-01:04:41,691 --> 01:04:42,813
-Onun için git!
-
-739
-01:04:44,171 --> 01:04:46,733
-Köründe.
-Kablo hattı.
-
-740
-01:04:49,171 --> 01:04:50,693
-Çalışma hazırlayın!
-
-741
-01:04:50,811 --> 01:04:51,853
-Bağlantı noktası.
-
-742
-01:04:54,091 --> 01:04:55,213
-Şimdi bırakın!
-
-743
-01:05:16,571 --> 01:05:18,493
-Etrafında dönüyorlar.
-
-744
-01:06:28,251 --> 01:06:29,413
-Nedir bütün bunlar?
-
-745
-01:06:32,891 --> 01:06:35,413
-Haraç... Lord.
-
-746
-01:07:05,291 --> 01:07:07,133
-<O benim herşeyimi aldı</i>.i>
-
-747
-10,853 07 01:07:07,851 --> 01::
-<i>...</i>öfke doluyum
-
-748
-01:07:13,611 --> 01:07:14,893
-ve acı...
-
-749
-01:07:16,891 --> 01:07:19,413
-Hikaye burada bitiyor.
-
-750
-01:07:22,011 --> 01:07:23,893
-Henüz Kaptan, orada...
-
-751
-01:07:24,811 --> 01:07:26,533
-Sözümü yerine getirdim.
-
-752
-01:07:50,891 --> 01:07:52,653
-Sonra diyor ki:
-harita var,
-
-753
-54,131 07 01:07:52,691 --> 01::
-Ama onu takip edebilecek tek kişi mi?
-
-754
-56,653 07 01:07:54,251 --> 01::
-- Yıkmayı var mı?
-- Onu rahat bırak.
-
-755
-01:07:56,691 --> 01:07:59,333
-- Trident getirecek. "Saat için bunu söylüyorsun."
-
-756
-01:07:59,371 --> 01:08:02,893
-İki şey kesin değildir,
-gün yıldızlar parlamaz.
-
-757
-01:08:03,091 --> 01:08:04,813
-Ve eşek unuttu...
-
-758
-01:08:05,251 --> 01:08:08,213
-Nasıl bir boşluk musun
-hayır arazi nerede...
-
-759
-01:08:08,291 --> 01:08:09,573
-herhangi bir haritada?
-
-760
-01:08:10,931 --> 01:08:13,613
-Bu kronometre kesin vardır
-Londra saat.
-
-761
-01:08:13,971 --> 01:08:15,653
-Kullanacağım
-yükseklik ölçmek...
-
-762
-01:08:15,691 --> 01:08:17,213
-ve böylece uzunluğunu belirlemek.
-
-763
-20,293 08 01:08:17,771 --> 01::
-Ancak o zaman biz nereden bileceğiz.
-
-764
-01:08:20,331 --> 01:08:22,853
-Bu yüzden bulmak için beklediğiniz
-Bir kronometre ile Trident?
-
-765
-01:08:22,971 --> 01:08:24,013
-Evet...
-
-766
-01:08:24,731 --> 01:08:26,813
-Hesaplarım doğru,
-ve gerçek...
-
-767
-01:08:27,131 --> 01:08:28,493
-Astronomlar için ek olarak...
-
-768
-01:08:28,531 --> 01:08:30,053
-Ayrıca bir horologist ediyorum.
-
-769
-36,853 08 01:08:35,491 --> 01::
-Utanıyorum, canım.
-
-770
-01:08:37,131 --> 01:08:40,333
-Hepimiz kazanmak zorunda
-hayat, değil miyiz?
-
-771
-44,852 08 01:08:41,891 --> 01::
-- Hayır, bir horologist ediyorum.
-Annem gibi aynı.
-
-772
-01:08:44,886 --> 01:08:47,813
-Ama o yoktu.
-senin gibi övündü.
-
-773
-01:08:48,051 --> 01:08:50,411
-Annen akademik çalışma doğru eğildi diyorsun?
-
-774
-01:08:50,451 --> 01:08:54,853
-Daha doğrusu, dinlenme...
-Yatay.
-
-775
-01:08:55,851 --> 01:08:58,213
-Zaman ölçme bilimi zaman çalışmasıdır.
-
-776
-01:08:58,251 --> 01:09:00,413
-Ve onu izlemeye dikkatliydi.
-
-777
-01:09:00,651 --> 01:09:01,853
-Buna ben de şahidim.
-
-778
-01:09:03,691 --> 01:09:07,173
-Bu yüzden kimse bulamıyor
-X, senden daha fazla, değil mi?
-
-779
-01:09:07,451 --> 01:09:08,093
-Hayır.
-
-780
-01:09:08,131 --> 01:09:10,373
-- Ve eşek?
-- Bir gemi geliyor!
-
-781
-01:09:12,891 --> 01:09:13,891
-Salazar...
-
-782
-01:09:18,211 --> 01:09:20,813
-Jack, ölü durmayacak
-intikam almak kadar.
-
-783
-01:09:20,851 --> 01:09:21,851
-Öldü mü?
-
-784
-01:09:21,891 --> 01:09:22,777
-Hayır, hayır, ölü...
-
-785
-25,493 09 01:09:22,811 --> 01::
-- anlaşmanın bir parçası değildi.
-- Hiç takip etmeliyiz.
-
-786
-01:09:25,531 --> 01:09:27,733
-şans olmadan bir korsan
-ve denize bir cadı.
-
-787
-01:09:27,771 --> 01:09:29,573
-Evet, hepsi bu.
-Hepsini öldürmek zorunda.
-
-788
-01:09:30,491 --> 01:09:33,453
-Beni öldür ve ölürüm...
-
-789
-01:09:33,971 --> 01:09:37,973
-Ve sonra diğeri öldü
-intikam almak mümkün olmayacaktır.
-
-790
-01:09:38,931 --> 01:09:40,333
-benden, çünkü...
-
-791
-01:09:40,571 --> 01:09:42,173
-- Öldü.
-- Ne?
-
-792
-01:09:42,251 --> 01:09:44,173
-Bu şekilde... doğru Söylüyor.
-
-793
-01:09:44,207 --> 01:09:44,973
-Ben haklıyım.
-
-794
-01:09:45,131 --> 01:09:46,933
-Tüm korsanlar bu kadar aptal oluyor?
-
-795
-01:09:46,971 --> 01:09:48,933
+7
+00:03:34,964 --> 00:03:37,801
+Henry, sen ne yapt�n?
+
+8
+00:03:38,301 --> 00:03:39,302
+Seni bulurum demi�tim.
+
+9
+00:03:40,387 --> 00:03:42,138
+Halime bak evlat.
+
+10
+00:03:44,724 --> 00:03:46,059
+Umurumda de�il.
+
+11
+00:03:46,226 --> 00:03:48,978
+<i>Hollandal�</i> sana g�re bir yer de�il.
+
+12
+00:03:52,065 --> 00:03:53,650
+Burada oldu�unu biliyorlar.
+
+13
+00:03:54,150 --> 00:03:55,151
+Annenin yan�na eve d�n.
+
+14
+00:03:55,318 --> 00:03:56,069
+Hay�r!
+
+15
+00:03:56,236 --> 00:03:57,487
+Hemen git!
+
+16
+00:03:58,279 --> 00:03:59,280
+�ok ge� olmadan.
+
+17
+00:03:59,447 --> 00:04:01,741
+Gitmem! Asla vazge�mem.
+
+18
+00:04:01,908 --> 00:04:05,120
+Ve beni gemiden atmaya kalkarsan
+yine geri gelirim.
+
+19
+00:04:06,830 --> 00:04:08,665
+Bu gemide kalmaya lanetlendim
+anlam�yor musun?
+
+20
+00:04:08,832 --> 00:04:09,916
+O y�zden buraday�m.
+
+21
+00:04:10,083 --> 00:04:11,960
+Lanetini bozman�n yolunu biliyorum.
+
+22
+00:04:12,127 --> 00:04:13,336
+Seni <i>Hollandal�'dan</i> kurtarman�n yolunu.
+
+23
+00:04:13,503 --> 00:04:15,005
+Henry, hay�r.
+
+24
+00:04:15,171 --> 00:04:18,633
+Bir hazine hakk�nda yaz�lar okudum.
+T�m denizin g�c�ne sahip bir hazine.
+
+25
+00:04:18,800 --> 00:04:21,344
+Poseidon'un �� U�lu M�zra��
+lanetini bozabilir.
+
+26
+00:04:24,514 --> 00:04:28,601
+Henry, �� U�lu M�zra�� kimse bulamad�.
+
+27
+00:04:29,519 --> 00:04:30,979
+Ben seni buldum.
+
+28
+00:04:31,771 --> 00:04:33,148
+Bu sadece bir hikaye.
+
+29
+00:04:33,648 --> 00:04:35,817
+Kaptan Jack Sparrow ve senin
+hikayelerin gibi mi?
+
+30
+00:04:36,359 --> 00:04:37,819
+�� U�lu M�zrak'� bulmama
+yard�m edecek.
+
+31
+00:04:37,986 --> 00:04:40,030
+Jack'ten uzak dur.
+
+32
+00:04:40,196 --> 00:04:41,990
+Denizi ebediyen terk et.
+
+33
+00:04:42,157 --> 00:04:44,159
+- B�yle davranmaktan vazge�...
+- Korsan gibi mi?
+
+34
+00:04:44,325 --> 00:04:46,369
+Vazge�mem.
+
+35
+00:04:46,536 --> 00:04:48,955
+Eve gelmeni istiyorum.
+
+36
+00:04:55,462 --> 00:04:57,213
+Henry...
+
+37
+00:04:57,380 --> 00:04:59,049
+...�ok �zg�n�m.
+
+38
+00:05:00,633 --> 00:05:02,635
+Ama benim lanetim asla bozulamaz.
+
+39
+00:05:05,055 --> 00:05:07,390
+Bu benim kaderim.
+
+40
+00:05:07,557 --> 00:05:10,352
+B�rak beni gideyim.
+
+41
+00:05:15,899 --> 00:05:18,026
+Seni seviyorum o�lum.
+
+42
+00:05:45,762 --> 00:05:48,598
+Kaptan Jack Sparrow.
+
+43
+00:05:50,892 --> 00:05:55,772
+DOKUZ YIL SONRA
+
+44
+00:06:07,242 --> 00:06:09,244
+Gemiyi dengede tutun.
+
+45
+00:06:09,411 --> 00:06:11,955
+R�zgar alt�na salya edin.
+
+46
+00:06:12,122 --> 00:06:15,125
+Daha h�zl�, sizi sefil sintine fareleri!
+
+47
+00:06:15,291 --> 00:06:17,794
+Sintineyi pompalay�p frengileri doldurun.
+
+48
+00:06:17,961 --> 00:06:20,046
+Korsanlar�n pe�indeyiz!
+
+49
+00:06:20,213 --> 00:06:21,965
+Henry, yerine d�n.
+
+50
+00:06:22,132 --> 00:06:23,967
+Bir gemiden daha kovulmak istemezsin.
+
+51
+00:06:24,134 --> 00:06:25,260
+Bir Hollanda yelkenlisi.
+
+52
+00:06:25,427 --> 00:06:27,387
+Korsan Bonnet �alm�� olmal�.
+
+53
+00:06:36,771 --> 00:06:37,605
+Tanr�m.
+
+54
+00:06:38,440 --> 00:06:40,275
+Yerinden ayr�lma demi�tim delikanl�.
+
+55
+00:06:40,442 --> 00:06:41,609
+Kaptanla konu�mam gerek.
+
+56
+00:06:41,776 --> 00:06:43,153
+- Ne dedin sen?
+- �ekil!
+
+57
+00:06:43,945 --> 00:06:44,946
+Turner!
+
+58
+00:06:51,453 --> 00:06:52,954
+��eri giriyor efendim.
+
+59
+00:06:54,581 --> 00:06:55,665
+Pe�inden gidin.
+
+60
+00:06:59,836 --> 00:07:01,838
+Hay�r, yapmay�n.
+
+61
+00:07:02,464 --> 00:07:03,464
+Yapmay�n.
+
+62
+00:07:03,590 --> 00:07:05,842
+Sen kaptanla konu�amazs�n delikanl�.
+
+63
+00:07:06,009 --> 00:07:07,135
+Haritalar�n�za bak�n efendim.
+
+64
+00:07:07,302 --> 00:07:09,346
+Bence �eytan ��geni'ne do�ru seyrediyoruz.
+
+65
+00:07:09,512 --> 00:07:13,641
+Duydunuz mu beyler? Bu acemi
+eski bir denizci efsanesine inan�yor.
+
+66
+00:07:14,809 --> 00:07:17,604
+Kusura bakmay�n ama hayat�m
+deniz efsanelerini ara�t�rmakla ge�ti.
+
+67
+00:07:17,771 --> 00:07:19,356
+Her efsaneyi, her laneti bilirim.
+
+68
+00:07:19,856 --> 00:07:22,525
+Ve ��gen'e giren gemilerin
+��kamad�klar�n� da biliyorum...
+
+69
+00:07:22,692 --> 00:07:26,321
+�z�r dilerim efendim.
+Bu d�ped�z akl�n� ka��rm��.
+
+70
+00:07:26,488 --> 00:07:28,865
+Dediklerime g�venin efendim.
+Rotan�z� de�i�tirin.
+
+71
+00:07:29,032 --> 00:07:30,950
+Bana ne hakla emir veriyorsun delikanl�?
+
+72
+00:07:31,117 --> 00:07:32,117
+��eri at�n!
+
+73
+00:07:32,994 --> 00:07:33,995
+Turner!
+
+74
+00:07:34,162 --> 00:07:35,580
+Bizi �ld�rmenize izin vermeyece�im.
+
+75
+00:07:54,182 --> 00:07:56,017
+Bu ihanettir.
+
+76
+00:07:58,019 --> 00:07:58,728
+Hay�r.
+
+77
+00:07:58,895 --> 00:08:00,814
+- Onu hapsedin. ��eri giriyoruz!
+- Hay�r!
+
+78
+00:08:00,980 --> 00:08:03,566
+Sancak prasyas�n� volta edin.
+
+79
+00:08:03,733 --> 00:08:05,402
+O ipi s�k�ca ba�la!
+
+80
+00:08:05,568 --> 00:08:06,569
+Zincirlerin orada durun!
+
+81
+00:08:07,320 --> 00:08:09,572
+Bu senin son �ans�nd� Turner.
+
+82
+00:08:11,241 --> 00:08:12,242
+�D�L - JACK SPARROW
+�L� VEYA D�R�
+
+83
+00:08:12,409 --> 00:08:15,370
+Bana kalsa,
+seni seren dire�ine asard�m.
+
+84
+00:08:15,537 --> 00:08:16,621
+G�verteye.
+
+85
+00:08:21,876 --> 00:08:24,379
+Rotadan sapma serd�men!
+
+86
+00:08:25,422 --> 00:08:27,882
+Jack Sparrow.
+
+87
+00:08:28,049 --> 00:08:29,259
+O �ld�.
+
+88
+00:08:29,426 --> 00:08:33,346
+Saint Martin Adas�'nda
+isimsiz bir mezara g�m�ld�.
+
+89
+00:08:58,204 --> 00:09:01,166
+KE�FED�LMEM�� SULAR
+
+90
+00:09:04,294 --> 00:09:06,713
+Suda bir �ey var efendim.
+
+91
+00:09:08,423 --> 00:09:09,841
+Sancak taraf�nda bir gemi!
+
+92
+00:09:12,010 --> 00:09:15,805
+O gemi de�il efendim.
+Gemi enkaz�.
+
+93
+00:09:25,732 --> 00:09:26,775
+Hay�r.
+
+94
+00:09:27,275 --> 00:09:28,985
+Dosdo�ru �st�m�ze geliyor.
+
+95
+00:09:30,028 --> 00:09:31,237
+Ate� a��n!
+
+96
+00:09:32,864 --> 00:09:34,366
+Ate� a��n!
+
+97
+00:09:36,159 --> 00:09:37,285
+Yeniden doldurun!
+
+98
+00:09:54,511 --> 00:09:55,970
+G�verteyi koruyun!
+
+99
+00:10:51,067 --> 00:10:52,068
+Sen de nesin?
+
+100
+00:10:58,324 --> 00:11:00,160
+�l�m.
+
+101
+00:11:49,167 --> 00:11:52,128
+ARANIYOR!
+JACK SPARROW
+
+102
+00:11:54,089 --> 00:11:55,965
+Jack Sparrow.
+
+103
+00:12:01,471 --> 00:12:03,390
+Bu korsan� tan�yor musun?
+
+104
+00:12:04,683 --> 00:12:06,267
+Sadece ismen.
+
+105
+00:12:06,434 --> 00:12:07,811
+Onu mu ar�yorsun?
+
+106
+00:12:15,402 --> 00:12:16,695
+Bu "evet" demek mi?
+
+107
+00:12:17,320 --> 00:12:18,571
 Evet.
 
-796
-01:09:49,051 --> 01:09:50,653
-Ne yapacağız?
+108
+00:12:19,698 --> 00:12:22,534
+�ok uzun y�llard�r,
+��gen bizi lanetledi...
 
-797
-01:09:51,451 --> 01:09:52,613
-Kaptan Olmak...
+109
+00:12:22,701 --> 00:12:25,829
+...bizi d�nyadaki bu cehenneme
+mahkum etti.
 
-798
-01:09:53,891 --> 01:09:55,493
-Önerebilirim...
-
-799
-01:10:00,091 --> 01:10:02,173
-Riot? Var mıydı senin için
-isyan ediyor?
-
-800
-01:10:02,211 --> 01:10:03,693
-Carina, ölü yaklaşıyor.
-
-801
-01:10:03,771 --> 01:10:07,173
-İnanmak istemiyorum...
-Doğaüstü bir saçmalık.
-
-802
-01:10:07,211 --> 01:10:08,853
-Arkamızda olduğunuzu görmüyor musun?
-
-803
-01:10:22,811 --> 01:10:24,653
-- Onları bırak!
-- Evet.
-
-804
-01:10:24,691 --> 01:10:25,973
-- Onları bırak!
-Sipariş için.
-
-805
-01:10:33,131 --> 01:10:34,013
-Ne yapıyorsun?
-
-806
-01:10:34,051 --> 01:10:35,533
-Adamlar bu
-gemi Jack arıyoruz.
-
-807
-01:10:35,571 --> 01:10:36,832
-Ve Jack bu teknede.
-
-808
-01:10:36,866 --> 01:10:38,093
-Daha iyi sahile yüzmeye.
-
-809
-01:10:38,171 --> 01:10:41,013
-Sadece yapmayı DÜŞÜNMEYİN BİLE
-ne olsam yapardım.
-
-810
-01:10:41,131 --> 01:10:43,693
-- Carina yeter!
-- Hayır, hayır, hayır, hayır, durmayın.
-
-811
-01:10:43,931 --> 01:10:46,213
-- Bu çok ileri gitti...
-- Hayır, elbette değil...
-
-812
-01:10:46,731 --> 01:10:49,653
-Aşk dinlemeyin.
-Devam et, devam et.
-
-813
-01:10:55,931 --> 01:10:59,333
-- Neden, biraz yoksun.
-- Ayak bileklerini gördüm.
-
-814
-01,933 11 01:10:59,411 --> 01::
-Ve daha görmedim bile, eğer olsaydı olurdu
-sessiz oldu.
-
-815
-21,733 11 01:11:20,091 --> 01::
-Serçe öldürmek.
-
-816
-40,373 11 01:11:38,571 --> 01::
-Bu iyi değil, değil mi?
-
-817
-43,893 11 01:11:41,211 --> 01::
-Adam 100 metre mesafede,
-Hızlı hızlı!
-
-818
-45,893 11 01:11:44,091 --> 01::
-Hayır, bıktım artık.
-
-819
-48,373 11 01:11:47,051 --> 01::
-Ona gidiyorum...
-
-820
-52,493 11 01:11:49,211 --> 01::
-Benim için
-iç çamaşırı horologist?
-
-821
-53,531 11 01:11:52,531 --> 01::
-Evet...
-
-822
-56,693 11 01:11:55,051 --> 01::
-Erkekler, hepsi eşitler.
-
-823
-07,891 12 01:12:06,891 --> 01::
-Köpekbalığı.
-
-824
-34,013 12 01:12:32,931 --> 01::
-Henry!
-
-825
-57,693 12 01:12:56,331 --> 01::
-Çalışıyor gibi görünmüyor.
-
-826
-59,853 12 01:12:57,731 --> 01::
-= Hayır, biz iyi olacağız, iyi olacağız.
-
-827
-21,693 13 01:13:19,611 --> 01::
-- Bunu nasıl yaptılar?
-Yüzeceğiz.
-
-828
-24,053 13 01:13:21,931 --> 01::
-Onları oyalamak. Zaten!
-
-829
-30,531 13 01:13:29,531 --> 01::
-Şimdi!
-
-830
-01:14:11,131 --> 01:14:12,813
-Henry!
-
-831
-01:15:03,411 --> 01:15:06,213
-Merhaba... Jack Sparrow.
-
-832
-01:15:08,251 --> 01:15:09,973
+110
+00:12:25,995 --> 00:12:29,708
+Kurtulu�umuzun anahtar�
 Jack Sparrow...
 
-833
-01:15:10,011 --> 01:15:11,093
-İspanyolca Mı?
+111
+00:12:29,874 --> 00:12:31,876
+...ve sahip oldu�u pusulada.
 
-834
-01:15:18,731 --> 01:15:20,253
-- Lanet olsun.
-- Biliyorum.
+112
+00:12:32,585 --> 00:12:34,546
+Benden korkmana gerek yok evlat.
 
-835
-01:15:21,051 --> 01:15:23,133
-Yeryüzüne dokunmak mümkün değildir.
+113
+00:12:34,713 --> 00:12:37,882
+Hikayeyi anlatmas� i�in
+daima bir ki�iyi canl� b�rak�r�m.
 
-836
-01:15:23,891 --> 01:15:25,773
-- Zaten biliyordum.
-- Lanet olsun!
+114
+00:12:38,758 --> 00:12:41,469
+Benim i�in Sparrow'u bul...
 
-837
-01:15:29,531 --> 01:15:32,893
-- Carina. "Yakında bana yaptıklarını Ödeyeceksin."
+115
+00:12:41,636 --> 00:12:45,015
+...ve ona Kaptan Salazar'dan
+bir mesaj ilet.
 
-838
-01:15:32,931 --> 01:15:35,333
-= Hayır, hayır, hayır. Cidden, sizi rahatsız etmek zorunda değilsiniz.
+116
+00:12:45,181 --> 00:12:46,641
+Salazar.
 
-839
-01:15:35,371 --> 01:15:37,093
-- Carina.
-- Sohbet etmek için kalmak istiyorum...
+117
+00:12:48,143 --> 00:12:52,480
+S�yle ona,
+yeniden g�n �����na ��kaca��m.
 
-840
-01:15:37,131 --> 01:15:40,933
-- ama benim haritam kaçıyor. "Seni burada bekleyeceğim."
+118
+00:12:52,647 --> 00:12:54,816
+Ve i�te o g�n...
 
-841
-01:15:41,451 --> 01:15:44,493
-Neden beni bekle?
-Benim için beklemek.
+119
+00:12:59,362 --> 00:13:01,197
+...�l�m...
 
-842
-02,453 16 01:16:01,291 --> 01::
-Korsanlar!
+120
+00:13:01,906 --> 00:13:05,702
+...�l�m gelip onu bulacak.
 
-843
-18,211 16 01:16:17,211 --> 01::
+121
+00:13:05,869 --> 00:13:07,787
+Bunu ona s�yler misin?
+
+122
+00:13:07,954 --> 00:13:08,954
+Rica etsem?
+
+123
+00:13:08,955 --> 00:13:09,872
+Evet.
+
+124
+00:13:09,873 --> 00:13:12,459
+Ke�ke kendim yapabilseydim ama...
+
+125
+00:13:13,501 --> 00:13:15,837
+...�l�ler konu�amaz.
+
+126
+00:13:30,435 --> 00:13:39,944
+<b>KARAY�P KORSANLARI
+SALAZAR'IN �NT�KAMI</b>
+
+127
+00:13:43,156 --> 00:13:44,239
+ST. MARTIN, KARAY�PLER
+
+128
+00:13:44,240 --> 00:13:47,786
+<i>Carina Smyth, sen �eytandan do�ma
+bir yetimsin...</i>
+
+129
+00:13:48,161 --> 00:13:50,705
+...b�y�c�l�k yapmakla su�lan�yorsun.
+
+130
+00:13:50,872 --> 00:13:52,165
+�lmeden �nce...
+
+131
+00:13:52,791 --> 00:13:55,043
+...itiraf etmek istedi�in bir �ey var m�?
+
+132
+00:13:57,295 --> 00:14:02,008
+�tiraf ediyorum, ben b�y�c� de�ilim,
+ben bir bilim kad�n�y�m.
+
+133
+00:14:02,425 --> 00:14:04,969
+�tiraf ediyorum, hi� tan�mad���m
+babamdan kalma...
+
+134
+00:14:05,136 --> 00:14:08,682
+...g�nl�kten ba�ka bir �eyim yokken
+tek ba��ma ayakta kald�m...
+
+135
+00:14:08,848 --> 00:14:11,393
+...ve kim oldu�um ger�e�ini arad�m.
+
+136
+00:14:11,559 --> 00:14:15,355
+�tiraf ediyorum, aray���mdan
+vazge�meden �nce �lece�im.
+
+137
+00:14:15,522 --> 00:14:17,107
+Ve itiraf ediyorum...
+
+138
+00:14:17,899 --> 00:14:21,152
+...bu kilidi biz konu�urken a�t�m.
+
+139
+00:14:28,243 --> 00:14:32,914
+Bug�n, Saint Martin Kraliyet Bankas�'n�
+hizmete a��yoruz.
+
+140
+00:14:38,503 --> 00:14:42,799
+Karayiplerin en g�venilir bankac�l�k kurumu.
+
+141
+00:14:50,974 --> 00:14:54,686
+Yeni kasam�z on �� santim kal�nl���nda...
+
+142
+00:14:54,853 --> 00:14:56,980
+...ve bir ton a��rl���nda.
+
+143
+00:14:57,814 --> 00:14:59,399
+Onu buldum! Onu buldum!
+
+144
+00:14:59,941 --> 00:15:00,941
+Yakalay�n!
+
+145
+00:15:00,942 --> 00:15:04,112
+Ka�mas�na izin vermeyin!
+Durdurun �u cad�y�!
+
+146
+00:15:06,781 --> 00:15:09,659
+Durdurun onu! ��te orada!
+�ekilin yoldan.
+
+147
+00:15:09,826 --> 00:15:11,161
+�ekilin yolumdan!
+
+148
+00:15:12,370 --> 00:15:13,955
+Bu bankayla...
+
+149
+00:15:14,122 --> 00:15:18,793
+...Saint Martin kasabas�
+modern d�nyaya ad�m at�yor.
+
+150
+00:15:24,674 --> 00:15:27,469
+- �z�r dilerim efendim.
+- Cad� zincirlerinden kurtulmu�.
+
+151
+00:15:28,219 --> 00:15:31,514
+O adi kad�n� bulun
+yoksa yerine siz as�l�rs�n�z.
+
+152
+00:15:32,207 --> 00:15:33,207
+Ba��st�ne.
+
+153
+00:15:33,224 --> 00:15:34,309
+Ba��st�ne.
+
+154
+00:15:35,685 --> 00:15:38,521
+Hi� kimse, hi�bir ordu...
+
+155
+00:15:38,688 --> 00:15:42,859
+...art�k Saint Martin bankas�ndan
+alt�n �alamaz.
+
+156
+00:15:43,568 --> 00:15:45,779
+Kasay� a�.
+
+157
+00:16:00,335 --> 00:16:01,335
+Korsan!
+
+158
+00:16:02,003 --> 00:16:04,047
+Korsanlar.
+
+159
+00:16:04,798 --> 00:16:06,049
+Korsan!
+
+160
+00:16:21,606 --> 00:16:23,858
+Bu size tuhaf bir soru gibi gelebilir...
+
+161
+00:16:24,025 --> 00:16:28,279
+...ama acaba biri bana a��klayabilir mi,
+neden buraday�m?
+
+162
+00:16:33,201 --> 00:16:34,452
 Scrum.
 
-844
-19,533 16 01:16:18,651 --> 01::
-Kaptan?
-
-845
-22,133 16 01:16:19,611 --> 01::
-Eğer ona bir şey oldu Jack her zaman bana...
-
-846
-26,133 16 01:16:22,171 --> 01::
-- Kaptan olmak istedim.
-- Evet, ama senin için oy verdiler.
-
-847
-27,627 16 01:16:26,171 --> 01::
-Giydiğiniz o yüzden
-kaptan bu kaptan.
-
-848
-30,013 16 01:16:27,651 --> 01::
-Olması gerekende bu,
-bu isteklerinizi...
-
-849
-32,213 16 01:16:30,051 --> 01::
-Çok iyi olacak
-ve dümene geç.
-
-850
-33,373 16 01:16:32,251 --> 01::
-Ve şimdi sen olacaksın.
-
-851
-39,893 16 01:16:34,571 --> 01::
-- Kaptan Şapkası al.
-- Hayatımın en güzel anı.
-
-852
-44,693 16 01:16:42,931 --> 01::
-Yeneceğiz onun
-Vazgeçmeden kaptan...
-
-853
-46,653 16 01:16:44,731 --> 01::
-açığa kadar
-nereye gidiyorsun.
-
-854
-52,453 16 01:16:49,211 --> 01::
-- Carina.
-Çocuk seni rahatsız eden şeyi biliyorum.
-
-855
-54,613 16 01:16:52,491 --> 01::
-Bu tickle
-çizik değil.
-
-856
-57,573 16 01:16:54,971 --> 01::
-Carina bilen tek kişi
-Trident bulmak için nasıl.
-
-857
-59,893 16 01:16:57,691 --> 01::
-- Onu seviyor, tamam mı?
-- Aşk mı?
-
-858
-01:17:00,171 --> 01:17:02,213
-Aşk hakkında bir şeyler söyleyen, ne diyorsun sen?
-
-859
-01:17:02,251 --> 01:17:03,293
-Ne çizik.
-
-860
-01:17:03,611 --> 01:17:05,733
-Uyuz, uyuz bahsediyordum.
-
-861
-01:17:05,771 --> 01:17:08,013
-Küçük akarları
-cilt içine almak.
-
-862
-01:17:08,251 --> 01:17:10,253
-Bana en azından
-beni yıllardır rahatsız olan.
-
-863
-01:17:10,291 --> 01:17:11,413
-Oh, hayır!
-
-864
-01:17:11,451 --> 01:17:13,813
-<VERDUGO BAY i>
-GARİP DEĞİLDİR
-Ben hoş GELDİNİZ</>
-
-865
-01:17:14,091 --> 01:17:15,253
-Yardım!
-
-866
-01:17:16,251 --> 01:17:18,613
-- Bana yardım et! Yardım!
-- Carina.
-
-867
-01:17:19,691 --> 01:17:22,253
-- Henry, bana yardım et.
-- Onu kurtarmak!
-
-868
-01:17:23,771 --> 01:17:25,213
-Kralın emriyle><i > ...</i>
-
-869
-01:17:25,251 --> 01:17:27,333
-Ölüm onları mahkum ediyorum.
-
-870
-01:17:28,131 --> 01:17:32,693
-Saklandığımız hazineleri nerede olduğunu söylemeliyiz.
-
-871
-01:17:32,727 --> 01:17:34,733
-her ihtimale karşı bir hayatta.
-
-872
-01:17:34,771 --> 01:17:36,013
-İyi bir fikirdir.
-
-873
-01:17:36,491 --> 01:17:39,653
-- Önce sen başla.
-- Hazinem gömdüler...
-
-874
-01:17:39,691 --> 01:17:42,173
-iki çapraz palmiye ağaçları arasında
-taşsız bir mezarda.
-
-875
-01:17:42,207 --> 01:17:44,533
-Aruba. Seninki nasıldı?
-
-876
-01:17:45,691 --> 01:17:47,093
-Gerçeği yok.
-
-877
-01:17:47,131 --> 01:17:48,853
-Bana Jack kanı söz vermiştin!
-
-878
-01:17:48,891 --> 01:17:50,253
-Ama Jack mahsur kaldı!
-
-879
-01:17:50,731 --> 01:17:54,013
-- Asla bu Adadan kaçmak.
-- Karada!
-
-880
-01:18:00,251 --> 01:18:01,251
-Merhaba.
-
-881
-01:18:05,771 --> 01:18:07,333
-Anlaşmamıza saygı göstereceğim.
-
-882
-01:18:07,451 --> 01:18:09,253
-Adamlarım ve sahile gideceğim.
-
-883
-01:18:09,411 --> 01:18:11,493
-Kirli hain senin olacak.
-
-884
-01:18:11,851 --> 01:18:13,773
-- Onurumu önce... - Efendim?
-
-885
-01:18:14,331 --> 01:18:16,333
-Onur ne, adamım?
-Bu onur?
-
-886
-01:18:16,451 --> 01:18:19,053
-- Şeref nedir bilmezler.
-Hayatımı bağışla...
-
-887
-01:18:19,371 --> 01:18:21,693
-Ve minik serçe sana getireceğim.
-
-888
-01:18:21,731 --> 01:18:23,453
-biz i><bir anlaşma var mı?</i>
-
-889
-01:18:24,091 --> 01:18:25,453
-Bir anlaşma?
-
-890
-01:18:39,691 --> 01:18:43,253
-<Uyandırma>ben, Serçe Uyan...</i>
-
-891
-01:18:46,571 --> 01:18:49,333
-<Uyandırma>ben, Serçe Uyan...</i>
-
-892
-01:18:51,171 --> 01:18:52,733
-Uyanık Serçe.
-
-893
-01:18:53,211 --> 01:18:57,053
-- Borcunu ödeme zamanı. "Domuz mu?"
-
-894
-01:18:57,891 --> 01:18:58,933
-Domuz Kelly?
-
-895
-01:19:00,171 --> 01:19:03,133
-- Eski dostum...
-- Arkadaş mı?
-
-896
-01:19:03,451 --> 01:19:05,133
-Duydunuz mu?
-
-897
-01:19:05,771 --> 01:19:09,093
-Bu pis korsan beni
-gümüş bir yağma borcu var.
-
-898
-01:19:09,131 --> 01:19:12,133
-ve kader getirdi
-Verdugo Körfezi...
-
-899
-01:19:12,171 --> 01:19:15,173
-eğer borç yerleşmek olacak,
-burada ve şimdi.
-
-900
-01:19:16,091 --> 01:19:19,173
-Ben, Domuz.
-Fiyatını söyle.
-
-901
-01:19:19,211 --> 01:19:22,013
-Adı Beatrice...
-
-902
-01:19:24,971 --> 01:19:27,493
-Ve zavallı dul kız kardeşim...
-
-903
-01:19:30,331 --> 01:19:31,653
-Ne, nedir o?
-
-904
-01:19:31,691 --> 01:19:33,613
-Saygın bir adam arıyoruz
-...
-
-905
-01:19:34,571 --> 01:19:37,173
-Ama yeterli olması gerekir. "Royce, hadi bu işi bitirelim.
-
-906
-01:19:37,291 --> 01:19:39,053
-Hayır, neden? "Neden evleniyorsun?"
-
-907
-01:19:39,131 --> 01:19:41,613
-Bu yüzden bir kadın olduğunu
-onu, Jack saygın.
-
-908
-01:19:41,691 --> 01:19:44,453
-Tebrikler, düğün günü.
-
-909
-01:19:45,771 --> 01:19:46,733
-Şimdi başlıyoruz?
-
-910
-01:19:46,771 --> 01:19:49,533
-Ay
-bal ahırda bizi bekliyor.
-
-911
-01:19:53,931 --> 01:19:56,417
-Hayır, hayır, hayır... Domuz.
-
-912
-01:19:56,451 --> 01:19:59,653
-Dürüstçe nasıl yapabilirim
-o saygıdeğer bir kadın.
-
-913
-01:19:59,691 --> 01:20:01,573
-O... O...
-Demek istediğim O.
-
-914
-01:20:05,291 --> 01:20:07,853
-Bu şeyler de ne?
-Çocuklarımız...
-
-915
-01:20:08,451 --> 01:20:10,613
-Daha iyi deneyin
-gözlerinin içine bakın.
-
-916
-01:20:10,731 --> 01:20:12,893
-Baba ve bayan diyebilirsin?
-
-917
-01:20:14,331 --> 01:20:15,653
-Gözlerinin içine baktım.
-
-918
-01:20:15,691 --> 01:20:17,973
-Elini İncil'in üzerine koydu.
-
-919
-01:20:18,811 --> 01:20:20,813
-- Uyuz var.
-- Beni de.
-
-920
-01:20:21,811 --> 01:20:23,973
-Elini İncil'in üzerine koydu.
-
-921
-01:20:24,651 --> 01:20:25,973
-Yatak mojo.
-
-922
-01:20:26,411 --> 01:20:27,853
-Kabul ettiğini söyle...
-
-923
-01:20:28,931 --> 01:20:32,133
-Kafana bir kurşun sıkarım. "Jack, bizi öldürecekler."
-
-924
-01:20:32,171 --> 01:20:33,773
-- Umurumda değil!
-- Kabul ettiğini söyle.
-
-925
-01:20:33,851 --> 01:20:36,533
-- Son şansın Jack.
-- Yüksek... bence...
-
-926
-01:20:36,811 --> 01:20:39,373
-- bu yasal...
-- Bu yasal değil.
-
-927
-40,853 20 01:20:39,731 --> 01::
-Doğru!
-
-928
-01:20:40,931 --> 01:20:43,333
-Herhangi bir adam var mı
-bu birliğe karşı mı?
-
-929
-01:20:43,931 --> 01:20:46,533
-- Yaparım.
-- Tebrikler...
-
-930
-01:20:46,571 --> 01:20:48,133
-Gelini öpebilirsin.
-
-931
-01:21:00,571 --> 01:21:03,733
-- Deniz ürünleri sever misin, değil misin?
-- Öp beni!
-
-932
-01:21:07,131 --> 01:21:09,413
-Jack...
-Tekrar görüşürüz.
-
-933
-01:21:10,491 --> 01:21:11,613
-Hector!
-
-934
-01:21:11,931 --> 01:21:14,453
-O benim en iyi arkadaşım
-bütün dünyada.
-
-935
-01:21:14,491 --> 01:21:17,253
-Her zaman oturur biliyordum
-baş, sonunda.
-
-936
-18,653 21 01:21:17,291 --> 01::
-Ve bana bir hediye getirdin mi?
-
-937
-01:21:20,971 --> 01:21:22,213
-Bu da yeterli olur.
-
-938
-01:21:24,571 --> 01:21:28,133
-Harika görünüyorsun. Hafifçe bacak ve adım görebilirsiniz.
-
-939
-01:21:29,211 --> 01:21:30,533
-Başka bir bacak büyür mü?
-
-940
-01:21:30,651 --> 01:21:33,013
-Kaptan, zaman değil
-Salazar ile dönmek...
-
-941
-35,653 21 01:21:33,291 --> 01::
-ve hayatı exchange
-Bay bizim için Serçe?
-
-942
-01:21:35,971 --> 01:21:40,013
-Evet, yapabiliriz. Ama geldim
-Poseidon Trident tarafından.
-
-943
-01:21:40,971 --> 01:21:42,533
-Olur ölüler ihanet etti
-sonra?
-
-944
-01:21:42,611 --> 01:21:43,733
-Bir söz vermişti!
-
-945
-01:21:43,931 --> 01:21:47,853
-Ve onunla birlikte olmak öldürürüm
-deniz krallığım ele geçirdi.
-
-946
-50,013 21 01:21:47,931 --> 01::
-Bu plan ne kadar sevsem de...
-
-947
-01:21:50,251 --> 01:21:53,933
-Hiçbir tekne olduğu için kazanır
-geminin üzücü hurda.
-
-948
-01:21:53,971 --> 01:21:55,573
-Ama bir tekne, Jack...
-
-949
-01:21:55,611 --> 01:21:57,053
-Bildiğim en hızlı gemi.
-
-950
-01:21:57,091 --> 01:22:00,973
-İnci... bu Tuzağa
-Karasakal tarafından şişe...
-
-951
-01:22:01,051 --> 01:22:02,693
-önce beş kışlar.
-
-952
-01:22:04,571 --> 01:22:07,613
-Ve kılıç gücüyle
-o fare egemen...
-
-953
-01:22:07,731 --> 01:22:13,213
-Bu gün Siyah İnci serbest bırakıyorum,
-meşru ve görkemli haliyle.
-
-954
-01:22:24,171 --> 01:22:25,453
-Hazır olun!
-
-955
-01:22:26,331 --> 01:22:27,733
-Herkes hazır olsun.
-
-956
-01:22:28,251 --> 01:22:28,973
-Geliyor.
-
-957
-01:22:29,051 --> 01:22:30,973
-Geliyor!
-Geliyor! Yakında.
-
-958
-01:22:35,971 --> 01:22:38,373
-Bir tarafa...
-
-959
-01:22:39,891 --> 01:22:41,293
-Geliyor!
-
-960
-01:22:56,971 --> 01:22:58,453
-Omuzlarını silkti.
-
-961
-00,773 23 01:22:59,091 --> 01::
-Neden çıkar?
-
-962
-03,333 23 01:23:01,771 --> 01::
-Belki de soğuk...
-
-963
-05,013 23 01:23:03,451 --> 01::
-Denize ihtiyacı var.
-
-964
-20,933 23 01:23:19,291 --> 01::
-Güzel bir gemiydi.
-
-965
-01:23:59,451 --> 01:24:02,093
-Oda
-sadece bir Kaptan.
-
-966
-01:24:04,731 --> 01:24:08,293
-- seni pis yaratık.
-Ölüleri diriltme zamanı.
-
-967
-01:24:15,091 --> 01:24:17,293
-Tek güvenli yer
-dünya.
-
-968
-01:24:17,411 --> 01:24:19,213
-Neden kara uzaklaşmak mı?
-
-969
-01:24:19,691 --> 01:24:20,691
-Herkes biliyor mu?
-
-970
-01:24:21,211 --> 01:24:23,613
-Kaptan...
-Harita eksik.
-
-971
-01:24:23,891 --> 01:24:26,653
-Trident için onlara yol gösterebilirim
-sadece bana güveniyorlardı.
-
-972
-01:24:27,651 --> 01:24:29,813
-Bir şey duymadın mı dedim?
-
-973
-01:24:30,171 --> 01:24:31,333
-Dediğiniz
-
-974
-01:24:31,371 --> 01:24:33,893
-O yıldız yok
-bir harita gibi.
-
-975
-01:24:34,051 --> 01:24:36,493
-Efendim, hayır
-Ada, harita,
-
-976
-01:24:36,531 --> 01:24:38,412
-destek için ne kadın söylüyor.
-
-977
-01:24:38,446 --> 01:24:40,293
-Kaptan, bunu anlamak gerekir.
-
-978
-01:24:40,491 --> 01:24:41,933
-Sadece ona inanıyorum.
-
-979
-01:24:43,051 --> 01:24:44,493
-Kimse yok mu?
-
-980
-01:24:56,571 --> 01:24:59,933
-Sivri bir şey ile belki
-kilidi açabilir.
-
-981
-01:25:01,291 --> 01:25:03,293
-Burada bir ipucu ile bir şey bulamazsınız.
-
-982
-01:25:10,491 --> 01:25:12,733
-Hareket, sıçan iğrenç.
-
-983
-01:25:13,051 --> 01:25:16,333
-Kaptan, bırak beni! Artık
-daha fazla Kaptan olmak istiyorum.
-
-984
-01:25:25,691 --> 01:25:26,733
-Onları serbest bırakın!
-
-985
-01:25:28,971 --> 01:25:33,373
-Efendim, bir kadın gemiye kılavuz izin vermeyeceksin, değil mi?
-
-986
-01:25:33,411 --> 01:25:36,653
-Yıldız onun için bize yol gösterecek.
-Ya da hep birlikte öleceğiz.
-
-987
-01:25:56,251 --> 01:25:59,253
-Siyah İnci...
-Tekrar gidin.
-
-988
-01,133 26 01:25:59,291 --> 01::
-Evet!
-
-989
-01:26:02,331 --> 01:26:04,973
-Bu gemi... lanet olsun...
-
-990
-01:26:05,971 --> 01:26:07,773
-Hiçbir mantıklı açıklaması olabilir.
-
-991
-01:26:07,811 --> 01:26:09,853
-Denizin efsaneleri
-gerçek, Carina.
-
-992
-12,213 26 01:26:10,171 --> 01::
-Sonunda mutluyum
-yanlış olduğunu görürsünüz.
-
-993
-01:26:12,331 --> 01:26:13,331
-Yanlış mı?
-
-994
-01:26:15,491 --> 01:26:16,813
-Belki de şüphelerim var...
-
-995
-01:26:16,851 --> 01:26:18,733
-En kötüsü bu
-özür duydum.
-
-996
-20,573 26 01:26:18,811 --> 01::
-Pardon?
-Neden bana izin verir misiniz?
-
-997
-22,813 26 01:26:20,651 --> 01::
-Çünkü ölüler bizi
-chase, ve bir gemi...
-
-998
-01:26:22,891 --> 01:26:25,107
-Bir şişe vardı...
-Bilim bunun neresinde?
-
-999
-01:26:25,131 --> 01:26:27,573
-Peki, özür dileyeceğim.
-
-1000
-01:26:28,251 --> 01:26:29,013
-Devam et, sonra...
-
-1001
-01:26:29,211 --> 01:26:31,133
-Adil olsalar
-benim için özür dilemek...
-
-1002
-01:26:31,171 --> 01:26:33,933
-benim hayatım çünkü tehdit
-korsanlar tarafından ve ölü.
-
-1003
-36,133 26 01:26:33,971 --> 01::
-Hangi üzülerek söylüyorum ki,
-şimdi inanıyorsun.
-
-1004
-01:26:36,491 --> 01:26:37,733
-Özrün kabul edildi.
-
-1005
-41,293 26 01:26:39,851 --> 01::
-İzlemeye gideceğim.
-
-1006
-43,613 26 01:26:41,891 --> 01::
-Aynı fikirde olmamız ne kadar iyi.
-
-1007
-01:26:53,131 --> 01:26:55,853
-- Silahların listesi.
-- Evet efendim. Silahlar hazır!
-
-1008
-01:26:55,891 --> 01:26:57,973
-Bu korsanlar gidecek
-Trident için.
-
-1009
-14,773 01:27:12,651 --> 01:27:
-Bu kızı nereden buldun?
-
-1010
-18,573 01:27:15,411 --> 01:27:
-O kitabı biliyorum...
-Bir İtalyan tekne çalındı...
-
-1011
-20,773 01:27:18,611 --> 01:27:
-yıllar önce...
-- Çalıntı mı?
-
-1012
-22,413 01:27:21,131 --> 01:27:
-Hayır, yanılıyorsun.
-
-1013
-24,293 01:27:22,451 --> 01:27:
-Bir yakut vardı
-kapağında...
-
-1014
-26,373 01:27:24,331 --> 01:27:
-Asla unutamayacağım.
-
-1015
-31,533 01:27:29,611 --> 01:27:
-Babamın bana verdiği şey bu.
-
-1016
-33,693 01:27:31,571 --> 01:27:
-Bu açıkça belli oluyor
-bir bilim adamı.
-
-1017
-37,813 01:27:35,691 --> 01:27:
-Artık sadece bir hırsız...
-
-1018
-41,173 01:27:39,211 --> 01:27:
-Babamın anısı
-lekeledi olacaktır.
-
-1019
-42,773 01:27:41,211 --> 01:27:
-korsan dili.
-
-1020
-45,293 01:27:43,451 --> 01:27:
-Günlük hakkım var.
-
-1021
-47,853 01:27:45,691 --> 01:27:
-Bir yetimhane altındaki haklıydım.
-
-1022
-50,173 01:27:48,411 --> 01:27:
-Birlikte bir isim ve başka bir şey ile.
-
-1023
-52,253 01:27:50,491 --> 01:27:
-Yetim misin?
-
-1024
-54,733 01:27:53,291 --> 01:27:
-Adın ne?
-
-1025
-59,133 01:27:56,891 --> 01:27:
-En parlak yıldız
-Kuzey benim ismimi verdi.
-
-1026
-01:28:05,931 --> 01:28:09,173
-- Carina olurdu?
-- Carina Smyth.
-
-1027
-01:28:11,051 --> 01:28:15,173
-- Yıldız olduğunu biliyor musun?
-- Ben kaptanım.
-
-1028
-01:28:18,651 --> 01:28:21,453
-Yıldızlar evde devam biliyorum.
-
-1029
-01:29:04,571 --> 01:29:05,893
-Smyth?
-
-1030
-09,333 01:29:06,891 --> 01:29:
-Smyth nadir bir soyadı.
-
-1031
-14,093 01:29:10,571 --> 01:29:
-Olmadı birisiyle karşılaşırız
-adı geçen Smyth olan?
-
-1032
-15,493 01:29:14,171 --> 01:29:
-Kapa çeneni!
-
-1033
-17,093 01:29:15,611 --> 01:29:
-Adı...
-
-1034
-19,453 01:29:17,691 --> 01:29:
-Burada var
-bunun ucu...
-
-1035
-21,653 01:29:19,851 --> 01:29:
-Ne o dilini söküp miyim?
-
-1036
-22,773 01:29:21,691 --> 01:29:
-Margaret Smyth...
-
-1037
-26,373 01:29:24,251 --> 01:29:
-Evet, ne yapıyoruz
-o zaman anlaşma mı?
-
-1038
-29,293 01:29:26,811 --> 01:29:
-Ya da, kim olduğunu sana söylerim
-
-1039
-31,893 01:29:29,771 --> 01:29:
-bildiklerimizi
-iki doğrudur.
-
-1040
-34,413 01:29:31,931 --> 01:29:
-Sırrı ile gidecek
-mezara kadar hem de.
-
-1041
-36,293 01:29:34,447 --> 01:29:
-Gerçekten, doğru mu?
-Yaptım.
-
-1042
-37,173 01:29:36,331 --> 01:29:
-Yok!
-
-1043
-40,533 01:29:37,211 --> 01:29:
-Eğer beni öldürürsen, hiçbir şey alamazsın
-ölü teklif için.
-
-1044
-42,773 01:29:40,971 --> 01:29:
-Benim ihtiyacım...
-
-1045
-48,613 01:29:43,851 --> 01:29:
-Çok frank Hector olacağım...
-Çok çirkinsin...
-
-1046
-52,973 01:29:48,651 --> 01:29:
-Nasıl çocuk diyebilirsin
-bu güzel yaratık?
-
-1047
-54,853 01:29:53,371 --> 01:29:
-Margaret vefat etti...
-
-1048
-56,733 01:29:55,131 --> 01:29:
-ve en soylu yaptım
-ve bu onurlu...
-
-1049
-58,333 01:29:56,771 --> 01:29:
-bu sefil fare
-teklif verebilir.
-
-1050
-01:29:58,731 --> 01:30:02,293
-Bebeği bir Yetimhaneye aldım
-ve varlığını unutun.
-
-1051
-01:30:02,571 --> 01:30:05,333
-Ruby hayat onun için daha kolay olur diye düşündüm.
-
-1052
-01:30:05,371 --> 01:30:07,853
-Ama hayal etmedim
-bu karalamalar alacaktı...
-
-1053
-01:30:08,091 --> 01:30:09,693
-ve bir hayat sahte olurdu.
-
-1054
-01:30:10,971 --> 01:30:13,093
-O beni geri götürür.
-
-1055
-01:30:15,851 --> 01:30:20,933
-Bu şimdi bana koyar sanırım
-iyi bir pozisyon, Baba.
-
-1056
-01:30:20,971 --> 01:30:23,453
-- Ne istediğini söyle.
-- Pusulam istiyorum.
-
-1057
-01:30:24,331 --> 01:30:29,693
-ROM 216 varil...
-Ve bir maymun.
-
-1058
-01:30:30,411 --> 01:30:32,453
-- Jack ister misin?
-- Akşam yemeği için...
-
-1059
-01:30:32,491 --> 01:30:34,413
-Pişirmek istiyorum.
-Bu yemeğe gidiyorum...
-
-1060
-01:30:35,051 --> 01:30:37,893
-Anlaşma yok Jack.
-Genç bir kadın bu kadar güzel ve hazır...
-
-1061
-01:30:37,931 --> 01:30:42,253
-hiç bir domuz inanır
-ben ve o gibi, birbirimizle akrabayız.
-
-1062
-01:30:45,211 --> 01:30:47,533
-Ve Mızrak benim olacak.
-
-1063
-01:30:58,251 --> 01:30:59,613
-Kırmızı Mont.
-
-1064
-01:31:00,891 --> 01:31:02,133
-İngiliz!
-
-1065
-01:31:05,051 --> 01:31:07,213
-Ateş etmeye hazır olun!
-
-1066
-01:31:07,251 --> 01:31:08,893
-Ateş etmek için hazır ol...
-
-1067
-01:31:15,891 --> 01:31:18,133
-Sancak tutmak.
-
-1068
-01:31:18,731 --> 01:31:20,693
-Sonuna kadar mücadele edeceğiz.
-
-1069
-01:31:20,891 --> 01:31:24,013
-Bir daha asla olacak
-Siyah İnci çalmak.
-
-1070
-29,933 31 01:31:28,811 --> 01::
-Lord.
-
-1071
-01:31:34,811 --> 01:31:38,373
-Sadece İngiliz İmparatorluğu deniz gücü kontrol edecek.
-
-1072
-01:32:12,651 --> 01:32:15,893
-Ne olursa olsun...
-Ders bırakmayın.
-
-1073
-46,377 01:32:41,691 --> 01:32:
-Jack Sparrow?
-
-1137
-01:32:46,411 --> 01:32:48,693
-Katil geldi.
-
-1075
-01:32:53,131 --> 01:32:54,373
-Nerede?
-
-1076
-01:32:57,531 --> 01:33:01,773
-Adamları savunmak!
-Sonbahar için.
-
-1077
-07,333 33 01:33:03,611 --> 01::
-Acele et, Yaptın... 
-tereyağı ile bileyin.
-
-1078
-29,813 33 01:33:28,251 --> 01::
-Saklanacak bir yer yok.
-
-1079
-48,133 33 01:33:45,371 --> 01::
-Cesur olalım,
-İnci kaydedin.
-
-1080
-01:33:57,411 --> 01:33:58,813
-Bu olmalıdır.
-
-1081
-01:34:01,851 --> 01:34:04,493
-- Burada olmak zorunda.
-Bu topraklar için - arama...
-
-1082
-01:34:04,571 --> 01:34:06,493
-ya da burada öleceğiz.
-
-1083
-01:34:06,731 --> 01:34:08,053
-Buraya yakın.
-
-1084
-01:34:08,651 --> 01:34:10,613
-...
-Buralarda olmalı.
-
-1085
-01:35:31,771 --> 01:35:35,013
-Bayan aradığınızı buldunuz mu?
-- Çalışıyorum!
-
-1086
-01:35:37,262 --> 01:35:38,824
-Yıldızlar yakında ayrılacak.
-
-1087
-09,904 36 01:36:08,582 --> 01::
-Carina!
-
-1088
-13,664 36 01:36:10,422 --> 01::
-Henry! "Bak, Adanın orada.
-
-1089
-15,624 36 01:36:14,262 --> 01::
-Buldun!
-
-1090
-27,424 36 01:36:26,342 --> 01::
-Ada...
-
-1091
-34,304 36 01:36:33,222 --> 01::
-Dünya?
-
-1092
-37,104 36 01:36:35,702 --> 01::
-Gemiye koş!
-
-1093
-54,664 36 01:36:53,382 --> 01::
-Carina!
-
-1094
-01:37:10,742 --> 01:37:12,224
-Carina!
-
-1095
-01:37:15,262 --> 01:37:16,624
-Henry!
-
-1096
-01:37:30,182 --> 01:37:31,182
-Henry var!
-
-1076
-01:37:31,342 --> 01:37:33,784
-Şimdi onu kurtarabilecek tek şey Trident.
-
-1098
-01:37:34,022 --> 01:37:35,464
-Onu bulmak zorundayız.
-
-1099
-01:37:55,382 --> 01:37:56,704
-Nerede?
-
-1100
-02,784 38 01:38:01,382 --> 01::
-Burada olmak...
-
-1101
-01:38:34,822 --> 01:38:36,144
-Jack bak...
-
-1102
-01:38:37,062 --> 01:38:39,384
-Hayatımda gördüğüm en güzel şeydi.
-
-1103
-01:38:39,702 --> 01:38:42,024
-Babam bulmasını istedi.
-
-1104
-01:38:42,062 --> 01:38:42,984
-Kayalar?
-
-1105
-46,144 38 01:38:43,062 --> 01::
-Kayalar değil...
-Yıldız.
-
-1106
-01:38:46,502 --> 01:38:48,784
-Bu harita olduğunu
-hiçbir erkek okuyabilirsiniz.
-
-1107
-01:38:50,182 --> 01:38:54,224
-Bu Ada... mükemmel
-cennetin yansıması.
-
-1108
-04,424 01:39:01,702 --> 01:39:
-Bir yıldız eksik.
-Hızlı.
-
-1109
-07,704 01:39:05,542 --> 01:39:
-Trident bulmalısın
-Henry kurtarmak için.
-
-1110
-01:39:07,942 --> 01:39:08,942
-Hector...
-
-1111
-01:39:08,982 --> 01:39:11,064
-Bunu size söylemek zorundayım
-bir horologist...
-
-1112
-40,504 01:39:39,222 --> 01:39:
-Neden parlıyor değil mi?
-
-1113
-01:39:42,182 --> 01:39:43,704
-Doldur, Carina.
-
-1114
-01:39:50,262 --> 01:39:51,504
-Kayıp yıldız.
-
-1115
-01:39:53,302 --> 01:39:54,664
-Babam için...
-
-1116
-01:39:56,142 --> 01:39:57,224
+163
+00:16:37,288 --> 00:16:38,288
+Ne kadar var?
+
+164
+00:16:39,374 --> 00:16:40,959
+Hay�r, durun, hat�rl�yorum.
+
+165
+00:16:41,126 --> 00:16:44,004
+Biraz kafam� bo�altmama izin verin.
+
+166
+00:16:44,921 --> 00:16:46,381
+Haz�r olun!
+
+167
+00:16:47,090 --> 00:16:48,174
+Ni�an al�n!
+
+168
+00:16:51,344 --> 00:16:52,344
+Ate� etmeyin!
+
+169
+00:16:53,013 --> 00:16:55,015
+Kasan�n i�inde bir de kad�n var!
+
+170
+00:16:58,727 --> 00:17:00,854
+Bo� verin o s�rt���.
+
+171
+00:17:01,021 --> 00:17:04,566
+Efendim, san�r�m o sizin e�iniz.
+
+172
+00:17:10,196 --> 00:17:11,322
+Frances?
+
+173
+00:17:13,450 --> 00:17:14,993
+Tamam, hat�rlad�m.
+
+174
+00:17:16,786 --> 00:17:19,080
+Hat�rlad�m! Bankay� soyuyorum!
+
+175
+00:17:19,247 --> 00:17:20,540
+Vurun onu!
+
+176
+00:17:25,503 --> 00:17:26,503
+Hadi!
+
+177
+00:17:27,172 --> 00:17:28,172
+�ekin!
+
+178
+00:17:34,471 --> 00:17:35,597
+�ekin!
+
+179
+00:17:36,890 --> 00:17:37,515
+Hadi!
+
+180
+00:18:06,753 --> 00:18:08,797
+��te bu hesapta yoktu.
+
+181
+00:18:10,840 --> 00:18:12,759
+Takip edin! Ka�mas�na izin vermeyin!
+
+182
+00:18:18,848 --> 00:18:21,101
+Hadi! Ko�un!
+
+183
+00:18:50,088 --> 00:18:51,297
+Bu koyun eti benim de�il mi?
+
+184
+00:18:51,464 --> 00:18:52,924
+�ok pahal�yd�.
+
+185
+00:18:53,091 --> 00:18:57,512
+K�PEKLER G�REMEZ
+KADINLAR G�REMEZ
+
+186
+00:19:12,110 --> 00:19:14,821
+Daha �nce hi�bir kad�n
+Herschel'ime dokunmad�.
+
+187
+00:19:23,121 --> 00:19:24,414
+Yolu a��n!
+
+188
+00:19:25,415 --> 00:19:27,584
+Hay�r, hay�r, hay�r!
+
+189
+00:19:30,295 --> 00:19:32,088
+Dur! Dur! Dur!
+
+190
+00:19:35,842 --> 00:19:37,260
+��eri gir!
+
+191
+00:19:44,768 --> 00:19:45,935
+Sancak alabanda.
+
+192
+00:20:03,561 --> 00:20:04,561
+<i>Bay�m.</i>
+
+193
+00:20:04,621 --> 00:20:06,289
+G�ky�z� konumunuz yanl��t�.
+
+194
+00:20:06,456 --> 00:20:09,834
+�ki derece kuzeye kayd�rd�m.
+Art�k haritan�zda hata olmayacak.
+
+195
+00:20:10,001 --> 00:20:11,628
+Yine de ba�tan ba�laman�z gerek.
+
+196
+00:20:11,795 --> 00:20:12,795
+Sen cad�s�n.
+
+197
+00:20:13,046 --> 00:20:14,297
+Hay�r, de�ilim.
+
+198
+00:20:14,547 --> 00:20:17,342
+�ki y�zden fazla y�ld�z�
+listeledi�im i�in mi cad�y�m?
+
+199
+00:20:17,509 --> 00:20:18,509
+Cad�!
+
+200
+00:20:20,553 --> 00:20:22,055
+Kanl� ay tutulmas� yakla��yor.
+
+201
+00:20:22,681 --> 00:20:26,393
+Bir kronometre almam gerek.
+
+202
+00:20:27,143 --> 00:20:28,645
+Bir kad�na satman�z i�in
+iki kat�n� veririm.
+
+203
+00:20:28,895 --> 00:20:29,895
+�mdat!
+
+204
+00:20:30,897 --> 00:20:32,482
+D�kkan�mda bir cad� var!
+
+205
+00:20:32,899 --> 00:20:33,899
+�mdat!
+
+206
+00:20:34,567 --> 00:20:36,861
+�mdat! D�kkan�mda bir cad� var!
+
+207
+00:20:38,697 --> 00:20:42,033
+Ve korsan! D�kkan�mda bir cad�
+ve bir korsan var!
+
+208
+00:20:42,200 --> 00:20:44,327
+Bug�n �ansl� g�n�n!
+
+209
+00:20:44,494 --> 00:20:46,913
+D�rd�n�zden biri bankam�
+g�rd� m� acaba?
+
+210
+00:20:50,208 --> 00:20:51,209
+Buldum!
+
+211
+00:20:55,005 --> 00:20:56,506
+Sen bu plana dahil miydin?
+
+212
+00:20:56,673 --> 00:20:58,008
+Ben bela aram�yorum.
+
+213
+00:20:58,174 --> 00:21:00,176
+Ne s�k�c� bir hayat.
+
+214
+00:21:08,018 --> 00:21:09,853
+Durdurun �u cad�y�! Yakalay�n!
+
+215
+00:21:10,020 --> 00:21:11,855
+Kapana k�s�ld�k. Ne yapaca��z?
+
+216
+00:21:12,022 --> 00:21:13,523
+Evet, i�te orada! �abuk!
+
+217
+00:21:15,233 --> 00:21:17,068
+Ba��rman gerek.
+
+218
+00:21:19,738 --> 00:21:21,906
+�u tarafta! Yakalay�n o kad�n�!
+
+219
+00:21:23,742 --> 00:21:25,243
+Seni pis korsan!
+
+220
+00:21:25,410 --> 00:21:27,370
+Hakarete gerek yok!
+
+221
+00:21:39,382 --> 00:21:40,550
+Hadi millet!
+
+222
+00:22:03,907 --> 00:22:04,907
+Jack!
+
+223
+00:22:10,413 --> 00:22:11,413
+K�pr� m�?
+
+224
+00:22:46,491 --> 00:22:47,492
+Bombo�!
+
+225
+00:22:48,785 --> 00:22:49,785
+Mang�rlar nerede?
+
+226
+00:22:49,869 --> 00:22:52,288
+Banka soymak kolay m� san�yorsun?
+
+227
+00:22:52,455 --> 00:22:55,166
+Her �eyden �nce, siz,
+be� para etmez �dlek s�r�s�...
+
+228
+00:22:55,333 --> 00:22:58,378
+...beni bu rezil duruma
+soktu�unuz i�in su�lusunuz.
+
+229
+00:22:58,545 --> 00:23:00,630
+�imdi s�raya ge�in ve s�k�l�n hara�lar�.
+
+230
+00:23:01,673 --> 00:23:03,299
+Biz mi sana �deyece�iz?
+
+231
+00:23:03,466 --> 00:23:05,802
+Bu geminin kaptan� ben de�il miyim?
+
+232
+00:23:06,469 --> 00:23:08,638
+Sen buna gemi mi diyorsun?
+
+233
+00:23:08,805 --> 00:23:10,223
+Hazine nerede?
+
+234
+00:23:10,390 --> 00:23:11,850
+Hepimiz a�l�ktan �l�yoruz.
+
+235
+00:23:12,017 --> 00:23:14,477
+Art�k gemisi olmayan bir kaptanla
+i�imiz olmaz.
+
+236
+00:23:14,644 --> 00:23:16,312
+Benim gemim var.
+
+237
+00:23:17,689 --> 00:23:19,933
+<i>Siyah �nci</i> asla yan�mdan ayr�lmaz.
+
+238
+00:23:20,817 --> 00:23:24,029
+Art�k bu denizlere
+Korsan Barbossa h�kmediyor.
+
+239
+00:23:24,195 --> 00:23:26,823
+10 gemisi var, silahlar� dolu.
+
+240
+00:23:26,990 --> 00:23:30,368
+Gemilerdeki toplar da cabas�.
+Dediklerine g�re her biri 8 kilo.
+
+241
+00:23:30,535 --> 00:23:31,995
+8 kiloluk toplar� olan
+tek bacakl� bir adam m�?
+
+242
+00:23:33,163 --> 00:23:34,831
+O y�zden komik y�r�yor.
+
+243
+00:23:35,081 --> 00:23:36,541
+Yapmay�n �ocuklar.
+
+244
+00:23:36,708 --> 00:23:39,002
+Makedonya definesini birlikte bulmad�k m�?
+
+245
+00:23:39,169 --> 00:23:40,754
+��r�k keresteyle bizi keklediler.
+
+246
+00:23:40,920 --> 00:23:42,839
+- Kral Midas'�n alt�nlar�.
+- E�ek g�bresi y���n�.
+
+247
+00:23:43,882 --> 00:23:44,882
+Kabul et Jack.
+
+248
+00:23:45,008 --> 00:23:46,926
+K�t� �ans gece g�nd�z yakan� b�rakm�yor.
+
+249
+00:23:47,093 --> 00:23:50,263
+Bu d�ped�z uydurma.
+
+250
+00:23:54,684 --> 00:23:56,019
+�ans�n� kaybettin.
+
+251
+00:23:56,186 --> 00:23:57,437
+Gemini kaybettin.
+
+252
+00:23:57,604 --> 00:24:00,732
+�imdi de, m�rettebat�n� kaybettin.
+
+253
+00:24:00,899 --> 00:24:03,693
+Jack Sparrow art�k bizim kaptan�m�z de�il.
+
+254
+00:24:07,864 --> 00:24:09,699
+Kusura bakma Jack.
+
+255
+00:24:09,866 --> 00:24:12,369
+Ama yolun sonuna geldik.
+
+256
+00:24:23,546 --> 00:24:24,798
+Tamam o zaman.
+
+257
+00:24:26,091 --> 00:24:28,051
+Kovuldunuz.
+
+258
+00:24:28,218 --> 00:24:30,929
+Hepiniz kovuldunuz.
+
+259
+00:24:31,096 --> 00:24:34,641
+Bir daha Kaptan Jack Sparrow ile
+denize a��lmayacaks�n�z, oras� kesin.
+
+260
+00:25:22,313 --> 00:25:24,315
+B�t�n kasaba seni konu�uyor.
+
+261
+00:25:24,482 --> 00:25:26,526
+<i>Monarch</i> gemisinden kurtulan tek ki�i.
+
+262
+00:25:26,693 --> 00:25:31,197
+Saint Martin'e kadar bir k�t�k �st�nde
+ak�nt�ya kar�� k�rek �eken �ocuk.
+
+263
+00:25:31,364 --> 00:25:35,952
+Korsanlar ve �� u�lu m�zraklar�
+say�klarken bulundu.
+
+264
+00:25:36,619 --> 00:25:38,455
+L�tfen efendim, ��kar�n bu zincirleri.
+
+265
+00:25:38,621 --> 00:25:42,042
+Benim g�revim bu aday� ve
+denizi korumak.
+
+266
+00:25:42,459 --> 00:25:44,794
+Ceketinin kollar� da y�rt�lm��t�.
+
+267
+00:25:46,296 --> 00:25:47,547
+�hanet i�areti.
+
+268
+00:25:47,714 --> 00:25:48,798
+Bize �l�ler sald�rd�...
+
+269
+00:25:48,965 --> 00:25:51,134
+Sen sava�tan ka�an bir korkaks�n.
+
+270
+00:25:51,551 --> 00:25:53,678
+Ve aynen �yle �leceksin.
+
+271
+00:26:05,190 --> 00:26:07,233
+Korkak oldu�una inanm�yorum.
+
+272
+00:26:07,400 --> 00:26:08,818
+Beni rahat b�rak rahibe.
+
+273
+00:26:09,152 --> 00:26:12,989
+Buraya gelmek, s�ylentiler do�ru mu
+g�rmek i�in hayat�m� riske att�m.
+
+274
+00:26:13,156 --> 00:26:14,657
+M�zraktan m� s�z ediyorsun?
+
+275
+00:26:15,658 --> 00:26:16,659
+Kimsin sen?
+
+276
+00:26:16,826 --> 00:26:19,037
+�� U�lu M�zrak'� neden arad���n� s�yle.
+
+277
+00:26:20,747 --> 00:26:23,166
+M�zrak denizdeki b�t�n lanetleri bozabilir.
+
+278
+00:26:24,751 --> 00:26:26,503
+Babam b�yle bir lanetin pen�esinde.
+
+279
+00:26:26,670 --> 00:26:29,005
+Lanetler bilimsel ger�eklere
+dayanm�yor fark�ndaysan.
+
+280
+00:26:29,172 --> 00:26:30,256
+Hayaletler de.
+
+281
+00:26:30,840 --> 00:26:33,343
+Demek kafay� yedin?
+Buraya hi� gelmemeliydim.
+
+282
+00:26:33,510 --> 00:26:35,011
+O zaman neden geldin?
+
+283
+00:26:35,178 --> 00:26:37,222
+��nk� bu adadan gitmem gerek.
+
+284
+00:26:37,389 --> 00:26:39,766
+- ��zmeliyim, <i>Kimsenin Okuyamad���...
+- Harita'y�.</i>
+
+285
+00:26:39,933 --> 00:26:42,018
+Poseidon'un b�rakt���.
+
+286
+00:26:43,853 --> 00:26:45,730
+Antik yaz�t� okudun mu?
+
+287
+00:26:45,897 --> 00:26:48,400
+Hem de yaz�ld��� her dilde.
+
+288
+00:26:49,901 --> 00:26:53,238
+Ama o haritay� ne g�ren
+ne de okuyan bir adam var.
+
+289
+00:26:53,697 --> 00:26:56,032
+Neyse ki ben kad�n�m.
+
+290
+00:26:58,868 --> 00:27:01,955
+Bu Galileo Galilei'nin g�nl���.
+
+291
+00:27:02,122 --> 00:27:04,791
+Hayat� boyunca �� U�lu M�zrak'� arad�.
+
+292
+00:27:04,958 --> 00:27:06,626
+Bu y�zden teleskopu icat etti...
+
+293
+00:27:06,793 --> 00:27:09,379
+...g�kbilimciler de �m�rlerini
+g�ky�z�ne bakarak ge�irdi.
+
+294
+00:27:10,880 --> 00:27:14,634
+Yani <i>Kimsenin Okuyamad��� Harita
+</i>y�ld�zlarda m� gizli?
+
+295
+00:27:14,801 --> 00:27:16,720
+Bu bana babamdan kald�.
+
+296
+00:27:16,886 --> 00:27:22,267
+Kimsenin bulamad���n� bulaca��ma inand�,
+onun y�z�n� kara ��karmam.
+
+297
+00:27:22,434 --> 00:27:25,061
+Yak�nda kanl� ay tutulmas� var.
+
+298
+00:27:25,228 --> 00:27:27,480
+Harita ancak o zaman okunabilir.
+
+299
+00:27:28,064 --> 00:27:29,566
+M�zrak da bulunur.
+
+300
+00:27:30,233 --> 00:27:31,233
+Kimsin sen?
+
+301
+00:27:31,276 --> 00:27:33,445
+Carina Smyth.
+
+302
+00:27:33,611 --> 00:27:36,072
+Baban� kurtarmak istiyorsan,
+beni kurtarman gerekecek.
+
+303
+00:27:36,239 --> 00:27:38,241
+Bize bir gemi bul,
+�� U�lu M�zrak bizim olsun.
+
+304
+00:27:40,160 --> 00:27:42,245
+Teslim ol cad�.
+
+305
+00:27:45,999 --> 00:27:47,000
+Dur.
+
+306
+00:27:54,299 --> 00:27:55,800
+Gitmi�!
+
+307
+00:27:56,468 --> 00:27:57,844
+Gitmi� efendim!
+
+308
+00:28:00,472 --> 00:28:02,265
+Bulun o korka��.
+
+309
+00:28:02,432 --> 00:28:04,184
+Cad�yla birlikte as�lacak.
+
+310
+00:28:04,351 --> 00:28:05,351
+Y�r�y�n!
+
+311
+00:28:06,478 --> 00:28:09,356
+Kaptan Jack'in suyu �s�nd� san�yorlar.
+
+312
+00:28:10,106 --> 00:28:13,276
+Tenime su de�meyeli y�llar oldu.
+
+313
+00:28:16,946 --> 00:28:17,947
+�u ara soka�a bak�n.
+
+314
+00:28:18,531 --> 00:28:21,034
+Siz ikiniz, kiliseye bak�n.
+Geri kalanlar, benimle gelin.
+
+315
+00:28:28,458 --> 00:28:29,458
+Hay aksi.
+
+316
+00:28:40,804 --> 00:28:45,058
+Me�hur Korsan JACK SPARROW
+�1 �D�L, �L� VEYA D�R�
+
+317
+00:28:49,062 --> 00:28:51,356
+Bir i�ki alabilir miyim l�tfen?
+
+318
+00:28:52,148 --> 00:28:53,316
+�nce g�m��� g�reyim.
+
+319
+00:28:53,483 --> 00:28:55,235
+G�m�� m�?
+
+320
+00:29:01,533 --> 00:29:03,243
+Takasa ne dersin?
+
+321
+00:29:05,870 --> 00:29:07,414
+Bana �i�eyi ver.
+
+322
+00:30:02,469 --> 00:30:05,555
+Kaptan, neler oluyor?
+
+323
+00:30:10,477 --> 00:30:12,062
+Jack Sparrow.
+
+324
+00:30:12,228 --> 00:30:14,564
+Jack Sparrow pusulay� elden ��kard�.
+
+325
+00:30:26,910 --> 00:30:29,079
+G�n �����. G�n �����.
+
+326
+00:30:45,845 --> 00:30:47,597
+�zg�r�z!
+
+327
+00:30:55,105 --> 00:30:59,442
+��te �imdi.
+�imdi, korsan avlama zaman�.
+
+328
+00:31:06,783 --> 00:31:08,451
+Korsanl�k i�te.
+
+329
+00:31:18,294 --> 00:31:19,337
+Gel babana.
+
+330
+00:31:20,547 --> 00:31:22,465
+��te arad���m�z adam burada.
+
+331
+00:31:22,632 --> 00:31:24,384
+Neden? Beni neden ar�yorsunuz?
+
+332
+00:31:24,551 --> 00:31:29,014
+Duyduk duymad�k demeyin, korsan
+Jack Sparrow �afak vakti idam edilecek.
+
+333
+00:31:29,180 --> 00:31:30,640
+�dam m�?
+
+334
+00:31:30,807 --> 00:31:34,019
+Bir daha bu kasabaya
+ad�m�m� atmam efendim.
+
+335
+00:31:34,185 --> 00:31:35,311
+Demedi demeyin.
+
+336
+00:31:35,478 --> 00:31:36,855
+�ld�n sen, pislik.
+
+337
+00:31:37,022 --> 00:31:40,859
+Bak�n �ok ciddiyim.
+Buraya bir daha asla gelmeyece�im.
+
+338
+00:33:22,085 --> 00:33:23,795
+"Denizin g�c�n� serbest b�rakmak i�in...
+
+339
+00:33:24,796 --> 00:33:26,423
+...her �ey b�l�nmeli."
+
+340
+00:33:30,510 --> 00:33:32,095
+Bu bir ada.
+
+341
+00:33:32,429 --> 00:33:34,597
+Y�ld�zlar bir aday� g�steriyor.
+
+342
+00:33:44,941 --> 00:33:46,526
+Buraya bak�n efendim.
+
+343
+00:33:46,693 --> 00:33:48,945
+�ok iyi. Geri kalan� h�crelere g�t�r.
+
+344
+00:33:51,197 --> 00:33:52,866
+Bir korsan ar�yorum. Jack Sparrow.
+
+345
+00:33:53,033 --> 00:33:54,367
+Defol git.
+
+346
+00:33:58,788 --> 00:34:00,790
+Seninle konu�mal�y�m.
+
+347
+00:34:06,463 --> 00:34:07,630
+Bana k�l�c�n� ver.
+
+348
+00:34:07,797 --> 00:34:08,798
+K�l�c�m yok.
+
+349
+00:34:08,965 --> 00:34:10,884
+Ne bi�im askersin, silah�n yok?
+
+350
+00:34:11,051 --> 00:34:12,886
+�u anda ihanetten aran�yorum.
+
+351
+00:34:14,012 --> 00:34:15,513
+Demek iyi bir asker de�ilsin.
+
+352
+00:34:15,680 --> 00:34:18,516
+Bir korsan ar�yorum.
+Kaptan Jack Sparrow.
+
+353
+00:34:19,309 --> 00:34:20,894
+Bug�n �ansl� g�n�ndesin.
+
+354
+00:34:21,978 --> 00:34:27,484
+��nk� Kaptan Jack Sparrow tam kar��nda.
+
+355
+00:34:31,988 --> 00:34:33,740
+Hay�r, olamaz.
+
+356
+00:34:33,907 --> 00:34:36,659
+Ben y�llarca bunu mu arad�m?
+
+357
+00:34:37,160 --> 00:34:39,996
+Muhte�em Jack Sparrow
+h�credeki bir ayya� olamaz.
+
+358
+00:34:40,413 --> 00:34:43,166
+Gemin var m� senin? M�rettebat�n?
+
+359
+00:34:44,501 --> 00:34:45,752
+Pantolonun?
+
+360
+00:34:46,336 --> 00:34:49,047
+Muhte�em korsanlar
+ayr�nt�lara gerek duymaz.
+
+361
+00:34:49,214 --> 00:34:51,508
+Bu an� ne zamand�r bekliyorum
+haberin var m�?
+
+362
+00:34:51,675 --> 00:34:53,593
+Burada olmak i�in neleri riske att�m.
+
+363
+00:34:53,760 --> 00:34:55,428
+Sen Jack Sparrow oldu�una emin misin?
+
+364
+00:34:55,595 --> 00:34:58,014
+As�l soru �u, sen kimsin?
+
+365
+00:34:58,181 --> 00:34:59,683
+Benim ad�m Henry Turner.
+
+366
+00:34:59,849 --> 00:35:01,851
+Will Turner ve Elizabeth Swann'�n o�luyum.
+
+367
+00:35:03,019 --> 00:35:05,188
+Sen o ikisinin �eytan d�l� m�s�n?
+
+368
+00:35:06,064 --> 00:35:08,024
+Anneci�in hi� beni soruyor mu?
+
+369
+00:35:08,091 --> 00:35:09,091
+Hay�r.
+
+370
+00:35:09,109 --> 00:35:10,193
+Anlat.
+
+371
+00:35:10,694 --> 00:35:12,529
+Uykusunda beni say�kl�yor mu?
+
+372
+00:35:12,696 --> 00:35:14,239
+Senden hi� bahsetmedi.
+
+373
+00:35:15,031 --> 00:35:17,367
+Ayn� ki�ilerden bahsetti�imize
+emin misin?
+
+374
+00:35:17,534 --> 00:35:19,035
+Adam lanet bir had�m.
+
+375
+00:35:19,202 --> 00:35:22,872
+Kad�n sar� sa�l�, inat��, sark�k dudakl�.
+
+376
+00:35:23,039 --> 00:35:26,376
+Boynu z�rafa gibi. Ve iki ola�an�st�...
+
+377
+00:35:26,543 --> 00:35:28,586
+Evet. Evet, o.
+
+378
+00:35:30,046 --> 00:35:33,383
+Beni dinlemelisin Jack,
+��nk� �u an tek umudum sensin.
+
+379
+00:35:33,550 --> 00:35:35,552
+Babam� kurtarman�n yolunu buldum.
+
+380
+00:35:35,719 --> 00:35:38,888
+Lanetini bozacak ve onu <i>Hollandal�'dan
+</i>kurtaracak tek �ey var.
+
+381
+00:35:41,141 --> 00:35:42,675
+Poseidon'un �� U�lu M�zra��.
+
+382
+00:35:44,811 --> 00:35:49,649
+<i>Kimsenin Okuyamad��� Harita'yla
+</i>bulunacak olan hazine.
+
+383
+00:35:52,318 --> 00:35:53,611
+Hi� duymad�m.
+
+384
+00:35:54,779 --> 00:35:58,074
+Bu hapishanede bir k�z var Jack,
+harita onda.
+
+385
+00:35:58,241 --> 00:36:00,910
+Kanl� ay tutulmas� var,
+M�zrak bulunacak...
+
+386
+00:36:01,077 --> 00:36:02,620
+...sen de denizlere h�kmeden
+ki�i olabilirsin...
+
+387
+00:36:02,787 --> 00:36:04,748
+...b�ylece eski g�nlerine geri d�nersin.
+
+388
+00:36:04,914 --> 00:36:06,082
+Muhte�em...
+
+389
+00:36:07,959 --> 00:36:08,959
+Jack!
+
+390
+00:36:09,961 --> 00:36:11,921
+�ok �z�r dilerim.
+Hala konu�uyor muydun?
+
+391
+00:36:12,088 --> 00:36:13,590
+San�r�m biraz i�im ge�ti.
+
+392
+00:36:14,924 --> 00:36:16,259
+Bir �ey daha.
+
+393
+00:36:16,426 --> 00:36:19,429
+Tan�d���n birinden mesaj getirdim,
+ad� Kaptan Salazar.
+
+394
+00:36:22,599 --> 00:36:24,768
+Eskiden bir �spanyol tan�rd�m ad�...
+
+395
+00:36:25,685 --> 00:36:27,520
+...�spanyolca bir �eydi.
+
+396
+00:36:29,647 --> 00:36:30,815
+Denizin Katili.
+
+397
+00:36:30,982 --> 00:36:32,942
+O mu? Hay�r, hay�r.
+
+398
+00:36:33,360 --> 00:36:36,154
+�ok ��k�r o �ld�.
+Ger�ekten �ld�.
+
+399
+00:36:36,321 --> 00:36:38,365
+- Gemisi batt�.
+- ��genin i�inde.
+
+400
+00:36:39,616 --> 00:36:43,328
+Senin i�in geliyor Jack, �l�lerin
+hikayesinde anlat�ld��� gibi �� almaya.
+
+401
+00:36:43,495 --> 00:36:44,871
+Sana inanm�yorum.
+
+402
+00:36:47,457 --> 00:36:48,541
+Peki ne dedi?
+
+403
+00:36:48,708 --> 00:36:50,960
+Kurtulu�unun anahtar� senin pusulanm��.
+
+404
+00:36:51,378 --> 00:36:54,047
+Bir �l� ordusu seni bulmaya geliyor Jack.
+
+405
+00:36:54,214 --> 00:36:56,800
+Tek umudun Poseidon'un M�zrak'�.
+
+406
+00:36:58,635 --> 00:37:00,470
+�imdi anla�t�k m�?
+
+407
+00:37:08,561 --> 00:37:10,522
+Ona s�ylemek i�in oraya gitmem.
+
+408
+00:37:10,689 --> 00:37:12,023
+Ama senin fikrindi.
+
+409
+00:37:12,190 --> 00:37:15,068
+Hay�r, benim fikrim
+senin ona s�ylemendi.
+
+410
+00:37:15,235 --> 00:37:16,736
+Seni benden daha �ok sever.
+
+411
+00:37:16,903 --> 00:37:18,488
+O kimseyi sevmez.
+
+412
+00:37:41,678 --> 00:37:42,679
+Affedersiniz efendim.
+
+413
+00:37:42,846 --> 00:37:44,514
+Biliyoruz rahats�z etmeyin dediniz.
+
+414
+00:37:44,681 --> 00:37:46,349
+Veya iyi bir nedeniniz yoksa
+gelmeyin dediniz.
+
+415
+00:37:46,516 --> 00:37:48,852
+Veya konu�madan �nce...
+
+416
+00:37:49,853 --> 00:37:51,271
+Kendi kendinize sorun...
+
+417
+00:37:51,438 --> 00:37:54,232
+D���nd�klerimizi s�ylemeye
+ger�ekten gerek var m�?
+
+418
+00:37:54,399 --> 00:37:56,192
+Geminin yand��� g�n gibi.
+
+419
+00:37:56,359 --> 00:37:58,778
+Gerekli d���ncelere
+g�zel bir �rnek oldu.
+
+420
+00:37:58,945 --> 00:38:01,614
+Efendim, o yang�n� ��kard���m�z i�in
+tekrar �z�r dileriz.
+
+421
+00:38:08,705 --> 00:38:10,040
+Konu�un.
+
+422
+00:38:10,206 --> 00:38:12,125
+Gemileriniz efendim.
+
+423
+00:38:12,292 --> 00:38:15,545
+Mallara dokunmayan bir d��man
+taraf�ndan sald�r�ya u�rad�lar.
+
+424
+00:38:15,712 --> 00:38:17,380
+Hi� sebepsiz �ld�r�yor.
+
+425
+00:38:17,547 --> 00:38:18,757
+Gemilerim mi?
+
+426
+00:38:18,923 --> 00:38:20,383
+M�mk�n de�il.
+
+427
+00:38:20,550 --> 00:38:22,635
+�� tanesi batt� bile efendim.
+
+428
+00:38:23,053 --> 00:38:25,722
+Salamander adl�
+bir kaptan taraf�ndan bat�r�ld�.
+
+429
+00:38:25,889 --> 00:38:27,057
+Samovar.
+
+430
+00:38:28,767 --> 00:38:29,893
+Salazar.
+
+431
+00:38:30,060 --> 00:38:31,561
+Evet o, efendimiz.
+
+432
+00:38:31,728 --> 00:38:35,065
+Her gemide hikayeyi anlatmas� i�in
+bir adam b�rak�yor.
+
+433
+00:38:35,231 --> 00:38:38,276
+B�t�n filo sulara g�m�ld�...
+
+434
+00:38:38,443 --> 00:38:41,571
+...biz de yak�nda �lece�iz.
+
+435
+00:38:41,738 --> 00:38:44,991
+Ve muhtemelen i�siz kalaca��z.
+
+436
+00:38:50,580 --> 00:38:53,375
+Sizin b�y�c�yle biraz konu�mam gerek.
+
+437
+00:39:08,098 --> 00:39:10,058
+Ben de seni bekliyordum Kaptan.
+
+438
+00:39:11,059 --> 00:39:13,687
+Bir �ay al�r m�yd�n?
+
+439
+00:39:16,773 --> 00:39:18,983
+Almayay�m. �ok te�ekk�r ederim.
+
+440
+00:39:20,485 --> 00:39:24,322
+Kap�m� �alman�n bedeli
+kanla �denir Kaptan.
+
+441
+00:39:24,489 --> 00:39:27,534
+Neden pek me�gul olmad���n anla��l�yor.
+
+442
+00:39:28,118 --> 00:39:30,662
+Herkes eninde sonunda �der.
+
+443
+00:39:31,913 --> 00:39:34,290
+Shansa, sen ve ben y�llar �nce
+bir anla�ma yapt�k.
+
+444
+00:39:34,791 --> 00:39:36,960
+Seni dara�ac�ndan kurtard�m,
+unuttun mu?
+
+445
+00:39:37,127 --> 00:39:39,629
+Ben de d��manlar�n� lanetledim.
+
+446
+00:39:39,796 --> 00:39:45,218
+Ama �imdi bana korkuyla geldin,
+��nk� �l�ler denizin idaresini ele ald�.
+
+447
+00:39:45,385 --> 00:39:47,512
+�l�ler benden ne istiyor olabilir?
+
+448
+00:39:48,596 --> 00:39:50,890
+Senden de�il Kaptan.
+
+449
+00:39:51,057 --> 00:39:53,476
+Onlar bir Ser�e ar�yor.
+
+450
+00:39:54,060 --> 00:39:55,311
+Jack mi?
+
+451
+00:39:57,814 --> 00:40:00,692
+Jack, M�zrak'� bulmak i�in a��lacak...
+
+452
+00:40:00,859 --> 00:40:04,237
+...bir k�z ve <i>�nci'yle.</i>
+
+453
+00:40:04,904 --> 00:40:07,490
+M�zrak asla bulunamaz.
+
+454
+00:40:10,994 --> 00:40:13,997
+Jack'in tek umudu M�zrak.
+
+455
+00:40:14,164 --> 00:40:18,585
+�l�ler denizi fethediyor,
+karaya ad�m atamazlar.
+
+456
+00:40:21,212 --> 00:40:25,091
+Belki de k�rsala yerle�melisin.
+
+457
+00:40:26,509 --> 00:40:30,847
+Yani �imenli�e mi? �iftli�e mi?
+
+458
+00:40:31,014 --> 00:40:36,895
+�nek sa��p peynir mi yapay�m,
+onlar hazinemi sulara g�merken mi?
+
+459
+00:40:37,062 --> 00:40:39,939
+Kendine �unu sor Kaptan.
+
+460
+00:40:40,106 --> 00:40:42,984
+Bu hazine u�runda �lmeye de�er mi?
+
+461
+00:40:43,151 --> 00:40:44,778
+Ben korsan�m.
+
+462
+00:40:44,944 --> 00:40:46,404
+�yle kalaca��m.
+
+463
+00:40:46,571 --> 00:40:49,115
+Peki benim olan� nas�l kurtaraca��m?
+
+464
+00:40:49,282 --> 00:40:53,745
+Jack bir pusulaya sahip,
+insana en �ok arzulad��� �eyi g�sterir.
+
+465
+00:40:53,912 --> 00:40:58,375
+Ama pusulaya ihanet edersen,
+en b�y�k korkunu serbest b�rak�r.
+
+466
+00:40:58,541 --> 00:41:02,212
+Bir korsan�n en b�y�k korkusu Salazar,
+de�il mi?
+
+467
+00:41:05,840 --> 00:41:07,050
+Bunu nas�l ald�n?
+
+468
+00:41:07,217 --> 00:41:08,927
+Kendi y�ntemlerim var.
+
+469
+00:41:09,094 --> 00:41:11,971
+M�zrak'� bulmadan �nce
+onlar� Jack'e y�nlendir...
+
+470
+00:41:12,138 --> 00:41:15,725
+...sonra b�t�n hazinelerin
+sana geri gelecek.
+
+471
+00:41:17,352 --> 00:41:20,146
+�l�lerle anla�ma yapma zaman�.
+
+472
+00:41:23,108 --> 00:41:25,652
+Hadi korsan!
+
+473
+00:41:32,117 --> 00:41:33,326
+Bekleyin. Durun!
+
+474
+00:41:33,493 --> 00:41:35,328
+Baba?
+
+475
+00:41:38,665 --> 00:41:39,833
+Jack Amca!
+
+476
+00:41:40,000 --> 00:41:42,460
+Jackie, evlat! Nas�l gidiyor?
+
+477
+00:41:42,627 --> 00:41:44,212
+Her �ey yolunda. Ya sen?
+
+478
+00:41:44,421 --> 00:41:46,715
+Sabahtan beri dayak yemek i�in bekliyorum.
+
+479
+00:41:46,881 --> 00:41:48,174
+Ama servis berbat.
+
+480
+00:41:48,633 --> 00:41:49,633
+Rezalet.
+
+481
+00:41:50,593 --> 00:41:51,845
+Jack.
+
+482
+00:41:53,096 --> 00:41:55,056
+Okyanuslar kan g�l�ne d�nd�.
+
+483
+00:41:55,223 --> 00:41:58,393
+En iyisi karada kalmak, daha g�venli.
+
+484
+00:41:58,977 --> 00:42:01,396
+Birazdan karada idam edilece�im.
+
+485
+00:42:02,022 --> 00:42:03,064
+�yi tespit.
+
+486
+00:42:03,231 --> 00:42:04,941
+Sana iskeletle ilgili hikayeyi
+anlatm�� m�yd�m?
+
+487
+00:42:05,650 --> 00:42:08,361
+- Anlatt�n. Hem de bir�ok defa.
+- �skelet bara girer...
+
+488
+00:42:08,528 --> 00:42:10,780
+...bir bira ve bir paspas ister.
+
+489
+00:42:13,158 --> 00:42:14,158
+Her zamanki gibi komik.
+
+490
+00:42:14,743 --> 00:42:16,578
+Hadi, gidelim.
+
+491
+00:42:17,412 --> 00:42:20,498
+Ba��rsaklar�n� ��kar�rlarsa
+Victor'u iste.
+
+492
+00:42:20,665 --> 00:42:22,250
+Eli ger�ekten �ok hafif.
+
+493
+00:42:22,709 --> 00:42:24,544
+- Te�ekk�r ederim!
+- Benim ad�m� ver.
+
+494
+00:42:24,711 --> 00:42:26,796
+Ayaklar�n� kesmezler.
+
+495
+00:42:46,483 --> 00:42:49,319
+Hadi bakal�m. �lk �nce sen.
+
+496
+00:42:52,322 --> 00:42:54,199
+Nas�l �lmek istersin korsan?
+
+497
+00:42:54,616 --> 00:42:59,662
+As�lmak, kur�una dizilmek
+veya yeni bir icat: giyotin.
+
+498
+00:42:59,829 --> 00:43:02,332
+Giyotin mi? Frans�zca san�r�m.
+
+499
+00:43:02,499 --> 00:43:05,418
+Frans�zlara bay�l�r�m.
+Mayonez onlar�n ke�fi biliyor musun?
+
+500
+00:43:05,585 --> 00:43:08,129
+Ne kadar k�t� olabilir?
+Frans�z sonu�ta.
+
+501
+00:43:11,174 --> 00:43:12,342
+Tamam o zaman.
+
+502
+00:43:12,509 --> 00:43:14,177
+Ben fikrimi de�i�tirdim!
+
+503
+00:43:20,016 --> 00:43:23,144
+Hay�r, l�tfen! Bana ac�y�n!
+Ben yatak �slat�yorum.
+
+504
+00:43:40,870 --> 00:43:44,207
+Yapmay�n, bunun i�in bir de
+merdivenden mi ��kmam gerek?
+
+505
+00:43:44,374 --> 00:43:45,374
+Sepeti getirin.
+
+506
+00:43:46,501 --> 00:43:47,919
+Sepet mi? Neden?
+
+507
+00:43:49,421 --> 00:43:50,421
+Ba�lay�n onu!
+
+508
+00:43:58,638 --> 00:44:00,849
+Bir fikrim var. Bir fikrim var.
+
+509
+00:44:01,016 --> 00:44:03,476
+Eski usul adam ta�lamaya ne dersiniz?
+
+510
+00:44:03,643 --> 00:44:07,397
+Ta�lanmak i�in her �eyi yapar�m.
+Kalabal�k da dahil olsun, de�il mi?
+
+511
+00:44:07,564 --> 00:44:09,816
+Ba��rsak ��karma b�l�m�nden
+Victor ile konu�mal�y�m.
+
+512
+00:44:09,983 --> 00:44:11,568
+Onunla mutlaka...
+
+513
+00:44:12,277 --> 00:44:16,948
+Genelde �ikayet eden bir tip de�ilimdir
+ama bu sepet kelle dolu.
+
+514
+00:44:26,041 --> 00:44:27,625
+Carina Smyth'in son s�zleri.
+
+515
+00:44:28,460 --> 00:44:30,086
+Susun!
+
+516
+00:44:34,424 --> 00:44:35,884
+Carina Smyth'in son s�zleri.
+
+517
+00:44:36,885 --> 00:44:39,179
+Ey ahali, ben cad� de�ilim...
+
+518
+00:44:39,346 --> 00:44:42,640
+...ama genel aptall���n�z� ve
+bo� beyinlerinizi affediyorum.
+
+519
+00:44:42,807 --> 00:44:46,186
+- K�saca, �o�unuz ke�i kafal�s�n�z.
+- Affedersiniz bay�m.
+
+520
+00:44:46,353 --> 00:44:48,688
+�dam edilmek �zere olanlara
+son s�z hakk� verilmesi...
+
+521
+00:44:48,855 --> 00:44:51,316
+...genel bir uygulama m�?
+Bilemiyorum, anlayamad�m.
+
+522
+00:44:51,483 --> 00:44:54,486
+�nemli bir noktaya de�inece�im.
+Sab�rl� olabilirsen.
+
+523
+00:44:54,652 --> 00:44:55,737
+Hay�r!
+
+524
+00:44:55,904 --> 00:44:58,615
+Birazdan kafam kesilecek,
+acelem ondan.
+
+525
+00:44:58,782 --> 00:45:00,158
+Benim de boynum k�r�lacak.
+
+526
+00:45:00,325 --> 00:45:03,286
+Bazen boyun ger�ekten k�r�lmaz,
+biliyor muydun?
+
+527
+00:45:03,453 --> 00:45:04,453
+Sadece incinir.
+
+528
+00:45:04,496 --> 00:45:06,247
+- Ne?
+- �yle.
+
+529
+00:45:06,414 --> 00:45:09,417
+Saatlerce sallanan adamlar g�rd�m,
+g�zleri p�rtler, dilleri �i�er...
+
+530
+00:45:09,751 --> 00:45:11,670
+- ...tuhaf sesler ��kar�rlar.
+- Bitirebilir miyim?
+
+531
+00:45:11,836 --> 00:45:12,962
+Hay�r! �ansl�s�n.
+
+532
+00:45:13,380 --> 00:45:14,464
+Ke�ke as�lsayd�m.
+
+533
+00:45:15,590 --> 00:45:18,009
+- �u pis korsan� �ld�r�n. Beklerim.
+- Ama �nce cad�lar.
+
+534
+00:45:18,176 --> 00:45:20,261
+Ben cad� de�ilim.
+Beni dinlemedin mi?
+
+535
+00:45:20,428 --> 00:45:22,389
+Ke�i kafal� olunca dinlemesi zor oluyor.
+
+536
+00:45:22,555 --> 00:45:23,932
+Yeter! �kisini de �ld�r�n!
+
+537
+00:45:45,995 --> 00:45:47,414
+Bir ilmik daha haz�rlay�n!
+
+538
+00:45:47,580 --> 00:45:49,749
+Bizi yenebilece�ini mi sand�n, delikanl�?
+
+539
+00:45:49,916 --> 00:45:50,916
+Hay�r, efendim.
+
+540
+00:45:50,917 --> 00:45:52,419
+Sadece sizi oyal�yorum.
+
+541
+00:45:53,336 --> 00:45:54,336
+Ate�!
+
+542
+00:46:20,780 --> 00:46:22,615
+Ta�lanmay� tercih ederdim!
+
+543
+00:46:27,704 --> 00:46:28,913
+Yeniden doldurun!
+
+544
+00:46:48,975 --> 00:46:50,268
+Te�ekk�r ederim.
+
+545
+00:46:54,064 --> 00:46:55,064
+Geber!
+
+546
+00:47:00,028 --> 00:47:02,739
+Gel buraya al�ak korsan!
+
+547
+00:47:08,161 --> 00:47:09,621
+Hay�r.
+
+548
+00:47:12,540 --> 00:47:14,209
+Ne yap�yorsun?
+Hay�r, hay�r, hay�r!
+
+549
+00:47:14,709 --> 00:47:15,709
+Dikkat et!
+
+550
+00:47:24,928 --> 00:47:25,928
+Atlar m�?
+
+551
+00:47:44,572 --> 00:47:45,572
+Te�ekk�r ederim.
+
+552
+00:47:45,573 --> 00:47:47,033
+Rica ederim han�mefendi.
+
+553
+00:47:48,410 --> 00:47:49,411
+Yakalad�m!
+
+554
+00:47:55,667 --> 00:47:57,460
+S�r�nerek d�nece�ini biliyordum hain.
+
+555
+00:47:57,627 --> 00:48:01,631
+Turner'�n o�lu senin kelleni
+kurtarmam�z i�in bize 10 g�m�� verdi.
+
+556
+00:48:08,346 --> 00:48:10,056
+�u andan itibaren seninle m�ttefikiz.
+
+557
+00:48:10,223 --> 00:48:12,559
+Sol elinin nerede oldu�unu d���n�rsek
+bence daha fazlas�y�z.
+
+558
+00:48:12,726 --> 00:48:14,477
+M�zrak'� birlikte bulaca��z.
+S�z veriyor musun?
+
+559
+00:48:14,644 --> 00:48:16,354
+S�z d���nda her �eyim elinde zaten.
+
+560
+00:48:16,813 --> 00:48:20,400
+Sana k���k bir ba��� kar��l���
+beni kurtarma �erefi veriyorum.
+
+561
+00:48:20,567 --> 00:48:23,111
+Seni kurtarmak i�in sana
+�deme yapmam�z� m� bekliyorsun?
+
+562
+00:48:24,404 --> 00:48:25,488
 Evet.
 
-1117
-01:39:58,662 --> 01:39:59,784
-Onun için yap.
+563
+00:48:27,115 --> 00:48:28,366
+Sadece 10 g�m��.
 
-1118
-31,982 01:41:30,982 --> 01:41:
-Orada.
+564
+00:48:34,914 --> 00:48:36,124
+��lg�nl�k!
 
-1119
-01:41:32,862 --> 01:41:36,064
-Poseidon - mezar.
-Burada.
+565
+00:48:36,291 --> 00:48:37,959
+Be�ten fazla vermeyiz!
 
-1120
-40,224 01:41:39,342 --> 01:41:
+566
+00:48:38,126 --> 00:48:40,420
+Tamam. Sekiz olsun.
+
+567
+00:48:40,587 --> 00:48:43,506
+Bunu sonra konu�al�m ��nk� iskele
+taraf�n� kald�rmakta zorlan�yorum!
+
+568
+00:48:43,673 --> 00:48:45,717
+�skeleden �ok uzaks�n.
+Oras� k�� taraf�.
+
+569
+00:48:45,884 --> 00:48:46,926
+Emin misin?
+
+570
+00:48:47,093 --> 00:48:48,093
+Kesinlikle.
+
+571
+00:48:48,136 --> 00:48:49,929
+Vay, �una bak�n.
+
+572
+00:48:50,347 --> 00:48:53,099
+Korka�� �ld�r�rsem, cad� as�l�r.
+
+573
+00:48:53,475 --> 00:48:54,851
+Bir ta�la iki ku�.
+
+574
+00:48:55,018 --> 00:48:56,269
+L�tfen beni b�rakma.
+
+575
+00:48:56,436 --> 00:48:58,188
+Beni �ld�rd�kten sonra zor olabilir.
+
+576
+00:49:03,610 --> 00:49:08,156
+Beyler, bu iki mahkum bizi
+�� U�lu M�zrak'a g�t�recek.
+
+577
+00:49:10,784 --> 00:49:12,118
 Kaptan.
 
-1121
-01:41:40,262 --> 01:41:42,064
-Tehlikeyi biliyor...
-Yapmayın!
+578
+00:49:12,285 --> 00:49:14,412
+M�zrak'� ger�ekten bulabilece�imize
+inan�yor musun?
 
-1122
-45,144 01:41:42,262 --> 01:41:
-Başka seçeneğiniz yok. Jack Yeryüzünde ve Trident için gidecek.
+579
+00:49:14,579 --> 00:49:18,458
+Amir Gibbs, seni ya�l� karamsar,
+ortada endi�elenecek hi�bir �ey yok.
 
-1123
-46,744 01:41:45,182 --> 01:41:
-Kaptan, başka bir yolu olmalı.
+580
+00:49:21,211 --> 00:49:23,171
+Ne terslik olabilir ki?
 
-1124
-48,064 01:41:46,822 --> 01:41:
-Hayatta sahip olduğu zaman...
+581
+00:49:24,130 --> 00:49:27,175
+Plan�n, korsanlar taraf�ndan
+i�kence edilip �ld�r�lmek miydi?
 
-1125
-50,744 01:41:48,142 --> 01:41:
-geri dönüş yok...
-Vücudunuzun içinde sıkışıp sona erecek.
+582
+00:49:27,342 --> 00:49:28,342
+Sana gemi laz�m demi�tin.
 
-1126
-51,824 01:41:50,782 --> 01:41:
-sonsuza dek...
+583
+00:49:28,426 --> 00:49:29,426
+Buna gemi mi diyorsun?
 
-1127
-53,624 01:41:51,862 --> 01:41:
-Trident beni özgür olur.
+584
+00:49:29,469 --> 00:49:30,720
+Kes halat�!
 
-1128
-59,384 01:41:56,662 --> 01:41:
-- Zaman bir serçe öldürmek.
-- Yok!
+585
+00:49:39,437 --> 00:49:40,772
+Bo�ulmaya haz�r olun!
 
-1129
-01:42:13,382 --> 01:42:16,424
-- Jack bak.
-- Trident.
+586
+00:49:57,622 --> 00:50:00,375
+Sevgili m�rettebat�m, sonunda bug�n...
 
-1130
-01:42:23,062 --> 01:42:24,504
-Jack!
+587
+00:50:00,542 --> 00:50:01,626
+�LEN MARTI
 
-1131
-04,984 01:43:02,742 --> 01:43:
-<beni öldür ve Jack çocuk.</kill i>i>
+588
+00:50:12,095 --> 00:50:13,263
+Bir terslik oldu.
 
-1132
-42,664 01:43:40,742 --> 01:43:
-Henry!
-Yok...
+589
+00:50:32,741 --> 00:50:33,741
+Y�z�yor!
 
-1133
-01:44:14,302 --> 01:44:16,424
-<i>Merhaba, Serçe.</i>
+590
+00:50:38,204 --> 00:50:40,040
+Tam �n�m�zde bir gemi!
 
-1134
-01:44:17,542 --> 01:44:18,544
-Hayır.
+591
+00:50:47,630 --> 00:50:48,630
+Efendim.
 
-1135
-01:44:30,262 --> 01:44:33,024
-Serçe nefret ediyorum,
-serçe ölür.
+592
+00:50:50,175 --> 00:50:54,262
+Kaptan olarak mant���n�z�
+asla sorgulamay�z ama...
 
-1136
-01:44:33,302 --> 01:44:34,384
-Hayır.
+593
+00:50:54,429 --> 00:50:57,349
+Ama mant��� nedir...
 
-1137
-01:44:40,502 --> 01:44:43,824
-Henry, tepki.
-Lütfen.
+594
+00:50:57,515 --> 00:51:01,019
+...kaptan olarak bu mant�ks�z y�ne
+gitmeyi neden se�tiniz?
 
-1138
-01:44:44,102 --> 01:44:45,264
-Henry uyanır!
+595
+00:51:01,561 --> 00:51:03,688
+Adamlara s�yle gemiye ��kmaya,
+direnmeye...
 
-1139
-01:44:47,382 --> 01:44:48,784
-- Cehenneme git!
+596
+00:51:03,855 --> 00:51:06,983
+...ve korkmamaya haz�r olsunlar.
 
-1140
-01:44:58,582 --> 01:45:00,424
-Henry uyanır,
-Jack öldürüyor.
+597
+00:51:12,447 --> 00:51:15,950
+Kaptan, bir gemi bize do�ru geliyor.
 
-1141
-01:45:11,422 --> 01:45:12,422
-Henry!
+598
+00:51:41,810 --> 00:51:43,019
+Kaptan Salazar...
 
-1142
-01:45:12,982 --> 01:45:14,784
-Deniz gücü.
+599
+00:51:43,186 --> 00:51:45,647
+...duydu�uma g�re Jack Sparrow'u
+ar�yormu�sun.
+
+600
+00:52:09,295 --> 00:52:10,964
+Sak�n k�p�rdamay�n!
+
+601
+00:52:13,800 --> 00:52:15,885
+Ve emirleri bekleyin.
+
+602
+00:52:36,239 --> 00:52:41,369
+Ad�m Kaptan Barbossa, ve samimi
+bir ama�la kar��nda bulunuyorum.
+
+603
+00:52:41,953 --> 00:52:43,163
+Samimi ama�!
+
+604
+00:52:43,621 --> 00:52:47,375
+Duydunuz mu?
+Bu korsan samimi olmak istiyormu�.
+
+605
+00:52:47,542 --> 00:52:51,171
+O zaman izninle sana samimiyetimi
+g�stereyim dostum.
+
+606
+00:52:51,588 --> 00:52:55,508
+K�l�c�m� her vurdu�umda
+adamlar�ndan biri �lecek.
+
+607
+00:52:55,675 --> 00:52:57,260
+O y�zden h�zl� konu�man� �neririm.
+
+608
+00:53:01,598 --> 00:53:03,600
+Biraz h�zlanmak isteyebilirsin Kaptan.
+
+609
+00:53:07,729 --> 00:53:09,230
+Jack Sparrow nerede?
+
+610
+00:53:09,397 --> 00:53:11,775
+Jack, M�zrak'� bulmak i�in denize a��ld�.
+
+611
+00:53:11,941 --> 00:53:13,276
+Hay�r, deniz �l�lere ait.
+
+612
+00:53:13,443 --> 00:53:15,195
+Denizi M�zrak kontrol ediyor.
+
+613
+00:53:15,362 --> 00:53:16,780
+Hay�r! Hay�r!
+
+614
+00:53:16,946 --> 00:53:19,115
+Hazine yok.
+
+615
+00:53:19,282 --> 00:53:22,994
+Onu kurtarabilecek bir hazine yok.
+O �lecek, sen de �yle.
+
+616
+00:53:23,161 --> 00:53:25,372
+Seni ona g�t�rebilecek tek ki�i benim.
+
+617
+00:53:27,040 --> 00:53:30,251
+Yar�n g�n do�umuyla birlikte
+Jack'in can� senin olacak...
+
+618
+00:53:30,418 --> 00:53:32,045
+...aksi takdirde benimkini al�rs�n.
+
+619
+00:53:32,212 --> 00:53:33,713
+Anla�t�k m�?
+
+620
+00:53:40,845 --> 00:53:44,224
+Beni ona g�t�r�rsen
+hikayeyi anlatmak i�in ya�ars�n.
+
+621
+00:53:44,641 --> 00:53:46,601
+Sana s�z veriyorum.
+
+622
+00:53:46,768 --> 00:53:50,230
+M�rettebat�m ad�na te�ekk�r ederim.
+
+623
+00:53:53,775 --> 00:53:56,653
+Eh, kalanlar senin olabilir.
+
+624
+00:53:56,986 --> 00:53:59,364
+Ya�ayanlar gemiye ��k�yor!
+
+625
+00:54:00,657 --> 00:54:02,200
+Pekala beyler.
+
+626
+00:54:07,455 --> 00:54:11,084
+Carina, fazla zaman�m�z yok.
+�l�ler bizi bulmaya geliyor.
+
+627
+00:54:11,251 --> 00:54:12,251
+Ger�ekten mi?
+
+628
+00:54:12,252 --> 00:54:13,253
+Evet, onlarla konu�tum.
+
+629
+00:54:13,420 --> 00:54:14,504
+Onlarla konu�tun mu?
+
+630
+00:54:14,671 --> 00:54:16,923
+Krakenler ve denizk�zlar�yla da
+konu�tun mu?
+
+631
+00:54:17,090 --> 00:54:18,508
+Krakenler konu�maz. Bunu herkes bilir.
+
+632
+00:54:18,675 --> 00:54:21,469
+Elbette. Seni asla kurtarmamal�yd�m.
+
+633
+00:54:21,636 --> 00:54:24,389
+D�n gece kanl� ay tutulmas� vard�,
+aynen dedi�in gibi.
+
+634
+00:54:24,556 --> 00:54:25,557
+S�yle ne g�sterdi.
+
+635
+00:54:25,724 --> 00:54:26,766
+Neden sana g�veneyim?
+
+636
+00:54:27,475 --> 00:54:29,227
+�skele taraf�n� tutarken g�venmi�tin.
+
+637
+00:54:29,394 --> 00:54:32,105
+K�� taraf�yd�.
+Acemi bir denizci oldu�un �ok a��k.
+
+638
+00:54:32,272 --> 00:54:34,149
+Ne buldu�unu s�ylersen
+s�z yard�m edece�im.
+
+639
+00:54:34,315 --> 00:54:35,315
+Yard�ma ihtiyac�m yok.
+
+640
+00:54:35,316 --> 00:54:37,444
+O zaman neden bana geldin Carina?
+
+641
+00:54:37,610 --> 00:54:41,156
+Denizin ortas�nda neden ba�l�y�z
+ve ayn� hazinenin pe�indeyiz?
+
+642
+00:54:43,658 --> 00:54:45,577
+Ay bir ipucu verdi.
+
+643
+00:54:45,744 --> 00:54:49,539
+"Denizin g�c�n� serbest b�rakmak i�in,
+her �ey b�l�nmeli."
+
+644
+00:54:50,665 --> 00:54:52,751
+B�l�nmeli mi? Ne demek bu?
+
+645
+00:54:54,085 --> 00:54:55,754
+Hen�z emin de�ilim.
+
+646
+00:54:57,297 --> 00:54:58,465
+O zaman ��renece�iz.
+
+647
+00:55:00,550 --> 00:55:02,135
+Bu haritada harita yok.
+
+648
+00:55:02,427 --> 00:55:03,928
+G�nl���m� bana ver.
+
+649
+00:55:05,472 --> 00:55:07,182
+<i>Kimsenin Okuyamad��� Harita'y� </i>bana ver.
+
+650
+00:55:07,349 --> 00:55:09,642
+Okuyabilseydin ad� <i>Kimsenin
+Okuyamad��� Harita</i> olmazd�.
+
+651
+00:55:09,809 --> 00:55:11,936
+Yalvar�r�m, l�tfen onunla tart��ma.
+
+652
+00:55:12,103 --> 00:55:14,606
+Bu gemidekilerin �o�u okuma bilmez.
+
+653
+00:55:14,773 --> 00:55:18,735
+Onlara g�re b�t�n haritalar
+<i>Kimsenin Okuyamad��� Haritalar.</i>
+
+654
+00:55:18,902 --> 00:55:21,988
+Okuyamazsan�z ne ona ihtiyac�n�z var,
+ne de bana.
+
+655
+00:55:22,781 --> 00:55:24,115
+Ba�tan al�yorum.
+
+656
+00:55:24,616 --> 00:55:26,534
+Bana haritay� g�ster.
+
+657
+00:55:26,701 --> 00:55:29,245
+G�steremem. Hen�z ortada yok.
+
+658
+00:55:29,412 --> 00:55:30,412
+O bir cad�!
+
+659
+00:55:30,872 --> 00:55:31,956
+Ben g�kbilimciyim.
+
+660
+00:55:33,249 --> 00:55:34,834
+Popo b�y�tme uzman�.
+
+661
+00:55:35,418 --> 00:55:38,838
+Ne? Hay�r.
+G�kbilimci g�ky�z�n� inceler.
+
+662
+00:55:39,005 --> 00:55:41,800
+- Poposunun �st�nde mi?
+- Hay�r! Alakas� yok!
+
+663
+00:55:41,966 --> 00:55:43,802
+Peki onu nas�l b�y�t�yorsun?
+
+664
+00:55:44,344 --> 00:55:46,930
+�zninle bu denklemi sadele�tireyim.
+
+665
+00:55:47,097 --> 00:55:48,932
+Bana haritay� ver...
+
+666
+00:55:50,141 --> 00:55:52,143
+...yoksa �ld�r�r�m...
+
+667
+00:55:53,645 --> 00:55:55,188
+...onu. Onu �ld�r�r�m.
+
+668
+00:55:57,941 --> 00:55:59,567
+Durma o zaman.
+
+669
+00:55:59,734 --> 00:56:00,860
+Bl�f yap�yorsun.
+
+670
+00:56:02,112 --> 00:56:03,780
+Sen de k�zar�yorsun.
+
+671
+00:56:05,323 --> 00:56:06,741
+Onu a�a�� at�n.
+
+672
+00:56:07,242 --> 00:56:08,242
+Gel. Hadi.
+
+673
+00:56:08,284 --> 00:56:09,536
+- Hadi.
+- Y�r�. Hadi.
+
+674
+00:56:11,162 --> 00:56:13,081
+Bunun ad� gemi alt� cezas�.
+
+675
+00:56:14,207 --> 00:56:16,710
+Gen� Henry suya at�lacak...
+
+676
+00:56:18,086 --> 00:56:20,380
+...ve sular onu
+geminin alt�na �ekecek.
+
+677
+00:56:20,547 --> 00:56:23,174
+Pekala. Ne bekliyorsunuz?
+
+678
+00:56:23,341 --> 00:56:24,676
+Bence hi� bl�f yapar gibi...
+
+679
+00:56:24,843 --> 00:56:26,886
+- Sus, sus.
+- Hay�r, bl�f yapm�yorum.
+
+680
+00:56:27,345 --> 00:56:28,638
+Bir �ey s�ylemeye �al���yor.
+
+681
+00:56:28,805 --> 00:56:31,433
+Hay�r, hay�r, gemide hi� yiyecek yok.
+�zg�n�m.
+
+682
+00:56:32,517 --> 00:56:36,604
+�ans� varsa midyeler onu kurdele
+�eritleri gibi do�ramadan �nce bo�ulur.
+
+683
+00:56:36,771 --> 00:56:37,771
+Midyeler mi?
+
+684
+00:56:37,772 --> 00:56:40,150
+S�rt�na bin b��ak dayanm�� gibi.
+
+685
+00:56:40,608 --> 00:56:42,152
+Tabii k�pekbal�klar� da kana gelir.
+
+686
+00:56:42,218 --> 00:56:43,218
+K�pekbal�klar� m�?
+
+687
+00:56:43,236 --> 00:56:44,362
+Pruvada k�pekbal���!
+
+688
+00:56:45,613 --> 00:56:49,242
+Bence art�k onun as�l sorunu y�zmek de�il.
+
+689
+00:56:49,409 --> 00:56:50,452
+Harita orada!
+
+690
+00:56:51,036 --> 00:56:52,036
+Nerede?
+
+691
+00:56:52,037 --> 00:56:53,037
+Parma��n�n ucunda m�?
+
+692
+00:56:53,163 --> 00:56:55,540
+Hay�r. G�ky�z�nde.
+
+693
+00:56:55,707 --> 00:56:58,585
+O g�nl�k bana y�ld�zlarda
+gizli bir harita g�sterecek.
+
+694
+00:56:58,752 --> 00:57:01,379
+��kar�n onu. Bu gece bulaca��m.
+
+695
+00:57:01,546 --> 00:57:04,466
+�zg�n�m, onu ��karamam.
+Kendin bak.
+
+696
+00:57:07,761 --> 00:57:10,555
+Dedi�im gibi, k�zar�yorsun.
+
+697
+00:57:16,644 --> 00:57:18,480
+Pis korsan.
+
+698
+00:57:22,650 --> 00:57:24,444
+Deniz kan g�l�ne d�nd�.
+
+699
+00:57:24,778 --> 00:57:27,739
+�� U�lu M�zrak'tan bahseden
+bir denizci k�y�ya vurdu.
+
+700
+00:57:27,906 --> 00:57:29,657
+Jack Sparrow'u ar�yordu.
+
+701
+00:57:29,824 --> 00:57:32,744
+Yani cad�y�
+dara�ac�ndan kurtaran korsan�.
+
+702
+00:57:32,911 --> 00:57:34,537
+O cad� de�il.
+
+703
+00:57:34,913 --> 00:57:36,706
+Ama sen �ylesin.
+
+704
+00:57:37,248 --> 00:57:39,042
+Ve bize yard�m edeceksin.
+
+705
+00:57:39,209 --> 00:57:41,169
+Korkuyorsun, Te�men.
+
+706
+00:57:41,961 --> 00:57:46,174
+Gece gemiler yanarken, kendininkini
+kurtarabilir misin bilmek istiyorsun.
+
+707
+00:57:46,925 --> 00:57:50,136
+E�er �� U�lu M�zrak ger�ekse.
+
+708
+00:57:50,303 --> 00:57:54,015
+Ya bu duvar� bana okursun
+ya da �l�rs�n.
+
+709
+00:57:54,182 --> 00:57:57,769
+Britanya �mparatorlu�u M�zrak'a
+sahip olup denize h�kmedecek.
+
+710
+00:57:57,936 --> 00:58:01,439
+Korsan�n o cad�yla nereye gitti�ini
+bilmek istiyorum.
+
+711
+00:58:02,148 --> 00:58:04,693
+Kaderiniz bu y�ld�zlarda.
+
+712
+00:58:04,859 --> 00:58:07,320
+Rotan�z� belirleyece�im.
+
+713
+00:58:32,470 --> 00:58:34,681
+Spagetti kurt!
+
+714
+00:58:34,848 --> 00:58:36,891
+Neden sana geldim sanki?
+
+715
+00:58:37,058 --> 00:58:39,310
+�l�ler pe�imizde ve
+sen hi�bir �ey yapm�yorsun.
+
+716
+00:58:39,477 --> 00:58:41,062
+Hi�! Sen buna hi� mi diyorsun?
+
+717
+00:58:41,229 --> 00:58:42,856
+Sarho�sun! Ve uyuyorsun.
+
+718
+00:58:43,023 --> 00:58:46,609
+Ben de onu diyorum!
+Ayn� anda iki �ey yap�yorum.
+
+719
+00:58:47,027 --> 00:58:49,696
+Kurtar�lamaz olan� kurtaramazs�n dostum.
+
+720
+00:58:50,947 --> 00:58:52,824
+Ho�una gitse de gitmese de
+bana yard�m edeceksin Jack.
+
+721
+00:58:52,991 --> 00:58:54,367
+Babam�n lanetini bozaca��m.
+
+722
+00:58:57,495 --> 00:59:02,959
+Bir daha k�l�� �ekersen evlat,
+�lecek son ki�i ol.
+
+723
+00:59:18,808 --> 00:59:22,604
+Biraz iltifatla onun g�nl�n� alman�
+�nerebilir miyim?
+
+724
+00:59:24,022 --> 00:59:25,899
+Babam i�in buraday�m, hepsi bu.
+
+725
+00:59:26,858 --> 00:59:30,153
+Biliyordum.
+Kesinlikle ona vurulmu�sun.
+
+726
+00:59:30,320 --> 00:59:33,406
+Esmerlere kur yapman�n
+birka� inceli�ini payla�ay�m...
+
+727
+00:59:33,573 --> 00:59:35,408
+...asla k�z karde�inin pe�ine d��me.
+
+728
+00:59:35,575 --> 00:59:39,412
+Ama k�z karde�inin cazibesine dayanam�yorsan...
+
+729
+00:59:39,579 --> 00:59:40,622
+...abisini �ld�r.
+
+730
+00:59:40,789 --> 00:59:41,998
+Anlad�n m�?
+
+731
+00:59:43,583 --> 00:59:45,460
+Hay�r, anlamad�m.
+
+732
+00:59:47,128 --> 00:59:48,755
+Seni kim �zd�?
+
+733
+00:59:48,922 --> 00:59:53,635
+Bu arada, bu k���k bilgi
+sana be� g�m��e mal oldu.
+
+734
+00:59:53,802 --> 00:59:55,220
+Sana z�rn�k koklatmam!
+
+735
+00:59:55,387 --> 00:59:57,722
+Bunu sak�n bir kad�na s�yleme.
+
+736
+01:00:12,278 --> 01:00:15,490
+Senin bir �eyi g�rememen,
+orada olmad���n� g�stermez.
+
+737
+01:00:16,700 --> 01:00:17,867
+Harita gibi mi?
+
+738
+01:00:19,828 --> 01:00:21,371
+Onu bulmal�y�m.
+
+739
+01:00:22,580 --> 01:00:26,710
+Kim oldu�umla tek ba�lant� o.
+Babam�n kim oldu�uyla da.
+
+740
+01:00:28,253 --> 01:00:31,464
+Demek ikimizin de hayat�
+babam�z� aramakla ge�ti.
+
+741
+01:00:32,507 --> 01:00:34,592
+Belki de sen ve ben
+sand���ndan daha yak�n�z.
+
+742
+01:00:51,484 --> 01:00:53,903
+G�ne� do�du, zaman�n doldu.
+
+743
+01:00:56,656 --> 01:01:00,493
+Kusura bakma ama anla�mam�z�n
+s�resi g�ne� do�unca sona erer.
+
+744
+01:01:00,660 --> 01:01:03,455
+Bu ilk ���klar,
+g�ne� daha tam y�kselmedi.
+
+745
+01:01:03,621 --> 01:01:05,206
+Seni onurlu bir adam olarak tan�yorum.
+
+746
+01:01:05,373 --> 01:01:07,292
+Onur mu? Beni hi� tan�m�yorsun.
+
+747
+01:01:07,459 --> 01:01:09,711
+Jack Sparrow taraf�ndan yenilmenin
+ne demek oldu�unu bilirim.
+
+748
+01:01:09,878 --> 01:01:11,212
+O bizim d��man�m�z...
+
+749
+01:01:11,838 --> 01:01:13,214
+Kim oldu�umu bilmiyorsun.
+
+750
+01:01:14,758 --> 01:01:19,471
+G��l� �spanyol Kaptan� <i>El Matador
+Del Mar'�n</i> hikayelerini duydum.
+
+751
+01:01:19,637 --> 01:01:23,516
+Denizi kam��layan adam,
+binlerce insan� bulup �ld�ren ki�i.
+
+752
+01:01:23,683 --> 01:01:26,603
+Hay�r, hay�r, hay�r. �nsanlar de�il.
+Hay�r, hay�r, hay�r.
+
+753
+01:01:26,770 --> 01:01:28,313
+Korsanlar.
+
+754
+01:01:30,899 --> 01:01:33,068
+Korsanlar.
+
+755
+01:01:37,739 --> 01:01:40,825
+<i>Korsanlar nesiller boyu denizleri kirletti.</i>
+
+756
+01:01:40,992 --> 01:01:44,454
+<i>Babam�n ve onun babas�n�n
+can�n� ald�lar.</i>
+
+757
+01:01:44,621 --> 01:01:48,041
+<i>Bu illete kesin olarak son vermeye
+yemin ettim.</i>
+
+758
+01:01:48,208 --> 01:01:51,169
+�yle de yapt�m.
+D�zinelerce gemiyi yok ettim.
+
+759
+01:01:57,384 --> 01:02:01,721
+Kalan son gemiler birlik olup
+beni yenmeye �al��t�!
+
+760
+01:02:01,888 --> 01:02:04,808
+�ok ge�meden
+bo�una u�ra�t�klar�n� anlad�lar.
+
+761
+01:02:16,194 --> 01:02:19,239
+<i>Sessiz Mary'yi kimse durduramazd�.</i>
+
+762
+01:02:19,948 --> 01:02:21,866
+Onlar� suyun alt�nda vurun.
+
+763
+01:02:26,037 --> 01:02:28,331
+Dayan�n arkada�lar!
+
+764
+01:02:37,132 --> 01:02:41,261
+Deniz sonunda temizdi.
+
+765
+01:02:41,428 --> 01:02:44,639
+<i>Rezil bayraklar�
+art�k denizi lekeleyemeyecekti.</i>
+
+766
+01:02:53,356 --> 01:02:55,692
+Merhamet dileniyorlar.
+
+767
+01:02:56,359 --> 01:02:59,738
+Merhamet? Merhamet mi?
+
+768
+01:03:00,613 --> 01:03:02,115
+Merhamet yok.
+
+769
+01:03:07,912 --> 01:03:09,873
+Haz�r olun!
+
+770
+01:03:10,040 --> 01:03:11,291
+L�tfen, yard�m edin!
+
+771
+01:03:17,297 --> 01:03:18,297
+Ate�!
+
+772
+01:03:27,307 --> 01:03:29,851
+Art�k her �ey sana ba�l� Jack.
+
+773
+01:03:31,519 --> 01:03:35,815
+Bu pusula en �ok istedi�in �eyi g�sterir.
+
+774
+01:03:37,901 --> 01:03:41,071
+Ona asla ihanet etme.
+
+775
+01:04:11,685 --> 01:04:15,021
+�eytan ��geni.
+
+776
+01:04:15,605 --> 01:04:19,984
+<i>Son gemileri
+g�z�m�n �n�nde yan�yordu.</i>
+
+777
+01:04:21,820 --> 01:04:25,990
+Ve i�te tam o zafer an�nda...
+
+778
+01:04:26,157 --> 01:04:28,118
+...onun sesini duydum.
+
+779
+01:04:28,410 --> 01:04:31,996
+Hey! Dur bakal�m Kaptan.
+
+780
+01:04:32,247 --> 01:04:35,166
+<i>Bir gemi dumanlar�n aras�ndan
+ka�maya �al���yordu.</i>
+
+781
+01:04:35,333 --> 01:04:38,169
+Denize a��lmak i�in g�zel bir g�n,
+de�il mi?
+
+782
+01:04:38,336 --> 01:04:40,880
+Ve orada, �anakl�kta...
+
+783
+01:04:41,047 --> 01:04:44,801
+...gen� bir korsan vard�.
+
+784
+01:04:44,968 --> 01:04:47,053
+Buradan g�rd���m kadar�yla,
+yaln�zca ikimiz kald�k.
+
+785
+01:04:47,971 --> 01:04:50,348
+�imdi bana teslim ol
+can�n� ba���layay�m. �ok basit.
+
+786
+01:04:50,515 --> 01:04:54,227
+Orada durmu� t�pk�
+k���k bir ku�a benziyordu.
+
+787
+01:04:54,394 --> 01:04:55,478
+Ve o g�nden sonra...
+
+788
+01:04:55,645 --> 01:04:59,816
+...hayat�m�n geri kalan�nda akl�mdan
+hi� ��kmayan bir ad edinmi� oldu.
+
+789
+01:05:01,776 --> 01:05:03,486
+Ser�e Jack.
+
+790
+01:05:03,653 --> 01:05:07,240
+Tamam o zaman. Bana �imdi
+teslim olursan hayat�n� ba���lar�m.
+
+791
+01:05:08,742 --> 01:05:10,744
+Ya�amana izin verece�im.
+
+792
+01:05:17,250 --> 01:05:22,130
+Bu �ocuk benim g�c�mle alay ediyordu,
+ben de pe�ine d��t�m...
+
+793
+01:05:22,797 --> 01:05:25,759
+...biliyordum b��a��mla bo�az�n�
+boydan boya kesecektim...
+
+794
+01:05:25,925 --> 01:05:30,555
+...ve �ld��� zaman art�k korsanlarla
+i�im bitecekti.
+
+795
+01:05:35,435 --> 01:05:36,435
+Pe�inden gidin.
+
+796
+01:05:36,561 --> 01:05:37,896
+HINZIR KIZ
+
+797
+01:05:38,063 --> 01:05:41,066
+Babadalyalara. Halatlar� tutun.
+
+798
+01:05:43,068 --> 01:05:45,278
+Ka�ak d�n��e haz�rlan�n.
+�skele taraf�.
+
+799
+01:05:47,864 --> 01:05:49,115
+�imdi at�n.
+
+800
+01:06:10,970 --> 01:06:12,430
+Ka�ak d�n��.
+
+801
+01:07:22,292 --> 01:07:24,169
+Bunlar nedir?
+
+802
+01:07:27,005 --> 01:07:29,632
+Hara�, efendim.
+
+803
+01:07:59,120 --> 01:08:01,623
+<i>Her �eyimi elimden ald�...</i>
+
+804
+01:08:01,790 --> 01:08:05,043
+<i>...ve i�imi �fkeyle doldurdu.</i>
+
+805
+01:08:07,671 --> 01:08:09,339
+Ve ac�yla.
+
+806
+01:08:10,882 --> 01:08:14,678
+Hikaye burada sona eriyor.
+
+807
+01:08:15,887 --> 01:08:18,556
+Hen�z de�il, Kaptan. ��te!
+
+808
+01:08:18,765 --> 01:08:20,767
+S�z verdi�im gibi buldum.
+
+809
+01:08:45,000 --> 01:08:48,211
+Yani harita onda, ama sadece
+o mu okuyabilir demek istiyor?
+
+810
+01:08:48,378 --> 01:08:49,754
+Onu vurmal� m�y�z?
+
+811
+01:08:49,921 --> 01:08:52,048
+Onu rahat b�rak�n.
+Bizi �� U�lu M�zrak'a g�t�recek.
+
+812
+01:08:52,215 --> 01:08:53,425
+Saatlerdir ayn� �eyi s�yl�yorsun.
+
+813
+01:08:53,591 --> 01:08:55,218
+- Ortada iki ger�ek var, de�il mi?
+- Evet.
+
+814
+01:08:55,385 --> 01:08:56,845
+Y�ld�zlar g�nd�z parlamaz.
+
+815
+01:08:57,220 --> 01:08:58,680
+Ve poposunu b�y�t�yor.
+
+816
+01:08:59,514 --> 01:09:03,685
+Hi�bir �ey g�stermeyen bir haritaya bak�p
+nas�l bir yere gidebiliriz?
+
+817
+01:09:04,853 --> 01:09:07,564
+Bu kronometre Londra ile
+ayn� saati g�steriyor.
+
+818
+01:09:08,023 --> 01:09:11,526
+Bunu boylam� belirlemek amac�yla
+y�kseklik �l�mek i�in kullan�yorum.
+
+819
+01:09:11,693 --> 01:09:14,237
+Ancak o zaman denizdeki
+tam yerimizi bulabiliriz.
+
+820
+01:09:14,404 --> 01:09:16,948
+Yani M�zrak'� bir saatle mi
+bulmay� d���n�yorsun?
+
+821
+01:09:17,115 --> 01:09:18,324
+Evet.
+
+822
+01:09:18,742 --> 01:09:21,036
+Hesaplamalar�m kesin ve do�ru.
+
+823
+01:09:21,202 --> 01:09:23,830
+Yaln�zca g�kbilimci de�ilim,
+ayr�ca horolojistim.
+
+824
+01:09:29,669 --> 01:09:30,879
+Utanacak bir �ey yok tatl�m.
+
+825
+01:09:31,046 --> 01:09:33,840
+Hayat�m�z� bir �ekilde
+kazanmak zorunday�z, de�il mi?
+
+826
+01:09:34,007 --> 01:09:35,383
+Evet.
+
+827
+01:09:36,092 --> 01:09:38,595
+Hay�r. Ben horolojistim.
+
+828
+01:09:38,762 --> 01:09:40,096
+Annem de �yleydi.
+
+829
+01:09:40,263 --> 01:09:41,931
+Ama bunu senin gibi
+y�ksek sesle s�ylemezdi.
+
+830
+01:09:42,182 --> 01:09:44,392
+Yani annen akademik alana yatk�n m�yd�?
+
+831
+01:09:44,851 --> 01:09:48,730
+Daha �ok, uzanmaya yatk�nd�.
+
+832
+01:09:49,814 --> 01:09:52,150
+Horoloji zaman� inceler.
+
+833
+01:09:52,317 --> 01:09:54,569
+Annem de hep saatine bakard�.
+
+834
+01:09:54,736 --> 01:09:56,112
+Ben buna �ahidim.
+
+835
+01:09:57,781 --> 01:10:01,618
+Yani yerini senden ba�kas� bulamaz,
+�yle mi?
+
+836
+01:10:01,785 --> 01:10:03,244
+- Evet.
+- Peki ya popo?
+
+837
+01:10:03,411 --> 01:10:04,913
+K�� tarafta gemi!
+
+838
+01:10:07,040 --> 01:10:08,040
+Salazar.
+
+839
+01:10:12,545 --> 01:10:14,756
+Jack,
+�l�ler intikamlar�n� almadan durmayacak.
+
+840
+01:10:14,923 --> 01:10:16,091
+�l�ler mi?
+
+841
+01:10:16,257 --> 01:10:18,259
+Hay�r, hay�r.
+�l�ler bu anla�mada yoktu.
+
+842
+01:10:18,426 --> 01:10:21,846
+�anss�z bir korsan ve bir cad�n�n pe�inden
+asla denize a��lmamal�yd�k.
+
+843
+01:10:22,013 --> 01:10:23,807
+Bu kadar yeter.
+Hepsini �ld�r�n.
+
+844
+01:10:24,891 --> 01:10:28,103
+�ld�r�rseniz �l�r�m.
+
+845
+01:10:28,269 --> 01:10:32,148
+Ve di�er �l�ler intikam�n� alamaz...
+
+846
+01:10:32,857 --> 01:10:33,942
+...benden.
+
+847
+01:10:34,693 --> 01:10:35,777
+�l� olunca.
+
+848
+01:10:36,236 --> 01:10:38,238
 - Ne?
+- Bu onlar� daha �ok k�zd�r�r. Hakl�.
 
-1143
-01:45:15,462 --> 01:45:19,064
-Deniz gücü.
-Deniz gücünün...
+849
+01:10:38,405 --> 01:10:39,406
+�ok do�ru.
 
-1144
-01:45:19,462 --> 01:45:20,744
-Bölünmüş gerekir.
+850
+01:10:39,572 --> 01:10:40,824
+B�t�n korsanlar bu kadar aptal m�?
 
-1145
-29,224 01:45:27,222 --> 01:45:
-Trident içeriyorsa
-tüm güç, sonra...
+851
+01:10:40,890 --> 01:10:41,890
+Evet.
 
-1146
-01:45:29,258 --> 01:45:30,864
-Tüm küfürler içerir
-içinde.
+852
+01:10:41,908 --> 01:10:42,908
+- Evet.
+- Evet.
 
-1147
-01:45:31,862 --> 01:45:33,784
-Daha önce de söylediğim gibi...
+853
+01:10:43,284 --> 01:10:44,828
+Peki ne yapaca��z?
 
-1148
-01:45:34,022 --> 01:45:36,984
-Bana teslim ol...
-Ve sana bırakıyorum...
+854
+01:10:45,495 --> 01:10:49,791
+Kaptan olarak, benim �nerim...
 
-1149
-01:45:37,942 --> 01:45:40,904
-hayatta...
-- Teslim etmemi istiyorsun, değil mi?
+855
+01:10:54,254 --> 01:10:56,339
+�syan m�? Ba�ka �neri bulamad�n m�?
 
-1150
-01:45:43,062 --> 01:45:46,384
-- Belki.
-- Burada oyun bitti.
+856
+01:10:56,506 --> 01:10:57,799
+Carina, �l�ler geliyor.
 
-1151
-01:45:48,782 --> 01:45:49,904
-Hayır!
+857
+01:10:57,966 --> 01:11:01,177
+Ben do�a�st� sa�mal�klara
+inanmamay� tercih ediyorum.
 
-1152
-01:45:55,542 --> 01:45:57,184
-Öl!
+858
+01:11:01,344 --> 01:11:02,929
+Arkam�zdakini g�rm�yor musun?
 
-1153
-01:46:02,982 --> 01:46:03,982
-Böl.
+859
+01:11:16,985 --> 01:11:19,863
+At�n onlar�. Suya at�n.
 
-1154
-01:46:04,262 --> 01:46:05,344
+860
+01:11:27,245 --> 01:11:28,245
+Ne yap�yorsun?
+
+861
+01:11:28,288 --> 01:11:30,874
+O gemideki adamlar Jack'i ar�yor
+ve Jack bu kay�kta.
+
+862
+01:11:31,041 --> 01:11:32,042
+Ben de y�zerek ka�aca��m.
+
+863
+01:11:32,459 --> 01:11:35,337
+Ne c�retle yerinde olsam
+yapaca��m �eyi yapars�n.
+
+864
+01:11:35,503 --> 01:11:38,089
+- Kes �unu Carina.
+- Hay�r, hay�r. Bence devam et.
+
+865
+01:11:38,256 --> 01:11:39,382
+Bu i� yeterince uzad�.
+
+866
+01:11:39,549 --> 01:11:41,009
+Hay�r, uzamad�.
+
+867
+01:11:41,176 --> 01:11:44,387
+Sen ona kulak asma.
+Devam et. Devam et.
+
+868
+01:11:50,101 --> 01:11:52,395
+Neden? Neredeyse bitiriyordu.
+
+869
+01:11:52,562 --> 01:11:53,688
+Ayak bileklerini g�rd�m.
+
+870
+01:11:53,855 --> 01:11:56,107
+�eneni tutsayd�n
+�ok daha fazlas�n� g�rebilirdin.
+
+871
+01:12:14,376 --> 01:12:16,586
+Ser�e'yi �ld�r�n.
+
+872
+01:12:32,602 --> 01:12:35,188
+Bu hi� iyi olmad�, de�il mi?
+
+873
+01:12:35,355 --> 01:12:38,358
+K�rek �ekmeye devam et.
+Daha h�zl�. Daha h�zl�.
+
+874
+01:12:38,525 --> 01:12:40,610
+Hay�r. Yeter art�k.
+
+875
+01:12:41,528 --> 01:12:43,405
+Onunla gidiyorum.
+
+876
+01:12:43,571 --> 01:12:46,324
+Beni i� �ama��rl� bir horolojist i�in mi
+terk edeceksin?
+
+877
+01:12:46,574 --> 01:12:47,574
+Evet.
+
+878
+01:12:49,244 --> 01:12:50,870
+B�t�n erkekler ayn�s�n�z.
+
+879
+01:13:01,297 --> 01:13:02,382
+K�pekbal���.
+
+880
+01:13:27,198 --> 01:13:28,198
 Henry!
 
-1155
-08,864 46 01:46:07,622 --> 01::
-Böl.
+881
+01:13:50,764 --> 01:13:52,098
+Pek i�e yaram�yor sanki.
 
-1156
-01:46:08,902 --> 01:46:09,464
-Keser.
+882
+01:13:52,265 --> 01:13:54,142
+Hay�r, kurtulaca��z. Kurtulaca��z.
 
-1157
-01:46:09,502 --> 01:46:12,024
-Mızrak kırmak ve böylece sonu
-denizin tüm küfürler.
+883
+01:14:13,912 --> 01:14:15,080
+Bunu nas�l yap�yorlar?
 
-1158
-01:46:12,102 --> 01:46:14,344
-<i>Hoşça kal, Serçe.</i>
+884
+01:14:15,246 --> 01:14:17,457
+Y�zerek ka�mal�y�z.
+Ben onlar� oyalar�m.
 
-1159
-01:47:00,022 --> 01:47:01,544
-Tüm küfürler
-kırıldı.
+885
+01:14:23,922 --> 01:14:25,090
+�imdi!
 
-1160
-01:47:10,382 --> 01:47:11,664
-Evet!
+886
+01:14:43,900 --> 01:14:45,402
+K��t!
 
-1161
-01:47:41,702 --> 01:47:45,064
-- İnci, dikkatli olun!
-- İçeri gir.
+887
+01:14:49,155 --> 01:14:50,198
+Git buradan!
 
-1162
-01:47:45,302 --> 01:47:47,584
-Çabuk!
+888
+01:15:05,630 --> 01:15:07,007
+Henry!
 
-1163
-01:47:51,062 --> 01:47:53,984
-İşaret çocukları, kayma yok.
+889
+01:15:58,141 --> 01:16:01,227
+Merhaba, Jack Sparrow.
 
-1164
-01:47:58,982 --> 01:48:00,504
-Jack!
+890
+01:16:02,687 --> 01:16:04,147
+Ser�e Jack.
 
-1165
-01:48:03,382 --> 01:48:04,864
-Daha hızlı!
+891
+01:16:04,647 --> 01:16:06,483
+�spanyol musun?
 
-1166
-01:48:08,982 --> 01:48:11,224
-Beni bekle!
+892
+01:16:11,988 --> 01:16:13,990
+Siz hayaletsiniz!
 
-1167
-01:48:17,382 --> 01:48:19,784
-Leven çapa!
+893
+01:16:15,408 --> 01:16:17,410
+Karaya ayak basam�yorlar.
 
-1168
-01:48:20,062 --> 01:48:22,104
-Çapa almak, yakında!
+894
+01:16:18,244 --> 01:16:19,245
+Biliyordum ger�i.
 
-1169
-22,948 01:48:22,138 --> 01:48:
-Yüksek, ana üretim siparişine otomatik...
+895
+01:16:19,412 --> 01:16:20,497
+Hayaletler!
 
-1170
-01:48:22,982 --> 01:48:25,344
-Onu Al, Onu al!
-Ona göstermek.
+896
+01:16:24,167 --> 01:16:25,167
+Carina!
 
-1228
-01:48:42,782 --> 01:48:45,704
-Kaptan!
+897
+01:16:25,168 --> 01:16:27,504
+Yak�nda bana yapt���n�n bedelini �deyeceksin.
 
-1172
-01:49:10,942 --> 01:49:12,464
-Oh, kahretsin!
+898
+01:16:27,671 --> 01:16:29,756
+Hay�r, hay�r, hay�r.
+Hi� zahmet etme, ger�ekten.
 
-1173
-01:49:33,782 --> 01:49:35,264
-Sen var!
+899
+01:16:29,923 --> 01:16:31,424
+- Carina!
+- Sohbet edecek zaman�m yok...
 
-1174
-01:49:38,182 --> 01:49:39,344
-Kes şunu!
+900
+01:16:31,591 --> 01:16:33,093
+...��nk� haritam ka��yor.
 
-1175
-01:49:57,102 --> 01:49:58,944
-Sana kim olduğumu söyle?
+901
+01:16:33,259 --> 01:16:35,178
+Ben beklerim seni!
 
-1039
-01:50:01,622 --> 01:50:03,184
-Hazinem.
+902
+01:16:35,929 --> 01:16:39,015
+Neden beni bekleyesin?
+Neden beni beklesin?
 
-1177
-01:50:13,862 --> 01:50:14,944
-Tutun!
+903
+01:16:55,782 --> 01:16:56,950
+Korsanlar!
 
-1178
-01:50:18,742 --> 01:50:19,904
-Hector!
+904
+01:16:58,410 --> 01:17:01,705
+�LEN MARTI
 
-1179
-01:51:35,222 --> 01:51:36,864
-Her şeyi sancak!
+905
+01:17:11,923 --> 01:17:12,966
+Scrum.
 
-1180
-01:51:53,142 --> 01:51:54,824
-Ona yardım et.
-
-1181
-04,624 52 01:52:02,662 --> 01::
-Korsanlar, Hector hayatı.
-
-1182
-01:52:40,902 --> 01:52:41,944
-İyi misin?
+906
+01:17:13,299 --> 01:17:14,384
+Kaptan.
 
 907
-44,704 52 01:52:43,622 --> 01::
-Bilmiyorum.
+01:17:14,551 --> 01:17:16,720
+Jack her zaman bana, ona bir �ey
+olursa senin kaptan olman�...
 
-1184
-47,584 52 01:52:45,342 --> 01::
-Bir an için ben
-Her şey Henry vardı.
+908
+01:17:16,886 --> 01:17:18,304
+...istedi�ini s�ylerdi.
 
-1185
-01:52:49,862 --> 01:52:51,504
-Şimdi yine gitti.
+909
+01:17:18,972 --> 01:17:22,100
+Evet ama adamlar seni se�ti.
+O y�zden kaptan �apkas� sende.
 
-1186
-54,264 52 01:52:51,702 --> 01::
-Her şey gitti, Smyth.
+910
+01:17:22,267 --> 01:17:23,268
+�yle olsa bile...
 
-1187
-01:53:07,622 --> 01:53:12,144
-Barbossa...
-Soyadım Barbossa.
+911
+01:17:23,435 --> 01:17:26,438
+...onun dile�i buydu,
+�imdi iyi bir adam ol ve d�mene ge�.
 
-1188
-01:53:54,102 --> 01:53:57,104
-- Belki de Jack haklıydı.
-- Ne oldu?
+912
+01:17:26,604 --> 01:17:28,064
+Ve sen...
 
-1189
-01:53:57,862 --> 01:53:59,624
-O çizik değil.
+913
+01:17:29,232 --> 01:17:30,650
+...kaptan �apkas�n� tak.
+
+914
+01:17:32,402 --> 01:17:33,737
+Bu hayat�m�n en gururlu...
+
+915
+01:17:37,490 --> 01:17:39,117
+Nereye gittiklerini s�yleyin...
+
+916
+01:17:39,284 --> 01:17:41,244
+...yoksa kaptan�n�z� �lesiye d�vece�iz.
+
+917
+01:17:43,747 --> 01:17:44,748
+Carina!
+
+918
+01:17:44,914 --> 01:17:46,916
+Can�n� s�kan �eyi biliyorum evlat.
+
+919
+01:17:47,083 --> 01:17:49,586
+Dinmek bilmeyen bir ka��nt�n var.
+
+920
+01:17:49,753 --> 01:17:52,172
+M�zrak'� bulmam�za
+yard�m edebilecek tek ki�i Carina...
+
+921
+01:17:52,339 --> 01:17:53,757
+...ve ona a��k de�ilim.
+
+922
+01:17:53,923 --> 01:17:56,676
+A�k m�? A�k diyen oldu mu?
+Sen neden bahsediyorsun?
+
+923
+01:17:56,843 --> 01:17:58,261
+Dinmek bilmeyen ka��nt�?
+
+924
+01:17:58,428 --> 01:18:00,180
+Uyuz. Uyuzdan bahsediyorum.
+
+925
+01:18:00,347 --> 01:18:02,515
+Derinin alt�na saklanan k���k kurtlar.
+
+926
+01:18:02,682 --> 01:18:04,517
+Y�llard�r can�m� s�k�yorlar.
+
+927
+01:18:04,684 --> 01:18:06,144
+Hay�r.
+
+928
+01:18:06,311 --> 01:18:08,480
+CELLADIN KOYU
+YABANCILAR HO� KAR�ILANMAZ
+
+929
+01:18:08,646 --> 01:18:09,646
+�mdat!
+
+930
+01:18:10,857 --> 01:18:12,108
+Yard�m edin!
+
+931
+01:18:12,275 --> 01:18:13,443
+- Carina!
+- �mdat!
+
+932
+01:18:14,486 --> 01:18:16,654
+- Henry, yard�m et!
+- Yard�m etsene!
+
+933
+01:18:18,490 --> 01:18:21,659
+Kral�n verdi�i yetkiyle,
+hepinizi �l�me mahkum ediyorum!
+
+934
+01:18:22,869 --> 01:18:27,123
+Bence birbirimize hazinelerimizin
+g�m�ld��� yeri s�ylemeliyiz...
+
+935
+01:18:27,290 --> 01:18:29,292
+...ne olur ne olmaz
+birimiz hayatta kal�rsak.
+
+936
+01:18:29,459 --> 01:18:31,211
+�yi fikir.
+
+937
+01:18:31,378 --> 01:18:32,962
+�nce sen.
+
+938
+01:18:33,129 --> 01:18:35,715
+Benim hazinem Aruba'da
+iki �apraz palmiye aras�nda...
+
+939
+01:18:35,882 --> 01:18:39,344
+...isimsiz bir mezarda g�m�l�.
+Peki ya seninki?
+
+940
+01:18:40,303 --> 01:18:41,680
+Benim yok.
+
+941
+01:18:41,846 --> 01:18:43,556
+Bana Jack'in can�n� vaat etmi�tin!
+
+942
+01:18:43,723 --> 01:18:45,392
+Jack kapana k�s�ld�!
+
+943
+01:18:45,558 --> 01:18:47,394
+Asla o adadan ka�amaz.
+
+944
+01:18:47,560 --> 01:18:48,853
+Ama karada!
+
+945
+01:18:54,818 --> 01:18:55,818
+Merhaba.
+
+946
+01:19:00,532 --> 01:19:03,993
+Anla�mam�za uydum.
+Adamlar�m ve ben karaya ��kaca��z.
+
+947
+01:19:04,160 --> 01:19:05,912
+O pis hain senin olacak...
+
+948
+01:19:06,329 --> 01:19:07,539
+...sana �eref s�z�.
+
+949
+01:19:07,706 --> 01:19:11,084
+�eref mi? Ne �erefi, dostum?
+Ne �erefi?
+
+950
+01:19:11,251 --> 01:19:12,377
+Sen �eref nedir bilmezsin.
+
+951
+01:19:12,544 --> 01:19:16,381
+Can�m� ba���larsan
+sana Ser�e'yi getiririm.
+
+952
+01:19:18,883 --> 01:19:20,510
+Anla�t�k m�?
+
+953
+01:19:35,191 --> 01:19:37,861
+Uyan Sparrow.
+
+954
+01:19:41,406 --> 01:19:44,534
+Uyan Sparrow.
+
+955
+01:19:45,952 --> 01:19:50,040
+Uyan Sparrow.
+Borcunu �deme zaman�.
+
+956
+01:19:51,124 --> 01:19:54,252
+Domuz... Domuz Kelly?
+
+957
+01:19:55,211 --> 01:19:56,713
+Eski dostum.
+
+958
+01:19:56,880 --> 01:20:00,383
+Dost mu? Duydunuz mu millet?
+
+959
+01:20:00,550 --> 01:20:03,803
+Bu yalanc� korsan bana
+�al�nt� g�m�� bor�lu...
+
+960
+01:20:03,970 --> 01:20:06,598
+...ve �ans eseri yolu
+Cellad�n Koyu'na d��t�...
+
+961
+01:20:06,765 --> 01:20:09,768
+...borcunu bana hemen �imdi �deyebilir.
+
+962
+01:20:09,934 --> 01:20:12,645
+�derim. �derim, Domuz.
+
+963
+01:20:12,812 --> 01:20:13,897
+Ad�n� sen koy.
+
+964
+01:20:14,064 --> 01:20:17,150
+Ad� Beatrice...
+
+965
+01:20:19,569 --> 01:20:22,238
+...o benim zavall�, dul k�z karde�im.
+
+966
+01:20:24,949 --> 01:20:26,451
+Bu ne be?
+
+967
+01:20:26,618 --> 01:20:28,953
+Sayg�de�er bir adam ar�yordu.
+
+968
+01:20:29,120 --> 01:20:30,497
+Ama seninle idare edecek.
+
+969
+01:20:30,663 --> 01:20:31,915
+�u i�i bitirelim Louis.
+
+970
+01:20:32,082 --> 01:20:33,917
+Hay�r! Neden? Bunu neden yapal�m?
+
+971
+01:20:34,084 --> 01:20:35,919
+Onu namuslu bir kad�n yapmak i�in Jack.
+
+972
+01:20:36,336 --> 01:20:39,130
+Tebrik ederim. Bug�n d���n g�n�n.
+
+973
+01:20:40,423 --> 01:20:41,758
+Haydi ba�layal�m.
+
+974
+01:20:41,925 --> 01:20:44,094
+Balay�n� ah�rda ge�irece�iz.
+
+975
+01:20:48,640 --> 01:20:49,640
+Hay�r, hay�r, hay�r.
+
+976
+01:20:50,266 --> 01:20:51,768
+Dinle Domuz, ben bunun...
+
+977
+01:20:51,935 --> 01:20:54,104
+...nesini namuslu yapay�m?
+
+978
+01:20:54,270 --> 01:20:56,481
+�unun... Onun. Yani, "onun."
+
+979
+01:20:59,943 --> 01:21:01,319
+Bunlar ne peki?
+
+980
+01:21:01,486 --> 01:21:02,987
+�ocuklar�m�z.
+
+981
+01:21:03,154 --> 01:21:05,448
+G�zlerinin i�ine bakmasan iyi olur.
+
+982
+01:21:05,615 --> 01:21:07,659
+Sa�d�c� ve nedimeyi buraya alal�m.
+
+983
+01:21:09,160 --> 01:21:10,453
+G�z�n�n i�ine bakt�m.
+
+984
+01:21:10,620 --> 01:21:12,706
+�ncil'in �st�ne elinizi koyun.
+
+985
+01:21:13,289 --> 01:21:14,541
+Bende uyuz var.
+
+986
+01:21:14,708 --> 01:21:15,709
+Bende de.
+
+987
+01:21:16,668 --> 01:21:19,170
+�ncil'in �st�ne elinizi koyun.
+
+988
+01:21:19,879 --> 01:21:21,047
+Ben yatak �slat�yorum.
+
+989
+01:21:21,214 --> 01:21:22,716
+"Evet" de...
+
+990
+01:21:23,508 --> 01:21:25,343
+...yoksa kafatas�na kur�unu s�kar�m.
+
+991
+01:21:25,510 --> 01:21:26,678
+Jack, bizi �ld�recekler!
+
+992
+01:21:26,845 --> 01:21:28,471
+- Bana ne!
+- "Evet" de hemen.
+
+993
+01:21:28,638 --> 01:21:30,056
+- Son �ans�n Jack.
+- Dur!
+
+994
+01:21:30,223 --> 01:21:32,976
+San�r�m, bu yasal de�il.
+
+995
+01:21:33,143 --> 01:21:34,477
+Evet, yasal de�il.
+
+996
+01:21:34,644 --> 01:21:35,729
+�ok hakl�.
+
+997
+01:21:35,895 --> 01:21:38,481
+Burada bu nikaha itiraz� olan
+kimse var m�?
+
+998
+01:21:38,982 --> 01:21:41,067
+- Evet.
+- Tebrik ederim!
+
+999
+01:21:41,234 --> 01:21:43,403
+Gelini �pebilirsiniz!
+
+1000
+01:21:52,037 --> 01:21:53,038
+Hay�r.
+
+1001
+01:21:55,498 --> 01:21:57,208
+Deniz �r�n� seviyorsun, �yle mi?
+
+1002
+01:21:57,375 --> 01:21:58,501
+Hadi!
+
+1003
+01:22:02,047 --> 01:22:04,674
+Jack, yine kar��la�t�k.
+
+1004
+01:22:05,425 --> 01:22:06,676
+Hector!
+
+1005
+01:22:06,843 --> 01:22:09,179
+Bu benim d�nyadaki en yak�n dostum.
+
+1006
+01:22:09,346 --> 01:22:12,015
+Eninde sonunda
+bir yuva kuraca��n� biliyordum.
+
+1007
+01:22:12,182 --> 01:22:13,391
+Bana hediye mi getirdin?
+
+1008
+01:22:15,685 --> 01:22:16,853
+Bu da olur.
+
+1009
+01:22:19,731 --> 01:22:23,026
+Harika g�r�n�yorsun.
+Eteklerin zil �al�yor adeta.
+
+1010
+01:22:24,110 --> 01:22:25,570
+Baca��n tekrar m� uzad�?
+
+1011
+01:22:25,737 --> 01:22:28,198
+Kaptan, Salazar'�n yan�na d�n�p
+Bay Sparrow'un can�n�...
+
+1012
+01:22:28,365 --> 01:22:30,867
+...kendi can�m�za kar��l�k
+vermeyecek miyiz?
+
+1013
+01:22:31,034 --> 01:22:32,369
+Evet verece�iz...
+
+1014
+01:22:32,535 --> 01:22:35,038
+...ama ben Poseidon'un M�zrak'� i�in geldim.
+
+1015
+01:22:35,747 --> 01:22:37,415
+�l�leri kaz�klayacak m�s�n?
+
+1016
+01:22:37,582 --> 01:22:38,875
+S�z verdin.
+
+1017
+01:22:39,042 --> 01:22:42,796
+Onunla, denizdeki hakimiyetimi �alan
+�l�leri yok edece�im.
+
+1018
+01:22:42,962 --> 01:22:44,923
+Bu plan ho�uma gitse de...
+
+1019
+01:22:45,090 --> 01:22:48,760
+...hi�bir gemi o sefil gemi enkaz�n�
+ge�meyi ba�aramaz.
 
 1020
-01:54:03,302 --> 01:54:04,664
-Bunu neden yaptın?
+01:22:48,927 --> 01:22:50,470
+Bir gemi hari� Jack.
 
-1191
-01:54:04,742 --> 01:54:06,504
-Emin olmak istedim
-sen olduğunu...
+1021
+01:22:50,637 --> 01:22:53,390
+Bildi�im en h�zl� gemi, <i>�nci...</i>
 
-1192
-01:54:06,742 --> 01:54:08,384
-ve lanetli devam etmedi.
+1022
+01:22:53,556 --> 01:22:57,560
+...be� k�� �nce Karasakal taraf�ndan
+o �i�ede kapana k�st�r�ld�.
 
-1193
-01:54:09,302 --> 01:54:11,723
-- Benim...
-- Yaptım...
+1023
+01:22:59,562 --> 01:23:02,524
+O �erefsizin �ahane k�l�c�n�n
+bana verdi�i yetkiyle...
 
-1194
-01:54:11,757 --> 01:54:14,144
-- Hata.
-Küçük bir tane.
+1024
+01:23:02,691 --> 01:23:07,696
+...huzurunuzda <i>Siyah �nci'yi</i> eski ve
+ger�ek ihti�am�na geri kavu�turuyorum.
 
-1174
-01:54:14,582 --> 01:54:15,704
-Ancak hata...
+1025
+01:23:19,082 --> 01:23:20,083
+Haz�r olun!
 
-1220
-01:54:22,262 --> 01:54:23,744
-Özrün kabul edildi.
+1026
+01:23:21,084 --> 01:23:22,585
+Buna haz�r olun!
+
+1027
+01:23:23,086 --> 01:23:23,753
+Geliyor!
+
+1028
+01:23:23,920 --> 01:23:25,630
+Geliyor! Geliyor, geliyor!
+
+1029
+01:23:31,094 --> 01:23:33,555
+Kenara �ekilin! Kenara �ekilin!
+
+1030
+01:23:34,639 --> 01:23:36,141
+Geliyor!
+
+1031
+01:23:51,990 --> 01:23:53,491
+Biraz �ekmi�.
+
+1032
+01:23:54,117 --> 01:23:56,119
+Neden b�y�m�yor?
+
+1033
+01:23:56,661 --> 01:23:58,288
+Belki de so�uktan.
+
+1034
+01:23:58,455 --> 01:24:00,248
+Denize ihtiyac� var.
+
+1035
+01:24:14,429 --> 01:24:16,514
+M�kemmel bir gemiydi.
+
+1036
+01:24:52,008 --> 01:24:53,301
+Hadi...
+
+1037
+01:24:54,594 --> 01:24:57,597
+Gemide yaln�zca bir kaptana yer var.
+
+1038
+01:25:00,016 --> 01:25:01,184
+Pis yarat�k.
+
+1039
+01:25:01,351 --> 01:25:03,937
+�l�lerle yar��ma zaman�.
+
+1040
+01:25:10,193 --> 01:25:12,362
+G�venli tek yer kara.
+
+1041
+01:25:12,529 --> 01:25:16,116
+Neden karadan uzakla��yoruz?
+�yle de�il mi?
+
+1042
+01:25:16,282 --> 01:25:18,952
+Kaptan, haritan�z tamamlanmad�.
+
+1043
+01:25:19,119 --> 01:25:21,830
+Ancak bana g�venirseniz
+bizi M�zrak'a g�t�rebilirim.
+
+1044
+01:25:21,996 --> 01:25:22,764
+�yle de�il mi?
+
+1045
+01:25:22,831 --> 01:25:25,208
+S�ylediklerimin hi�birini
+duymuyor musunuz?
+
+1046
+01:25:25,375 --> 01:25:28,878
+Yani bu y�ld�z harita gibi g�r�n�yor
+do�ru mu anlad�m?
+
+1047
+01:25:29,045 --> 01:25:33,383
+Hi�bir haritada bu kad�n�n s�zlerini
+destekleyecek bir ada yok efendim.
+
+1048
+01:25:33,550 --> 01:25:35,051
+Onu anlaman�z gerekmez Kaptan.
 
 1049
-38,864 01:54:37,382 --> 01:54:
-Dutchman.
+01:25:35,677 --> 01:25:37,053
+Ona inan�n yeter.
+
+1050
+01:25:38,138 --> 01:25:39,556
+�yle de�il mi?
+
+1051
+01:25:51,651 --> 01:25:54,863
+Sivri bir �eyimiz olsayd�
+kilidi a�abilirdim.
+
+1052
+01:25:56,364 --> 01:25:58,658
+Burada sivri hi�bir �ey bulamazs�n.
+
+1053
+01:26:05,582 --> 01:26:08,043
+K�p�rdama, sintine faresi.
+
+1054
+01:26:08,209 --> 01:26:09,209
+Kaptan!
+
+1055
+01:26:09,252 --> 01:26:11,755
+Hay�r, l�tfen!
+Art�k kaptan olmak istemiyorum!
+
+1056
+01:26:20,680 --> 01:26:21,680
+��z�n onlar�!
+
+1057
+01:26:24,225 --> 01:26:26,686
+Geminizi bir kad�n�n y�netmesine...
+
+1058
+01:26:26,853 --> 01:26:28,688
+...izin mi vereceksiniz, efendim?
+
+1059
+01:26:28,855 --> 01:26:31,816
+Y�ld�zlar� takip etmeli
+yoksa hep birlikte �lece�iz.
+
+1060
+01:26:51,294 --> 01:26:54,547
+<i>Siyah �nci!</i> Yeniden denize a��lm��!
+
+1061
+01:26:55,131 --> 01:26:56,216
+Hadi millet!
+
+1062
+01:26:57,509 --> 01:27:00,553
+Bu gemi, o hayaletler...
+
+1063
+01:27:01,012 --> 01:27:02,847
+Hi�bir mant�kl� a��klamas� olamaz.
+
+1064
+01:27:03,014 --> 01:27:05,183
+Deniz efsaneleri ger�ektir Carina.
+
+1065
+01:27:05,350 --> 01:27:07,185
+Sonunda yan�ld���n� anlamana sevindim.
+
+1066
+01:27:07,519 --> 01:27:08,520
+Yan�lmak m�?
+
+1067
+01:27:10,563 --> 01:27:11,981
+Baz� ��phelerim var diyelim.
+
+1068
+01:27:12,148 --> 01:27:13,900
+Bu hayat�mda duydu�um en k�t� �z�r.
+
+1069
+01:27:14,067 --> 01:27:15,735
+�z�r m�?
+Neden �z�r dileyeyim?
+
+1070
+01:27:16,236 --> 01:27:18,780
+��nk� �l�ler pe�imize d��t�,
+�i�eden ��kan bir gemide gidiyoruz.
+
+1071
+01:27:18,947 --> 01:27:20,239
+Bilim bunun neresinde?
+
+1072
+01:27:20,240 --> 01:27:22,742
+Tamam, �z�r dileyece�im.
+
+1073
+01:27:23,410 --> 01:27:24,410
+Devam et o zaman.
+
+1074
+01:27:24,494 --> 01:27:26,246
+Buna ra�men
+as�l sen bana �z�r bor�lusun...
+
+1075
+01:27:26,413 --> 01:27:28,998
+...hayat�m korsanlar ve �l�ler
+taraf�ndan tehdit alt�nda.
+
+1076
+01:27:29,165 --> 01:27:31,342
+Yani inan�yorsun,
+benden duydu�un i�in �z�r dilerim.
+
+1077
+01:27:31,835 --> 01:27:33,461
+�zr�n kabul edildi.
+
+1078
+01:27:35,046 --> 01:27:36,798
+�anakl��a gidiyorum.
+
+1079
+01:27:37,215 --> 01:27:38,883
+Bana hak vermene sevindim.
+
+1080
+01:27:45,015 --> 01:27:47,183
+On iki derece iskele!
+
+1081
+01:27:48,268 --> 01:27:49,894
+- Silahlar� haz�rlay�n.
+- Ba��st�ne!
+
+1082
+01:27:50,061 --> 01:27:51,061
+Ba��st�ne!
+
+1083
+01:27:51,062 --> 01:27:53,148
+O korsanlar �� U�lu M�zrak'�n pe�inde.
+
+1084
+01:28:07,871 --> 01:28:10,373
+Onu nereden buldun, k���k han�m?
+
+1085
+01:28:10,540 --> 01:28:11,540
+Bu defteri biliyorum.
+
+1086
+01:28:11,541 --> 01:28:14,711
+Y�llar �nce bir �talyan gemisinden �al�nd�.
+
+1087
+01:28:15,045 --> 01:28:17,714
+�al�nd� m�? Hay�r, kar��t�r�yorsunuz.
+
+1088
+01:28:18,089 --> 01:28:22,218
+Yanl�� hat�rlam�yorsam kapa��nda
+bir yakut vard�.
+
+1089
+01:28:24,929 --> 01:28:26,556
+Bunu bana babam verdi...
+
+1090
+01:28:26,890 --> 01:28:28,892
+...o da belli ki bir bilim insan�yd�.
+
+1091
+01:28:30,977 --> 01:28:32,937
+Belli ki basit bir h�rs�zm��.
+
+1092
+01:28:34,564 --> 01:28:38,401
+Babam�n hat�ras� bir korsan�n
+s�zleriyle lekelenmez.
+
+1093
+01:28:38,818 --> 01:28:40,278
+Bu g�nl�k do�u�tan benim.
+
+1094
+01:28:40,779 --> 01:28:43,406
+Yetimhanenin merdivenlerine
+benim i�in b�rak�ld�.
+
+1095
+01:28:43,573 --> 01:28:45,291
+�st�nde yaln�zca ad�m yaz�yordu, o kadar.
+
+1096
+01:28:45,658 --> 01:28:47,952
+Demek yetimsin.
+
+1097
+01:28:48,495 --> 01:28:49,913
+Ad�n nedir?
+
+1098
+01:28:52,248 --> 01:28:54,918
+Ad�m� en parlak Kuzey y�ld�z�ndan ald�m.
+
+1099
+01:29:01,132 --> 01:29:03,426
+O zaman ad�n Carina.
+
+1100
+01:29:03,593 --> 01:29:04,636
+Carina Smyth.
+
+1101
+01:29:06,429 --> 01:29:08,264
+Demek y�ld�zlar� biliyorsun.
+
+1102
+01:29:09,349 --> 01:29:10,934
+Ben bir kaptan�m.
+
+1103
+01:29:14,312 --> 01:29:17,190
+Eve gitmek i�in hangi y�ld�z�
+izleyece�imi bilirim.
+
+1104
+01:30:00,150 --> 01:30:01,317
+Smyth.
+
+1105
+01:30:02,485 --> 01:30:04,404
+Smyth �ok s�ra d��� bir soyad�.
+
+1106
+01:30:05,905 --> 01:30:07,198
+Bir zamanlar...
+
+1107
+01:30:07,365 --> 01:30:09,159
+...Smyth diye birini tan�mam�� m�yd�k?
+
+1108
+01:30:09,325 --> 01:30:10,744
+Kapa �eneni.
+
+1109
+01:30:10,910 --> 01:30:14,831
+Ad� neydi kad�n�n?
+Dilimin ucunda.
+
+1110
+01:30:15,498 --> 01:30:16,708
+Dilini kaybetmek mi istiyorsun?
+
+1111
+01:30:16,875 --> 01:30:18,376
+Margaret Smyth.
+
+1112
+01:30:20,337 --> 01:30:22,088
+Anla�ma yapal�m m�?
+
+1113
+01:30:22,255 --> 01:30:27,010
+Yoksa malum ki�iye ikimizin de
+bildi�i ger�e�i anlatay�m m�?
+
+1114
+01:30:27,177 --> 01:30:29,679
+�kimiz de bu s�rr� mezara g�t�rece�iz.
+
+1115
+01:30:29,846 --> 01:30:31,431
+Yani ger�ek mi? Bl�f yap�yorum.
+
+1116
+01:30:31,598 --> 01:30:32,598
+Ben yapm�yorum.
+
+1117
+01:30:32,682 --> 01:30:36,061
+Beni �ld�r�rsen �l�lerle
+pazarl�k yapacak bir �eyin kalmaz.
+
+1118
+01:30:36,227 --> 01:30:38,521
+Bana ihtiyac�n var.
+
+1119
+01:30:39,189 --> 01:30:41,358
+A��k konu�aca��m Hector.
+
+1120
+01:30:41,524 --> 01:30:44,027
+Sen �ok, �ok �irkinsin.
+
+1121
+01:30:44,194 --> 01:30:48,615
+Nas�l oluyor da d�nyaya b�yle
+b�y�leyici bir yarat�k getirebiliyorsun?
+
+1122
+01:30:48,782 --> 01:30:50,450
+Margaret �ld�.
+
+1123
+01:30:50,617 --> 01:30:53,953
+Bir hay�rs�z�n elinden
+gelebildi�i kadar onurlu davrand�m.
+
+1124
+01:30:54,120 --> 01:30:56,039
+�ocu�u bir yetimhaneye yerle�tirdim...
+
+1125
+01:30:56,206 --> 01:30:57,582
+...bir daha onu g�rmemek �zere.
+
+1126
+01:30:57,749 --> 01:31:00,585
+Yakut hayat�n� kolayla�t�rmaya
+yeter sand�m...
+
+1127
+01:31:00,752 --> 01:31:03,546
+...ama o karalamalar� al�p
+kendine bir hayat kuraca��...
+
+1128
+01:31:03,713 --> 01:31:05,382
+...akl�m�n ucundan bile ge�medi.
+
+1129
+01:31:06,466 --> 01:31:08,551
+Onu bana geri getiren bir hayat.
+
+1130
+01:31:11,221 --> 01:31:15,892
+Bence bu beni �ok avantajl�
+bir konuma koydu, babac�k.
+
+1131
+01:31:16,059 --> 01:31:17,435
+Ne istiyorsun s�yle.
+
+1132
+01:31:17,602 --> 01:31:19,562
+Pusulam� istiyorum.
+
+1133
+01:31:19,729 --> 01:31:22,941
+216 f��� rom.
+
+1134
+01:31:24,275 --> 01:31:25,652
+Ve maymunu.
+
+1135
+01:31:25,819 --> 01:31:26,903
+Jack'i mi istiyorsun?
+
+1136
+01:31:27,070 --> 01:31:29,572
+Yemek i�in. Onu yemek istiyorum.
+O maymunu yemek istiyorum.
+
+1137
+01:31:30,323 --> 01:31:31,658
+Anla�amad�k Jack.
+
+1138
+01:31:31,825 --> 01:31:34,285
+Onun gibi zeki gen� bir kad�n
+benim gibi bir domuzla...
+
+1139
+01:31:34,452 --> 01:31:38,123
+...ayn� kan� ta��d���na asla inanmaz.
+
+1140
+01:31:40,667 --> 01:31:42,919
+Ve �� U�lu M�zrak benim olacak.
+
+1141
+01:31:53,930 --> 01:31:55,265
+K�rm�z� ceketliler!
+
+1142
+01:31:56,266 --> 01:31:57,976
+K�rm�z� ceketliler!
+
+1143
+01:32:00,603 --> 01:32:02,355
+Ate�e haz�r olun!
+
+1144
+01:32:02,522 --> 01:32:04,691
+Ate�e haz�r olun!
+
+1145
+01:32:04,858 --> 01:32:06,651
+Silah ba��na!
+
+1146
+01:32:11,614 --> 01:32:13,366
+Sancaktan geliyor.
+
+1147
+01:32:14,034 --> 01:32:16,119
+Sonuna kadar sava�aca��z.
+
+1148
+01:32:16,286 --> 01:32:19,289
+Bir daha kimse <i>�nci'yi</i> benden alamaz.
+
+1149
+01:32:24,294 --> 01:32:25,462
+Efendim.
+
+1150
+01:32:30,342 --> 01:32:34,054
+Denize yaln�zca
+Britanya �mparatorlu�u h�kmedebilir.
+
+1151
+01:33:08,213 --> 01:33:11,549
+Ne olursa olsun rotadan ayr�lma.
+
+1152
+01:33:37,367 --> 01:33:39,202
+Jack Sparrow!
+
+1153
+01:33:40,245 --> 01:33:44,749
+Jack Sparrow.
+Kay�p listesiyle birlikte geldim.
+
+1154
+01:33:48,795 --> 01:33:50,255
+Nerede o?
+
+1155
+01:33:52,924 --> 01:33:56,469
+Savunun kendinizi. �l�m�ne!
+
+1156
+01:33:59,723 --> 01:34:02,559
+Acele et dostum.
+Neyle biledin onu? Tereya�� m�?
+
+1157
+01:34:23,830 --> 01:34:25,331
+Ka�acak yerin yok.
+
+1158
+01:34:41,306 --> 01:34:44,517
+Cesur olal�m. <i>�nci'yi</i> koruyun!
+
+1159
+01:34:53,109 --> 01:34:54,444
+��te bu olmal�.
+
+1160
+01:34:57,447 --> 01:34:58,698
+Burada olmal�.
+
+1161
+01:34:58,865 --> 01:35:00,158
+Bul o kara par�as�n�.
+
+1162
+01:35:00,325 --> 01:35:01,618
+Yoksa hepimiz �l�r�z.
+
+1163
+01:35:02,494 --> 01:35:03,787
+Neredeyse geldik!
+
+1164
+01:35:04,829 --> 01:35:06,790
+Burada bir yerde.
+
+1165
+01:36:27,620 --> 01:36:29,539
+Arad���n�z� hala bulamad�n�z m�
+k���k han�m?
+
+1166
+01:36:29,706 --> 01:36:31,374
+U�ra��yorum!
+
+1167
+01:36:35,211 --> 01:36:36,755
+Yak�nda y�ld�zlar kaybolacak.
+
+1168
+01:37:06,743 --> 01:37:07,743
+Carina!
+
+1169
+01:37:08,495 --> 01:37:10,330
+Henry, bak!
+
+1170
+01:37:10,497 --> 01:37:11,915
+Ada orada.
+
+1171
+01:37:12,332 --> 01:37:13,333
+Aday� buldun!
+
+1172
+01:37:24,177 --> 01:37:25,428
+Ada.
+
+1173
+01:37:31,309 --> 01:37:32,352
+Kara.
+
+1174
+01:37:33,603 --> 01:37:35,438
+<i>Mary'ye</i> ge�in!
+
+1175
+01:37:51,371 --> 01:37:52,539
+Carina!
+
+1176
+01:38:08,972 --> 01:38:10,306
+Carina!
+
+1177
+01:38:13,309 --> 01:38:14,352
+Henry!
+
+1178
+01:38:28,158 --> 01:38:29,200
+Henry'yi g�t�rd�ler!
+
+1179
+01:38:29,576 --> 01:38:31,995
+Art�k onu ancak M�zrak kurtarabilir.
+
+1180
+01:38:32,162 --> 01:38:33,496
+O zaman onu bulmal�y�z.
+
+1181
+01:38:53,600 --> 01:38:54,851
+Nerede peki?
+
+1182
+01:38:59,356 --> 01:39:01,107
+Burada olmal�.
+
+1183
+01:39:32,889 --> 01:39:34,307
+�una bak Jack.
+
+1184
+01:39:35,266 --> 01:39:37,727
+Bu hayat�mda g�rd���m
+en g�zel �ey.
+
+1185
+01:39:37,894 --> 01:39:39,979
+Babam�n bulmam� istedi�i �ey buydu.
+
+1186
+01:39:40,146 --> 01:39:41,146
+Kayalar m�?
+
+1187
+01:39:41,231 --> 01:39:42,732
+Hay�r, kayalar de�il.
+
+1188
+01:39:43,149 --> 01:39:44,484
+Y�ld�zlar.
+
+1189
+01:39:45,068 --> 01:39:47,278
+Bu <i>Kimsenin Okuyamad��� Harita.</i>
+
+1190
+01:39:48,405 --> 01:39:52,575
+Bu ada g�ky�z�n�n
+kusursuz bir yans�mas�.
+
+1191
+01:40:00,125 --> 01:40:01,126
+Bir y�ld�z eksik.
+
+1192
+01:40:01,751 --> 01:40:02,751
+�abuk!
+
+1193
+01:40:03,670 --> 01:40:05,755
+Henry'yi kurtarmak i�in
+M�zrak'� bulmal�y�z.
+
+1194
+01:40:05,922 --> 01:40:09,926
+Hector, haberin olsun
+o bir horolojist.
+
+1195
+01:40:37,162 --> 01:40:38,830
+Neden parlam�yor?
+
+1196
+01:40:40,498 --> 01:40:42,292
+Tamamla Carina.
+
+1197
+01:40:48,548 --> 01:40:51,134
+Kay�p y�ld�z.
 
 1198
-17,424 55 01:55:14,262 --> 01::
-- Henry?
-- Evet baba.
+01:40:51,718 --> 01:40:53,011
+Babam i�in.
 
 1199
-28,224 01:55:26,262 --> 01:55:
-Gerçekten oğlun...
+01:40:54,387 --> 01:40:55,388
+Evet.
 
 1200
-33,984 55 01:55:32,662 --> 01::
-Nasıl yaptın?
+01:40:56,806 --> 01:40:58,516
+Onun i�in yap.
 
 1201
-38,744 55 01:55:36,022 --> 01::
-- Bu laneti nasıl yaptın?
-- Size bir hikaye anlatacağım.
+01:42:29,190 --> 01:42:30,190
+Bak.
 
 1202
-01:55:39,462 --> 01:55:41,944
-En büyük hikayesi
-görülen o hazineyi.
+01:42:31,109 --> 01:42:33,236
+Poseidon'un mezar�.
 
 1203
-01:55:42,022 --> 01:55:43,704
-Duymak istiyorum bu hikayeyi.
+01:42:33,528 --> 01:42:35,030
+Bu taraftan.
 
 1204
-44,704 56 01:56:42,662 --> 01::
-Ama o ne iğrenç bir manzara.
+01:42:37,782 --> 01:42:39,409
+Kaptan, tehlikeyi biliyorsun.
 
 1205
-01:56:44,738 --> 01:56:45,738
-Aç kapıyı!
+01:42:39,576 --> 01:42:40,577
+Yapmay�n.
 
 1206
-48,504 56 01:56:46,022 --> 01::
-Kaptan Jack Sparrow
-güvertede.
+01:42:40,744 --> 01:42:41,744
+Ba�ka �ans� yok.
 
 1207
-01:56:48,582 --> 01:56:49,582
-Bu doğru.
+01:42:41,786 --> 01:42:43,538
+Jack karada M�zrak'� almaya gidiyor.
 
 1208
-01:56:54,742 --> 01:56:56,104
-Hoş Geldiniz, Kaptan.
+01:42:43,705 --> 01:42:45,040
+Kaptan, ba�ka bir yolu olmal�.
 
 1209
-58,184 56 01:56:56,142 --> 01::
-Çok teşekkürler
-herkes, ben geliyorum.
+01:42:45,206 --> 01:42:47,584
+Ya�ayan birinin bedenine girince
+bunun d�n��� yok.
 
 1210
-01:56:58,462 --> 01:57:01,104
-- Kaptan!
-- Teşekkür ederim, hatırlıyorum.
+01:42:47,751 --> 01:42:50,211
+Sonsuza dek onun bedeninde hapsolacaks�n.
 
 1211
-01:57:01,622 --> 01:57:02,824
-Beyler, teşekkür ederim.
+01:42:50,378 --> 01:42:52,380
+�� U�lu M�zrak beni kurtar�r.
 
 1212
-04,744 01:57:03,702 --> 01:57:
-Gibbs.
+01:42:54,924 --> 01:42:57,093
+Ser�e �ld�rme zaman�.
 
 1213
-06,664 01:57:04,902 --> 01:57:
-Gemi sana Emanet Kaptan...
+01:42:57,260 --> 01:42:58,260
+Hay�r!
 
 1214
-01:57:06,702 --> 01:57:07,702
-Oh, teşekkür ederim!
+01:43:11,775 --> 01:43:13,610
+Bak Jack. ��te orada.
 
 1215
-01:57:19,782 --> 01:57:20,864
-Mono...
+01:43:13,777 --> 01:43:15,904
+�� U�lu M�zrak.
 
 1216
-01:57:28,102 --> 01:57:29,424
-Teşekkürler!
+01:43:21,826 --> 01:43:22,826
+Jack.
 
 1217
-01:57:30,342 --> 01:57:32,424
-Ne dersin Kaptan olacak?
+01:44:01,157 --> 01:44:03,368
+Beni kesersen �ocu�u kesersin Jack.
 
 1218
-01:57:32,542 --> 01:57:34,384
-Yıldızları takip edeceğiz,
+01:44:39,195 --> 01:44:40,238
+Henry!
 
 1219
-01:57:34,422 --> 01:57:35,704
-Gibbs.
+01:45:13,021 --> 01:45:15,190
+Selam, Sparrow.
 
 1220
-01:57:36,102 --> 01:57:37,784
-Sipariş için, Kaptan!
+01:45:16,107 --> 01:45:17,275
+Ah, hay�r.
 
 1221
-01:57:43,782 --> 01:57:48,064
-Sevgili ufuk ötesine bir karşılaşma var.
+01:45:28,870 --> 01:45:31,581
+Sparrow'dan nefret ediyorum.
+Geber Sparrow.
 
 1222
-53,904 01:57:52,622 --> 01:57:
-Evet.
+01:45:38,797 --> 01:45:39,797
+Henry!
+
+1223
+01:45:40,215 --> 01:45:42,717
+Karada y�r�yor. L�tfen.
+
+1224
+01:45:42,884 --> 01:45:44,719
+Uyan Henry.
+
+1225
+01:45:45,804 --> 01:45:47,263
+Defolun!
+
+1226
+01:45:57,107 --> 01:45:58,942
+Henry, uyan. Jack'i �ld�r�yor.
+
+1227
+01:46:09,953 --> 01:46:10,954
+Henry!
+
+1228
+01:46:11,621 --> 01:46:12,621
+Denizin g�c�.
+
+1229
+01:46:12,664 --> 01:46:13,664
+Ne?
+
+1230
+01:46:13,998 --> 01:46:15,250
+Denizin g�c�.
+
+1231
+01:46:16,084 --> 01:46:17,502
+"Denizin g�c�n� serbest b�rakmak i�in...
+
+1232
+01:46:17,669 --> 01:46:18,962
+...her �ey b�l�nmeli."
+
+1233
+01:46:25,760 --> 01:46:27,470
+B�t�n g�� M�zrak'taysa o zaman...
+
+1234
+01:46:27,637 --> 01:46:29,431
+O zaman b�t�n lanetler de i�inde.
+
+1235
+01:46:30,598 --> 01:46:32,684
+Daha �nce dedi�im gibi...
+
+1236
+01:46:32,851 --> 01:46:35,645
+...bana �imdi teslim olursan
+ya�amana izin...
+
+1237
+01:46:36,604 --> 01:46:37,605
+...veririm.
+
+1238
+01:46:37,981 --> 01:46:39,315
+Teslim olmam� m� istiyorsun?
+
+1239
+01:46:41,551 --> 01:46:42,551
+Belki.
+
+1240
+01:46:42,610 --> 01:46:44,320
+Hikaye burada sona eriyor.
+
+1241
+01:46:47,198 --> 01:46:48,198
+Hay�r!
+
+1242
+01:47:01,504 --> 01:47:02,504
+B�l.
+
+1243
+01:47:02,839 --> 01:47:03,839
+Henry!
+
+1244
+01:47:06,843 --> 01:47:07,886
+B�l. K�r.
+
+1245
+01:47:08,053 --> 01:47:09,304
+M�zrak'� k�rarsan...
+
+1246
+01:47:09,471 --> 01:47:10,471
+...denizdeki b�t�n lanetleri bozars�n.
+
+1247
+01:47:58,812 --> 01:48:00,605
+B�t�n lanetler bozuldu.
+
+1248
+01:48:21,084 --> 01:48:23,503
+Kanl� canl�y�z!
+
+1249
+01:48:40,478 --> 01:48:41,478
+<i>�nci!</i>
+
+1250
+01:48:41,646 --> 01:48:42,646
+<i>�nci!</i>
+
+1251
+01:48:42,772 --> 01:48:43,815
+T�rman�n!
+
+1252
+01:48:43,982 --> 01:48:46,443
+Hadi! �abuk!
+
+1253
+01:48:49,612 --> 01:48:50,989
+Sabit tutun arkada�lar!
+
+1254
+01:48:51,156 --> 01:48:52,532
+Kaymas�na izin vermeyin!
+
+1255
+01:48:57,704 --> 01:48:58,788
+Jack!
+
+1256
+01:49:00,957 --> 01:49:02,000
+Atlay�n!
+
+1257
+01:49:02,167 --> 01:49:03,460
+Daha �abuk!
+
+1258
+01:49:16,348 --> 01:49:18,808
+Yukar�! Demir al�n!
+
+1259
+01:49:18,975 --> 01:49:20,352
+�apay� yukar� �ekin! �abuk!
+
+1260
+01:49:20,894 --> 01:49:22,062
+Durun! Durun! Yukar� ��kar�n!
+
+1261
+01:49:22,228 --> 01:49:24,397
+Yukar� ��kar�n!
+Yukar� ��kar�n! Hadi!
+
+1262
+01:49:29,027 --> 01:49:30,653
+Yukar� ��kar�n!
+
+1263
+01:50:09,526 --> 01:50:11,069
+Kahretsin!
+
+1264
+01:50:32,882 --> 01:50:34,050
+Tuttum seni!
+
+1265
+01:50:37,220 --> 01:50:38,221
+Daha kuvvetli.
+
+1266
+01:50:56,072 --> 01:50:57,699
+Senin i�in ben neyim?
+
+1267
+01:51:00,410 --> 01:51:01,745
+Hazinesin.
+
+1268
+01:51:12,964 --> 01:51:14,090
+S�k� tutun!
+
+1269
+01:51:17,302 --> 01:51:18,720
+Hector!
+
+1270
+01:52:34,129 --> 01:52:36,172
+Sancak taraf�n� tutun!
+
+1271
+01:53:01,656 --> 01:53:04,409
+Korsan hayat� i�te, Hector.
+
+1272
+01:53:39,861 --> 01:53:41,404
+�yi misin?
+
+1273
+01:53:42,530 --> 01:53:43,948
+Bilmiyorum.
+
+1274
+01:53:44,115 --> 01:53:46,951
+Bir an i�in her �eye sahiptim Henry.
+
+1275
+01:53:48,745 --> 01:53:50,413
+�imdi hepsi gitti yine.
+
+1276
+01:53:50,580 --> 01:53:53,124
+Hepsi gitmedi Bayan Smyth.
+
+1277
+01:54:06,596 --> 01:54:07,931
+Barbossa.
+
+1278
+01:54:09,391 --> 01:54:11,101
+Benim soyad�m Barbossa.
+
+1279
+01:54:53,143 --> 01:54:55,145
+Belki Jack hakl�yd�.
+
+1280
+01:54:55,311 --> 01:54:56,938
+Ne konuda?
+
+1281
+01:54:57,105 --> 01:54:58,481
+Dinmek bilmeyen ka��nt�.
+
+1282
+01:55:02,402 --> 01:55:03,570
+Bunu neden yapt�n?
+
+1283
+01:55:03,737 --> 01:55:05,613
+Ger�ekten sen misin kontrol ediyorum.
+
+1284
+01:55:05,780 --> 01:55:07,323
+Hala hayalet olmad���n�.
+
+1285
+01:55:08,450 --> 01:55:09,450
+Benim.
+
+1286
+01:55:09,659 --> 01:55:10,744
+O zaman ben...
+
+1287
+01:55:10,910 --> 01:55:11,910
+Yan�ld�n.
+
+1288
+01:55:11,995 --> 01:55:14,080
+Biraz hatal�y�m. Ger�i...
+
+1289
+01:55:21,338 --> 01:55:23,006
+�zr�n kabul edildi.
+
+1290
+01:55:36,603 --> 01:55:37,854
+<i>Hollandal�.</i>
+
+1291
+01:56:13,473 --> 01:56:14,474
+Henry.
+
+1292
+01:56:15,558 --> 01:56:16,643
+Evet, baba.
+
+1293
+01:56:25,735 --> 01:56:27,529
+Dur sana bir bakay�m.
+
+1294
+01:56:31,908 --> 01:56:33,243
+Bunu nas�l yapt�n?
+
+1295
+01:56:35,203 --> 01:56:36,496
+Laneti nas�l bozdun?
+
+1296
+01:56:36,663 --> 01:56:38,331
+Sana bir hikaye anlatay�m.
+
+1297
+01:56:38,748 --> 01:56:41,001
+Bilinen en b�y�k hazinenin hikayesi.
+
+1298
+01:56:41,167 --> 01:56:43,169
+Bu hikayeyi dinlemek isterim.
+
+1299
+01:57:41,770 --> 01:57:43,646
+Ne kadar i�ren� bir manzara.
+
+1300
+01:57:43,813 --> 01:57:44,813
+Yol a��n!
+
+1301
+01:57:45,273 --> 01:57:47,150
+Kaptan Jack Sparrow g�vertede!
+
+1302
+01:57:47,817 --> 01:57:48,818
+Aynen!
+
+1303
+01:57:54,115 --> 01:57:55,158
+Tekrar ho� geldiniz Kaptan.
+
+1304
+01:57:55,325 --> 01:57:57,243
+�ok te�ekk�r ederim.
+A��l�n.
+
+1305
+01:57:57,410 --> 01:57:58,411
+Kaptan!
+
+1306
+01:57:58,578 --> 01:57:59,578
+Te�ekk�r ederim.
+
+1307
+01:57:59,579 --> 01:58:00,579
+Seni hat�rl�yorum.
+
+1308
+01:58:00,580 --> 01:58:01,790
+Beyler. Te�ekk�r ederim.
+
+1309
+01:58:01,956 --> 01:58:03,958
+G�zel. Amir Gibbs.
+
+1310
+01:58:04,125 --> 01:58:05,669
+Gemi sizindir, Kaptan.
+
+1311
+01:58:05,835 --> 01:58:06,961
+Te�ekk�r ederim.
+
+1312
+01:58:19,099 --> 01:58:20,350
+Maymun.
+
+1313
+01:58:27,440 --> 01:58:28,775
+Te�ekk�r ederim.
+
+1314
+01:58:29,526 --> 01:58:31,695
+Nereye gidiyoruz Kaptan?
+
+1315
+01:58:31,861 --> 01:58:34,781
+Y�ld�zlar� takip edece�iz, Amir Gibbs.
+
+1316
+01:58:34,948 --> 01:58:37,617
+Ba��st�ne Kaptan!
+
+1317
+01:58:43,123 --> 01:58:47,127
+Sevgili ufkumun �tesinde
+randevum var.
+
+1318
+02:00:10,335 --> 02:00:14,673
+<b>KARAY�P KORSANLARI
+SALAZAR'IN �NT�KAMI</b>
+
